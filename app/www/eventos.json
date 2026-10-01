@@ -1,0 +1,322 @@
+{
+  "actualizado": "2026-10-01T10:00:00+02:00",
+  "eventos": [
+    {
+      "id": "2026-10-01-pacifica-desierto-rojo",
+      "titulo": "Pacífica",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-01",
+      "lugar": "Sala El Desierto Rojo",
+      "descripcion": "Concierto de Pacífica en la sala El Desierto Rojo.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-oscyl-programa-1",
+      "titulo": "OSCyL · Programa 1 de la temporada 26-27",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-01",
+      "fecha_fin": "2026-10-02",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Arranque de temporada de la Orquesta Sinfónica de Castilla y León (dos turnos, 1 y 2 de octubre).",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-02-abraham-cupeiro-carrion",
+      "titulo": "Abraham Cupeiro",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-02",
+      "lugar": "Teatro Carrión",
+      "descripcion": "El multiinstrumentista gallego de instrumentos antiguos.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-kiko-veneno-carrion",
+      "titulo": "Kiko Veneno",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-03",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Concierto de Kiko Veneno.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-04-midori-recital",
+      "titulo": "Recital 1: Midori",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-04",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Recital de violín de Midori dentro del ciclo de música de cámara.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-04-dj-symphonic",
+      "titulo": "DJ Symphonic & Royal Film Concert Orchestra",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-04",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Música electrónica y orquesta sinfónica en el mismo escenario.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-09-shinova-carrion",
+      "titulo": "Shinova",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-09",
+      "fecha_fin": "2026-10-10",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Dos noches de Shinova en el Carrión (9 y 10 de octubre).",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-09-maki-maria",
+      "titulo": "Maki & María · Tour 20 Conmigo",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-09",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Recital de la gira 20 Conmigo.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-09-feria-outlet",
+      "titulo": "Feria Outlet Valladolid",
+      "categoria": "ferias",
+      "fecha_inicio": "2026-10-09",
+      "fecha_fin": "2026-10-11",
+      "lugar": "Feria de Valladolid",
+      "descripcion": "Feria de compras con descuentos de comercios locales.",
+      "url": "https://feriavalladolid.com/calendario-ferial/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-10-arroyo-indie",
+      "titulo": "Arroyo Indie Festival 2026",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-10",
+      "lugar": "Arroyo Esfera (Arroyo de la Encomienda)",
+      "descripcion": "Festival de música indie de un día.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-10-daydreams-danza",
+      "titulo": "Daydreams",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-10",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Espectáculo de danza.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-11-odisea-film-symphony",
+      "titulo": "Odisea · Film Symphony Orchestra",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-11",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Bandas sonoras de cine interpretadas en directo.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-homenaje-delibes-piano",
+      "titulo": "Homenaje a Delibes",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-17",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Recital de piano en homenaje a Miguel Delibes.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-experiencia-mecano",
+      "titulo": "No tienes nada que perder · Una experiencia Mecano",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-17",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Espectáculo tributo a Mecano.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-de-boda",
+      "titulo": "De Boda Valladolid",
+      "categoria": "ferias",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-10-18",
+      "lugar": "Feria de Valladolid",
+      "descripcion": "Feria de proveedores para bodas, bautizos y comuniones.",
+      "url": "https://feriavalladolid.com/calendario-ferial/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-18-sergio-dalma",
+      "titulo": "Sergio Dalma",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-18",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Concierto de Sergio Dalma.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-18-lugansky-repin",
+      "titulo": "Recital 2: Nikolai Lugansky y Vadim Repin",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-18",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Piano y violín: música de cámara con dos figuras internacionales.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-18-musica-bebes",
+      "titulo": "Talleres de música para bebés",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-18",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Taller musical para los más pequeños.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-21-mercartes",
+      "titulo": "MERCARTES · Mercado de las Artes Escénicas",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-21",
+      "fecha_fin": "2026-10-23",
+      "lugar": "Valladolid",
+      "descripcion": "Encuentro profesional de artes escénicas con muestras de compañías.",
+      "url": "https://www.moloon.es/blog/ferias-valladolid/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-23-seminci-71",
+      "titulo": "71ª Seminci · Semana Internacional de Cine",
+      "categoria": "cine",
+      "fecha_inicio": "2026-10-23",
+      "fecha_fin": "2026-10-31",
+      "lugar": "Teatro Calderón y otras sedes",
+      "descripcion": "El festival de cine de Valladolid. Proyecciones en el Calderón, Zorrilla, Carrión, Broadway, Cervantes, Fundos, Miguel Delibes y Espacio Seminci.",
+      "url": "https://www.seminci.com/agenda/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-24-tanxugueiras",
+      "titulo": "Tanxugueiras",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-24",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Tanxugueiras.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-24-funzo",
+      "titulo": "Funzo",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-24",
+      "lugar": "Sala Lava",
+      "descripcion": "Concierto de Funzo.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-24-federico-teatro",
+      "titulo": "Federico. No hay olvido, ni sueño: carne viva",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-24",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Obra de teatro sobre Federico García Lorca.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-25-dmana-tributo",
+      "titulo": "Amar es combatir · 20 aniversario by +DMANÁ",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-25",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Tributo a Maná.",
+      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-07-malu-arroyo",
+      "titulo": "Malú",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-07",
+      "lugar": "Arroyo Esfera (Arroyo de la Encomienda)",
+      "descripcion": "Concierto de Malú.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-07-chiquita-movida",
+      "titulo": "Chiquita Movida",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-07",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Chiquita Movida.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-13-hens",
+      "titulo": "Hens",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-13",
+      "lugar": "Sala El Desierto Rojo",
+      "descripcion": "Concierto de Hens.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-21-belen-aguilera",
+      "titulo": "Belén Aguilera",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-21",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Concierto de Belén Aguilera.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-21-fyahbwoy",
+      "titulo": "Fyahbwoy",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-21",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Fyahbwoy.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-21-anabel-lee",
+      "titulo": "Anabel Lee",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-21",
+      "lugar": "Sala El Desierto Rojo",
+      "descripcion": "Concierto de Anabel Lee.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-09-03-altacalle-apertura",
+      "titulo": "AltaCalle abre junto al Mercado del Val",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-09-03",
+      "lugar": "Junto al Mercado del Val",
+      "descripcion": "Nuevo restaurante de comida callejera de distintos países con técnicas de alta cocina. Platos de 3,90 a 20 €.",
+      "precio": "3,90 – 20 €",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20260913/vanessa-alex-duenos-nuevo-restaurante-precio-platos-va-euros-trt/1003744378046_0.html",
+      "anadido": "2026-10-01"
+    }
+  ]
+}

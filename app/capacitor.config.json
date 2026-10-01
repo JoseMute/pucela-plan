@@ -1,0 +1,8 @@
+{
+  "appId": "es.jgarcia.pucelaplan",
+  "appName": "Pucela Plan",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}

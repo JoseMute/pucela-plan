@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Pucela Plan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&display=swap">
+<style>
+/* Layout: cabecera fija con filtros, lista agrupada por día, ficha en hoja inferior, barra de pestañas abajo */
+:root {
+  --bg: #f6f5f9;
+  --surface: #ffffff;
+  --ink: #1d1a26;
+  --muted: #6b6578;
+  --line: #e4e1ea;
+  --accent: #5b2a86;        /* violeta pucelano */
+  --accent-ink: #ffffff;
+  --accent-soft: #ece4f4;
+  --new: #c2410c;
+  --c-conciertos: #7c3aed;
+  --c-aperturas: #b45309;
+  --c-escena: #be185d;
+  --c-cine: #0f766e;
+  --c-exposiciones: #1d4ed8;
+  --c-ferias: #a16207;
+  --c-gastronomia: #c2410c;
+  --c-deporte: #15803d;
+  --c-familia: #0e7490;
+  --c-otros: #57534e;
+  --display: "Bricolage Grotesque", "Segoe UI", Roboto, system-ui, sans-serif;
+  --body: "Figtree", Roboto, "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14111a;
+    --surface: #1e1a26;
+    --ink: #efecf4;
+    --muted: #a39cb0;
+    --line: #322c3d;
+    --accent: #b58be0;
+    --accent-ink: #1a0f26;
+    --accent-soft: #2e2240;
+    --new: #fb923c;
+    --c-conciertos: #a78bfa;
+    --c-aperturas: #fbbf24;
+    --c-escena: #f472b6;
+    --c-cine: #2dd4bf;
+    --c-exposiciones: #93c5fd;
+    --c-ferias: #facc15;
+    --c-gastronomia: #fb923c;
+    --c-deporte: #4ade80;
+    --c-familia: #67e8f9;
+    --c-otros: #d6d3d1;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--bg); color: var(--ink);
+  font: 15px/1.45 var(--body);
+  overscroll-behavior-y: contain;
+}
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+[hidden] { display: none !important; }
+
+header {
+  position: sticky; top: 0; z-index: 5;
+  background: var(--bg);
+  padding: calc(env(safe-area-inset-top, 0px) + 14px) 16px 8px;
+  border-bottom: 1px solid var(--line);
+}
+.top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+h1 { font: 800 26px/1 var(--display); letter-spacing: -0.02em; margin: 0; }
+h1 span { color: var(--accent); }
+.updated { font-size: 12px; color: var(--muted); text-align: right; }
+.updated button { color: var(--accent); font-weight: 600; font-size: 12px; padding: 4px 0; }
+
+.search { margin-top: 12px; position: relative; }
+.search input {
+  width: 100%; padding: 10px 12px 10px 36px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  font: inherit;
+}
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+
+.chips { display: flex; gap: 6px; overflow-x: auto; padding: 10px 0 2px; scrollbar-width: none; margin: 0 -16px; padding-inline: 16px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; padding: 6px 12px; border-radius: 999px; font-size: 13px; font-weight: 500;
+  border: 1px solid var(--line); background: var(--surface); white-space: nowrap;
+}
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.chip .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+.chips.when .chip { font-size: 12.5px; padding: 5px 10px; }
+
+main { padding: 6px 16px calc(env(safe-area-inset-bottom, 0px) + 88px); }
+.day {
+  font: 600 12px/1 var(--body); text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); margin: 20px 0 8px; display: flex; gap: 8px; align-items: center;
+}
+.day::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.day.today { color: var(--accent); }
+
+.list { display: flex; flex-direction: column; gap: 8px; }
+.card {
+  display: grid; grid-template-columns: 48px 1fr auto; gap: 12px; align-items: center;
+  text-align: left; width: 100%;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px;
+}
+.date {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  height: 48px; border-radius: 8px; background: var(--accent-soft);
+  font-variant-numeric: tabular-nums;
+}
+.date b { font: 800 19px/1 var(--display); }
+.date small { font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-top: 2px; }
+.info { min-width: 0; }
+.title { font-weight: 600; font-size: 15px; line-height: 1.25; overflow-wrap: anywhere; }
+.meta { font-size: 12.5px; color: var(--muted); margin-top: 3px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.tag { font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; }
+.badge-new { font-size: 10.5px; font-weight: 700; color: var(--new); text-transform: uppercase; letter-spacing: 0.06em; }
+.fav { padding: 8px; margin: -8px; color: var(--muted); }
+.fav[aria-pressed="true"] { color: var(--accent); }
+
+.empty { text-align: center; color: var(--muted); padding: 48px 12px; }
+.empty strong { display: block; color: var(--ink); font: 600 17px/1.3 var(--display); margin-bottom: 6px; }
+
+nav.tabs {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 6;
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  background: var(--surface); border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+nav.tabs button { padding: 10px 4px 12px; display: flex; flex-direction: column; align-items: center; gap: 3px; font-size: 12px; color: var(--muted); position: relative; }
+nav.tabs button[aria-selected="true"] { color: var(--accent); font-weight: 600; }
+nav.tabs .count { position: absolute; top: 6px; left: calc(50% + 8px); background: var(--new); color: #fff; font-size: 10px; font-weight: 700; border-radius: 999px; padding: 1px 5px; }
+
+.sheet-backdrop { position: fixed; inset: 0; background: rgb(0 0 0 / 0.4); z-index: 10; }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 11;
+  background: var(--surface); border-radius: 18px 18px 0 0;
+  padding: 10px 20px calc(env(safe-area-inset-bottom, 0px) + 20px);
+  max-height: 85vh; overflow-y: auto;
+  animation: up .2s ease-out;
+}
+@keyframes up { from { transform: translateY(30px); opacity: .6; } }
+@media (prefers-reduced-motion: reduce) { .sheet { animation: none; } }
+.grab { width: 40px; height: 4px; border-radius: 2px; background: var(--line); margin: 0 auto 14px; }
+.sheet h2 { font: 800 23px/1.15 var(--display); letter-spacing: -0.01em; margin: 6px 0 12px; text-wrap: balance; }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; font-size: 14px; margin: 0 0 14px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.sheet p { margin: 0 0 18px; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn { padding: 10px 14px; border-radius: 10px; font-weight: 600; font-size: 14px; border: 1px solid var(--line); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+
+.settings label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+.settings input { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 13px/1.3 ui-monospace, monospace; }
+.settings .note { font-size: 12.5px; color: var(--muted); margin: 10px 0 16px; }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(env(safe-area-inset-bottom, 0px) + 76px); background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 8px; font-size: 13px; z-index: 20; max-width: calc(100% - 32px); }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>Pucela <span>Plan</span></h1>
+    <div class="updated"><div id="updated">Cargando…</div><button id="refresh" type="button">Actualizar</button> · <button id="open-settings" type="button">Ajustes</button></div>
+  </div>
+  <div class="search">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="Buscar artista, sala, sitio…" autocomplete="off">
+  </div>
+  <div class="chips when" id="when" role="group" aria-label="Cuándo"></div>
+  <div class="chips" id="cats" role="group" aria-label="Categorías"></div>
+</header>
+
+<main id="main"></main>
+
+<nav class="tabs" role="tablist">
+  <button role="tab" data-tab="proximos" aria-selected="true" type="button">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Próximos</button>
+  <button role="tab" data-tab="novedades" aria-selected="false" type="button">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/></svg>Novedades<span class="count" id="new-count" hidden></span></button>
+  <button role="tab" data-tab="guardados" aria-selected="false" type="button">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>Guardados</button>
+</nav>
+
+<div id="sheet-root"></div>
+<div class="toast" id="toast" hidden></div>
+
+<script src="config.js"></script>
+<script>
+const CATS = {
+  conciertos:   "Conciertos",
+  aperturas:    "Aperturas",
+  escena:       "Teatro y danza",
+  cine:         "Cine",
+  exposiciones: "Exposiciones",
+  ferias:       "Ferias y mercados",
+  gastronomia:  "Gastronomía",
+  deporte:      "Deporte",
+  familia:      "Familia",
+  otros:        "Otros"
+};
+const WHEN = { todo: "Todo", hoy: "Hoy", finde: "Este finde", semana: "7 días", mes: "30 días" };
+const DIAS = ["dom", "lun", "mar", "mié", "jue", "vie", "sáb"];
+const DIAS_L = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+const MESES_L = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
+
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+
+const state = {
+  tab: "proximos",
+  cat: "todas",
+  when: "todo",
+  q: "",
+  data: store.get("data", null),
+  favs: new Set(store.get("favs", [])),
+  seen: new Set(store.get("seen", [])),
+  url: store.get("url", window.PUCELA_DATA_URL)
+};
+
+// ---- fechas ----
+const pad = n => String(n).padStart(2, "0");
+const iso = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+const parse = s => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
+const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
+const today = () => iso(new Date());
+
+function range(when) {
+  const t = new Date(); t.setHours(0, 0, 0, 0);
+  if (when === "hoy") return [iso(t), iso(t)];
+  if (when === "semana") return [iso(t), iso(addDays(t, 6))];
+  if (when === "mes") return [iso(t), iso(addDays(t, 29))];
+  if (when === "finde") {
+    const dow = t.getDay(); // 0 = domingo
+    if (dow === 0) return [iso(t), iso(t)];
+    const start = dow >= 5 ? t : addDays(t, 5 - dow); // viernes
+    return [iso(start), iso(addDays(t, 7 - dow))];   // hasta el domingo
+  }
+  return null;
+}
+
+function endOf(e) { return e.fecha_fin || e.fecha_inicio; }
+
+// Fecha con la que se ordena y agrupa: si ya ha empezado, hoy.
+function showDate(e) {
+  const t = today();
+  if (e.categoria === "aperturas") return e.fecha_inicio;
+  return e.fecha_inicio < t && endOf(e) >= t ? t : e.fecha_inicio;
+}
+
+function isNew(e) { return !state.seen.has(e.id); }
+
+function visible(e) {
+  const t = today();
+  // Las aperturas se quedan 60 días; el resto desaparece cuando termina.
+  if (e.categoria === "aperturas") return iso(addDays(new Date(), -60)) <= e.fecha_inicio;
+  return endOf(e) >= t;
+}
+
+function filtered() {
+  const all = (state.data?.eventos || []).filter(visible);
+  let list = all;
+  if (state.tab === "novedades") list = list.filter(isNew);
+  if (state.tab === "guardados") list = list.filter(e => state.favs.has(e.id));
+  if (state.cat !== "todas") list = list.filter(e => e.categoria === state.cat);
+  const r = range(state.when);
+  if (r) list = list.filter(e => e.fecha_inicio <= r[1] && endOf(e) >= r[0]);
+  if (state.q) {
+    const q = norm(state.q);
+    list = list.filter(e => norm([e.titulo, e.lugar, e.descripcion, CATS[e.categoria]].join(" ")).includes(q));
+  }
+  return list.sort((a, b) => {
+    // Aperturas: más recientes primero; resto: cronológico
+    if (state.tab !== "novedades" && a.categoria === "aperturas" && b.categoria === "aperturas") return b.fecha_inicio.localeCompare(a.fecha_inicio);
+    return showDate(a).localeCompare(showDate(b)) || a.titulo.localeCompare(b.titulo);
+  });
+}
+
+const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+// ---- render ----
+function renderChips() {
+  const counts = {};
+  (state.data?.eventos || []).filter(visible).forEach(e => counts[e.categoria] = (counts[e.categoria] || 0) + 1);
+  const cats = Object.keys(CATS).filter(k => counts[k]);
+  document.getElementById("cats").innerHTML =
+    `<button class="chip" type="button" data-cat="todas" aria-pressed="${state.cat === "todas"}">Todas</button>` +
+    cats.map(k => `<button class="chip" type="button" data-cat="${k}" aria-pressed="${state.cat === k}"><span class="dot" style="background:var(--c-${k})"></span>${CATS[k]}</button>`).join("");
+  document.getElementById("when").innerHTML = Object.entries(WHEN)
+    .map(([k, v]) => `<button class="chip" type="button" data-when="${k}" aria-pressed="${state.when === k}">${v}</button>`).join("");
+}
+
+function dayLabel(s) {
+  const d = parse(s), t = today();
+  if (s === t) return "Hoy";
+  if (s === iso(addDays(new Date(), 1))) return "Mañana";
+  return `${DIAS_L[d.getDay()]} ${d.getDate()} de ${MESES_L[d.getMonth()]}`;
+}
+
+function card(e) {
+  const d = parse(e.fecha_inicio);
+  const multi = e.fecha_fin && e.fecha_fin !== e.fecha_inicio;
+  const fin = multi ? parse(e.fecha_fin) : null;
+  const when = multi ? `hasta el ${fin.getDate()} ${MESES[fin.getMonth()]}` : (e.hora || "");
+  return `<button class="card" type="button" data-id="${esc(e.id)}">
+    <span class="date"><b>${d.getDate()}</b><small>${MESES[d.getMonth()]}</small></span>
+    <span class="info">
+      <span class="title">${esc(e.titulo)}</span>
+      <span class="meta">
+        <span class="tag" style="color:var(--c-${esc(e.categoria)})">${esc(CATS[e.categoria] || e.categoria)}</span>
+        ${isNew(e) ? `<span class="badge-new">Nuevo</span>` : ""}
+        <span>${esc(e.lugar || "")}</span>
+        ${when ? `<span>${esc(when)}</span>` : ""}
+      </span>
+    </span>
+    <span class="fav" role="button" tabindex="0" data-fav="${esc(e.id)}" aria-pressed="${state.favs.has(e.id)}" aria-label="Guardar">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="${state.favs.has(e.id) ? "currentColor" : "none"}" stroke="currentColor" stroke-width="1.8"><path d="M6 3h12v18l-6-4-6 4z"/></svg>
+    </span>
+  </button>`;
+}
+
+function render() {
+  renderChips();
+  const main = document.getElementById("main");
+  const nNew = (state.data?.eventos || []).filter(e => visible(e) && isNew(e)).length;
+  const badge = document.getElementById("new-count");
+  badge.hidden = !nNew; badge.textContent = nNew;
+
+  if (!state.data) {
+    main.innerHTML = `<div class="empty"><strong>Sin datos todavía</strong>Conéctate a internet y pulsa Actualizar.</div>`;
+    return;
+  }
+  const list = filtered();
+  if (!list.length) {
+    const msg = {
+      novedades: ["Estás al día", "Aquí aparecen las actividades añadidas desde la última vez que miraste."],
+      guardados: ["Nada guardado", "Pulsa el marcador de una actividad para guardarla aquí."],
+      proximos: ["No hay nada con estos filtros", "Prueba con otra categoría o con «Todo»."]
+    }[state.tab];
+    main.innerHTML = `<div class="empty"><strong>${msg[0]}</strong>${msg[1]}</div>`;
+    return;
+  }
+
+  let html = "";
+  if (state.tab === "novedades") {
+    html += `<div style="display:flex;justify-content:flex-end;margin-top:12px"><button class="btn" type="button" id="mark-seen">Marcar todo como visto</button></div>`;
+  }
+  const aperturas = state.tab === "proximos" && state.cat === "todas" ? list.filter(e => e.categoria === "aperturas") : [];
+  const rest = aperturas.length ? list.filter(e => e.categoria !== "aperturas") : list;
+  let current = null;
+  for (const e of rest) {
+    const g = showDate(e);
+    if (g !== current) {
+      if (current) html += `</div>`;
+      html += `<div class="day ${g === today() ? "today" : ""}">${dayLabel(g)}</div><div class="list">`;
+      current = g;
+    }
+    html += card(e);
+  }
+  if (current) html += `</div>`;
+  if (aperturas.length) {
+    html += `<div class="day">Abierto hace poco</div><div class="list">${aperturas.map(card).join("")}</div>`;
+  }
+  main.innerHTML = html;
+}
+
+function renderUpdated() {
+  const el = document.getElementById("updated");
+  if (!state.data?.actualizado) { el.textContent = "Sin datos"; return; }
+  const d = new Date(state.data.actualizado);
+  el.textContent = `Datos del ${d.getDate()} ${MESES[d.getMonth()]}, ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+// ---- ficha ----
+function openUrl(url) {
+  const B = window.Capacitor?.Plugins?.Browser;
+  if (B) B.open({ url }); else window.open(url, "_blank", "noopener");
+}
+
+function openSheet(html) {
+  const root = document.getElementById("sheet-root");
+  root.innerHTML = `<div class="sheet-backdrop" data-close></div><div class="sheet" role="dialog" aria-modal="true"><div class="grab"></div>${html}</div>`;
+}
+function closeSheet() { document.getElementById("sheet-root").innerHTML = ""; }
+
+function showEvent(id) {
+  const e = state.data.eventos.find(x => x.id === id);
+  if (!e) return;
+  const d = parse(e.fecha_inicio);
+  let fecha = `${DIAS_L[d.getDay()]} ${d.getDate()} de ${MESES_L[d.getMonth()]}`;
+  if (e.fecha_fin && e.fecha_fin !== e.fecha_inicio) {
+    const f = parse(e.fecha_fin);
+    fecha = `Del ${d.getDate()} de ${MESES_L[d.getMonth()]} al ${f.getDate()} de ${MESES_L[f.getMonth()]}`;
+  }
+  if (e.categoria === "aperturas") fecha = `Abrió el ${d.getDate()} de ${MESES_L[d.getMonth()]}`;
+  const maps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((e.lugar || "") + ", Valladolid")}`;
+  openSheet(`
+    <span class="tag" style="color:var(--c-${esc(e.categoria)})">${esc(CATS[e.categoria] || e.categoria)}</span>
+    <h2>${esc(e.titulo)}</h2>
+    <dl class="facts">
+      <dt>Cuándo</dt><dd>${esc(fecha)}${e.hora ? " · " + esc(e.hora) : ""}</dd>
+      ${e.lugar ? `<dt>Dónde</dt><dd>${esc(e.lugar)}</dd>` : ""}
+      ${e.precio ? `<dt>Precio</dt><dd>${esc(e.precio)}</dd>` : ""}
+    </dl>
+    ${e.descripcion ? `<p>${esc(e.descripcion)}</p>` : ""}
+    <div class="actions">
+      ${e.url ? `<button class="btn primary" type="button" data-open="${esc(e.url)}">Más información</button>` : ""}
+      ${e.lugar ? `<button class="btn" type="button" data-open="${esc(maps)}">Cómo llegar</button>` : ""}
+      <button class="btn" type="button" data-fav="${esc(e.id)}">${state.favs.has(e.id) ? "Quitar de guardados" : "Guardar"}</button>
+    </div>`);
+  if (isNew(e)) { state.seen.add(e.id); saveSeen(); render(); }
+}
+
+function showSettings() {
+  openSheet(`<div class="settings">
+    <h2>Ajustes</h2>
+    <label for="url-input">Dirección de los datos (eventos.json)</label>
+    <input id="url-input" type="url" value="${esc(state.url)}">
+    <p class="note">La tarea diaria sube las actividades a este archivo de GitHub. Solo hace falta cambiarlo si mueves el repositorio.</p>
+    <div class="actions"><button class="btn primary" type="button" id="save-url">Guardar y actualizar</button><button class="btn" type="button" data-close>Cerrar</button></div>
+  </div>`);
+}
+
+function toast(msg) {
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.hidden = false;
+  clearTimeout(toast.t); toast.t = setTimeout(() => t.hidden = true, 2600);
+}
+
+function saveSeen() { store.set("seen", [...state.seen]); }
+
+// ---- datos ----
+function adopt(json) {
+  if (!store.get("initialized", false)) {
+    // Primera vez: todo lo que ya existe cuenta como visto, para que «Novedades» empiece limpio.
+    json.eventos.forEach(e => state.seen.add(e.id));
+    saveSeen();
+    store.set("initialized", true);
+  }
+  state.data = json;
+  store.set("data", json);
+}
+
+async function load(manual) {
+  const btn = document.getElementById("refresh");
+  btn.textContent = "Actualizando…";
+  try {
+    const res = await fetch(state.url + (state.url.includes("?") ? "&" : "?") + "t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const json = await res.json();
+    if (!Array.isArray(json.eventos)) throw new Error("formato");
+    adopt(json);
+    if (manual) toast("Actualizado");
+  } catch (err) {
+    if (!state.data) {
+      // Sin conexión y sin caché: usa la copia incluida en la app.
+      try { adopt(await (await fetch("eventos.json")).json()); } catch {}
+    }
+    toast(manual || !state.data ? "No se pudo descargar. Se muestran los datos guardados." : "Sin conexión: datos guardados");
+  }
+  btn.textContent = "Actualizar";
+  renderUpdated();
+  render();
+}
+
+// ---- eventos ----
+document.addEventListener("click", ev => {
+  const t = ev.target.closest("[data-fav],[data-id],[data-cat],[data-when],[data-tab],[data-open],[data-close],#refresh,#open-settings,#save-url,#mark-seen");
+  if (!t) return;
+  if (t.dataset.fav) {
+    ev.stopPropagation();
+    const id = t.dataset.fav;
+    state.favs.has(id) ? state.favs.delete(id) : state.favs.add(id);
+    store.set("favs", [...state.favs]);
+    render();
+    if (document.querySelector(".sheet")) showEvent(id);
+    return;
+  }
+  if (t.dataset.id) return showEvent(t.dataset.id);
+  if (t.dataset.cat) { state.cat = t.dataset.cat; return render(); }
+  if (t.dataset.when) { state.when = t.dataset.when; return render(); }
+  if (t.dataset.tab) {
+    state.tab = t.dataset.tab;
+    document.querySelectorAll("[data-tab]").forEach(b => b.setAttribute("aria-selected", b === t));
+    window.scrollTo(0, 0);
+    return render();
+  }
+  if (t.dataset.open) return openUrl(t.dataset.open);
+  if ("close" in t.dataset) return closeSheet();
+  if (t.id === "refresh") return load(true);
+  if (t.id === "open-settings") return showSettings();
+  if (t.id === "mark-seen") {
+    (state.data?.eventos || []).forEach(e => state.seen.add(e.id));
+    saveSeen(); return render();
+  }
+  if (t.id === "save-url") {
+    const v = document.getElementById("url-input").value.trim();
+    if (!/^https:\/\//.test(v)) return toast("La dirección tiene que empezar por https://");
+    state.url = v; store.set("url", v); closeSheet(); load(true);
+  }
+});
+
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value.trim(); render(); });
+
+// Botón atrás de Android: cierra la ficha antes de salir.
+window.Capacitor?.Plugins?.App?.addListener("backButton", () => {
+  if (document.querySelector(".sheet")) closeSheet();
+  else window.Capacitor.Plugins.App.exitApp();
+});
+// Al volver a la app, refresca los datos.
+window.Capacitor?.Plugins?.App?.addListener("resume", () => load(false));
+
+renderUpdated();
+render();
+load(false);
+</script>
+</body>
+</html>
