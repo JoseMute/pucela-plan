@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T16:45:00+02:00",
+  "actualizado": "2026-10-01T17:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -327,6 +327,322 @@
       "lugar": "Estadio José Zorrilla",
       "descripcion": "Jornada 9 de LaLiga Hypermotion: el Real Valladolid recibe al Albacete Balompié en casa.",
       "url": "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-hypermotion-real-valladolid-cf-albacete-bp-9",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-festival-tonal",
+      "titulo": "Festival Tónal 2026",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-01",
+      "fecha_fin": "2026-10-03",
+      "lugar": "El Desierto Rojo y LAVA",
+      "descripcion": "Electrónica, post-punk y pop: Pacífica el día 1 en El Desierto Rojo; Ke Lepo & Felix Buff, VVV, Corte!, Taqbir y Joshua Idehen el 2 y 3 en la Sala Blanca del LAVA.",
+      "precio": "15 – 28 €",
+      "url": "https://www.tribunavalladolid.com/noticias/460826/tonal-regresa-a-valladolid-con-tres-dias-de-electronica-post-punk-y-pop-sin-filtros",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-02-la-desconquista",
+      "titulo": "La Desconquista · Ron Lalá",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-02",
+      "fecha_fin": "2026-10-04",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "La compañía de humor y música Ron Lalá abre la temporada del Calderón.",
+      "precio": "10 – 30 €",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-pablo-y-ana",
+      "titulo": "Pablo y Ana",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-04",
+      "lugar": "Teatro Calderón (Sala Delibes)",
+      "descripcion": "Obra de Javier Hernando dentro del ciclo Alternativas.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-dulcinea",
+      "titulo": "Dulcinea, con Paloma San Basilio",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-04",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "Paloma San Basilio protagoniza esta revisión del personaje cervantino.",
+      "precio": "10 – 30 €",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-doncellas-nautilus-lava",
+      "titulo": "«Doncellas» y «Nautilus»",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-04",
+      "lugar": "LAVA",
+      "descripcion": "Dos montajes de artes escénicas en el Laboratorio de las Artes de Valladolid.",
+      "precio": "5,50 – 18 €",
+      "url": "https://www.eldiadevalladolid.com/eventos",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-milla-urbana",
+      "titulo": "Milla Urbana de Valladolid",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-10-03",
+      "lugar": "Acera de Recoletos",
+      "descripcion": "Carrera de una milla (1,6 km) por el centro, con categorías para todas las edades.",
+      "url": "https://trainerday.com/events/es/milla-urbana-valladolid",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-03-vallatarde-vallanoche",
+      "titulo": "Vallatarde y Vallanoche: otoño",
+      "categoria": "otros",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-12-19",
+      "lugar": "Varios espacios de la ciudad",
+      "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
+      "precio": "Gratis",
+      "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-04-legua-guardia-civil",
+      "titulo": "III Legua de la Guardia Civil",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-10-04",
+      "lugar": "Valladolid",
+      "descripcion": "Carrera popular de 6 km, marcha solidaria y carreras infantiles.",
+      "precio": "8 €",
+      "url": "https://running.life/en/event/legua-de-la-guardia-civil-de-valladolid",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-04-scnafamiliar-lava",
+      "titulo": "SCNA Familiar en el LAVA",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-04",
+      "lugar": "LAVA",
+      "descripcion": "Programa de teatro para ir con niños los fines de semana.",
+      "precio": "5,50 €",
+      "url": "https://www.eldiadevalladolid.com/eventos",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-07-hispanidad-mesas-redondas",
+      "titulo": "Mesas redondas «Hispanidad sin complejos»",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-10-07",
+      "fecha_fin": "2026-10-09",
+      "lugar": "Valladolid",
+      "descripcion": "Ciclo de mesas redondas con entrada libre.",
+      "precio": "Gratis",
+      "url": "https://www.eldiadevalladolid.com/eventos",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-09-cuestion-de-tiempo",
+      "titulo": "Cuestión de tiempo · Hermanos Aguilar",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-09",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "Espectáculo de danza.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-14-julio-verne",
+      "titulo": "Julio Verne y el libro de mi abuelo",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-14",
+      "lugar": "Teatro Calderón (Sala Delibes)",
+      "descripcion": "Teatro de Rayuela Producciones para público familiar.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-calentamiento-rocio-molina",
+      "titulo": "Calentamiento · Rocío Molina",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-10-18",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "La bailaora Rocío Molina con su espectáculo de flamenco contemporáneo.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-cuerpos-celestes",
+      "titulo": "Cuerpos celestes · El Conde de Torrefiel",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-10-18",
+      "lugar": "Cementerio del Carmen",
+      "descripcion": "Pieza de artes vivas en un espacio poco habitual: el cementerio del Carmen.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-17-el-monaguillo",
+      "titulo": "El Monaguillo",
+      "categoria": "humor",
+      "fecha_inicio": "2026-10-17",
+      "hora": "20:30",
+      "lugar": "Valladolid",
+      "descripcion": "Espectáculo del humorista malagueño.",
+      "url": "https://www.taquilla.com/espectaculos/humor-monologos",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-18-real-valladolid-eldense",
+      "titulo": "Real Valladolid – Eldense",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-10-18",
+      "hora": "16:30",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Jornada 10 de LaLiga Hypermotion.",
+      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-01-real-valladolid-leganes",
+      "titulo": "Real Valladolid – Leganés",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-01",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Jornada 12 de LaLiga Hypermotion. Día y hora pendientes de confirmar.",
+      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-06-jorge-bolanos",
+      "titulo": "Animal de Compañía · Jorge Bolaños",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-06",
+      "lugar": "Sala Borja",
+      "descripcion": "Monólogo de Jorge Bolaños.",
+      "precio": "18 €",
+      "url": "https://feverup.com/es/valladolid/monologos",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-07-concurso-nacional-tapas",
+      "titulo": "Concurso Nacional de Pinchos y Tapas y Mundial de Tapas",
+      "categoria": "gastronomia",
+      "fecha_inicio": "2026-11-07",
+      "lugar": "Cúpula del Milenio",
+      "descripcion": "Final del XXII Concurso Nacional y X Campeonato Mundial de Tapas Ciudad de Valladolid. Después, las tapas finalistas se pueden probar en bares de la ciudad.",
+      "url": "https://concursonacionaltapas.com/valladolid/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-07-dialogos-siglo-xviii",
+      "titulo": "Diálogos del siglo XVIII",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-07",
+      "fecha_fin": "2026-11-08",
+      "lugar": "Teatro Calderón (Sala Delibes)",
+      "descripcion": "Música clásica con Juventudes Musicales de Valladolid.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-14-teatro-infantil-calderon",
+      "titulo": "Teatro infantil en el Calderón",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-14",
+      "fecha_fin": "2026-11-15",
+      "lugar": "Teatro Calderón (Sala Delibes y El Desván)",
+      "descripcion": "Fin de semana familiar: «En la casita Klimt», «La cigarra y la hormiga, de tela y cartón», «Tip Tap Top» y «¿Quién soy? De oruga a mariposa».",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-15-real-valladolid-castellon",
+      "titulo": "Real Valladolid – Castellón",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-15",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Jornada 14 de LaLiga Hypermotion. Día y hora pendientes de confirmar.",
+      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-11-29-real-valladolid-real-sociedad-b",
+      "titulo": "Real Valladolid – Real Sociedad B",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-29",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Jornada 16 de LaLiga Hypermotion. Día y hora pendientes de confirmar.",
+      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-09-15-expo-planchas-museo-ciencia",
+      "titulo": "El electrodoméstico más antiguo del Sistema Solar",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-09-15",
+      "fecha_fin": "2027-05-16",
+      "lugar": "Museo de la Ciencia",
+      "descripcion": "Unas 200 planchas cuentan la historia de este objeto, desde Egipto y Roma hasta las eléctricas.",
+      "url": "https://www.museocienciavalladolid.es/exposiciones-temporales/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-04-09-strom-museo-ciencia",
+      "titulo": "STROM · Astronomía inclusiva",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-04-09",
+      "fecha_fin": "2026-11-02",
+      "lugar": "Museo de la Ciencia",
+      "descripcion": "Exposición táctil, sonora y audiovisual sobre el Universo: agujeros negros, neutrinos y materia oscura. Últimas semanas.",
+      "url": "https://www.museocienciavalladolid.es/exposiciones-temporales/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-09-01-shakti-casa-india",
+      "titulo": "Shakti. Energía creadora femenina",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-09-01",
+      "fecha_fin": "2026-11-27",
+      "lugar": "Casa de la India",
+      "descripcion": "Arte contemporáneo de mujeres artistas de la India.",
+      "url": "https://www.casadelaindia.org/la-casa-de-la-india-inaugura-en-valladolid-la-exposicion-shakti-energia-creadora-femenina-una-muestra-del-arte-contemporaneo-realizado-por-mujeres-de-la-india/",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-09-21-manos-de-mujer-platerias",
+      "titulo": "Manos de Mujer abre en la calle Platerías",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-09-21",
+      "lugar": "Calle Platerías, 20",
+      "descripcion": "Tienda de producto local de empresas rurales lideradas por mujeres: vinos, lácteos, miel, dulces y artesanía alimentaria.",
+      "url": "https://www.tribunavalladolid.com/noticias/459588/manos-de-mujer-abre-sus-puertas-en-pleno-centro-de-valladolid-para-poner-en-valor-el-producto-local",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-08-ruta-enocultural-rueda",
+      "titulo": "Ruta enocultural a Rueda",
+      "categoria": "visitas",
+      "fecha_inicio": "2026-10-08",
+      "lugar": "Salida desde Valladolid (Oficina de Turismo)",
+      "descripcion": "Excursión guiada a Rueda coincidiendo con su feria del vino: iglesia barroca y bodega con cata. Inscripción en la Oficina de Turismo (983 219 310).",
+      "url": "https://www.valladolid.es/en/actualidad/noticias/oficina-turismo-valladolid-amplia-programa-visitas-turistic",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-21-excursion-penafiel",
+      "titulo": "Excursión guiada a Peñafiel",
+      "categoria": "visitas",
+      "fecha_inicio": "2026-10-21",
+      "hora": "09:30",
+      "lugar": "Salida desde Valladolid",
+      "descripcion": "Castillo y Museo del Vino, bodega Protos, casco histórico y Casa de la Ribera. Inscripción en la Oficina de Turismo (983 219 310).",
+      "url": "https://www.valladolid.es/en/actualidad/noticias/oficina-turismo-valladolid-amplia-programa-visitas-turistic",
       "anadido": "2026-10-01"
     }
   ]
