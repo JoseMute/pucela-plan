@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T10:00:00+02:00",
+  "actualizado": "2026-10-01T16:45:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -316,6 +316,17 @@
       "descripcion": "Nuevo restaurante de comida callejera de distintos países con técnicas de alta cocina. Platos de 3,90 a 20 €.",
       "precio": "3,90 – 20 €",
       "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20260913/vanessa-alex-duenos-nuevo-restaurante-precio-platos-va-euros-trt/1003744378046_0.html",
+      "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-12-real-valladolid-albacete",
+      "titulo": "Real Valladolid – Albacete",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-10-12",
+      "hora": "12:00",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Jornada 9 de LaLiga Hypermotion: el Real Valladolid recibe al Albacete Balompié en casa.",
+      "url": "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-hypermotion-real-valladolid-cf-albacete-bp-9",
       "anadido": "2026-10-01"
     }
   ]
