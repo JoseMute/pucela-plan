@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T17:30:00+02:00",
+  "actualizado": "2026-10-02T08:25:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -644,6 +644,16 @@
       "descripcion": "Castillo y Museo del Vino, bodega Protos, casco histórico y Casa de la Ribera. Inscripción en la Oficina de Turismo (983 219 310).",
       "url": "https://www.valladolid.es/en/actualidad/noticias/oficina-turismo-valladolid-amplia-programa-visitas-turistic",
       "anadido": "2026-10-01"
+    },
+    {
+      "id": "2026-10-10-la-guardia-delibes",
+      "titulo": "La Guardia en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-10",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "El grupo madrileño de pop-rock La Guardia actúa en Valladolid dentro de su gira, en la Sala Mayor del Delibes.",
+      "url": "https://www.laganzua.net/conciertos/valladolid",
+      "anadido": "2026-10-02"
     }
   ]
 }
