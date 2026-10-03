@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T08:25:00+02:00",
+  "actualizado": "2026-10-03T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -654,6 +654,40 @@
       "descripcion": "El grupo madrileño de pop-rock La Guardia actúa en Valladolid dentro de su gira, en la Sala Mayor del Delibes.",
       "url": "https://www.laganzua.net/conciertos/valladolid",
       "anadido": "2026-10-02"
+    },
+    {
+      "id": "2026-10-16-grunge-xxl-porta-caeli",
+      "titulo": "Festival Grunge Is Not Dead XXL",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-16",
+      "hora": "21:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Cuatro bandas tributo repasan a Nirvana, Pearl Jam, Soundgarden, Foo Fighters y Alice in Chains en una noche de grunge.",
+      "url": "https://conciertos.club/valladolid/conciertos/127071-radiobleach-tributo-a-nirvana-black-hole-jam-tributo-a-pearl-jam-y-soundgarden-foo-fakers-tributo-a-foo-fighters-the-rooster-project-tributo-a-alice-in-chains",
+      "anadido": "2026-10-03"
+    },
+    {
+      "id": "2026-11-14-antonio-carmona-delibes",
+      "titulo": "Antonio Carmona",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-14",
+      "hora": "21:00",
+      "lugar": "Centro Cultural Miguel Delibes, Sala Sinfónica",
+      "descripcion": "El cantante de Ketama presenta su repertorio de flamenco-pop en el auditorio.",
+      "url": "https://www.eventworld.com/antonio-carmona-valladolid-tickets-14-11-2026/event/493612",
+      "anadido": "2026-10-03"
+    },
+    {
+      "id": "2026-11-21-julio-iglesias-experience",
+      "titulo": "Julio Iglesias Experience (Julio Iglesias Jr.)",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-21",
+      "hora": "20:00",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Julio Iglesias Jr. interpreta los grandes éxitos de su padre. Recomendado a partir de 14 años.",
+      "precio": "40-70 €",
+      "url": "https://www.planomato.com/es/valladolid/p/julio-iglesias-experience-valladolid",
+      "anadido": "2026-10-03"
     }
   ]
 }
