@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T08:30:00+02:00",
+  "actualizado": "2026-10-04T08:40:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -688,6 +688,76 @@
       "precio": "40-70 €",
       "url": "https://www.planomato.com/es/valladolid/p/julio-iglesias-experience-valladolid",
       "anadido": "2026-10-03"
+    },
+    {
+      "id": "2026-11-02-crematorio-calderon",
+      "titulo": "Crematorio · Rafael Chirbes",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-02",
+      "fecha_fin": "2026-12-05",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "Adaptación teatral de la novela de Chirbes sobre la familia Bertomeu y la especulación inmobiliaria, dentro del Abono 7 de la temporada.",
+      "url": "https://tcalderon.com/temporada/",
+      "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-11-24-festival-humor-magia",
+      "titulo": "Festival del Humor y la Magia · Misión Valladolid",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-24",
+      "fecha_fin": "2026-11-30",
+      "lugar": "Centros cívicos y Teatro Calderón",
+      "descripcion": "Una semana de humor y magia en ocho centros cívicos de la ciudad, con entrada gratuita (se reparte desde el 11 de noviembre), y dos galas en el Calderón.",
+      "precio": "Gratis en centros cívicos",
+      "url": "https://www.ideva.es/eventos-festivalhumor-misionvalladolid",
+      "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-11-29-gala-magia-humor-calderon",
+      "titulo": "Gran Gala de Magia y Humor",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-29",
+      "hora": "20:00",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Gala con Gele Rodrigo, Paco Herrero y Nano Arranz dentro del Festival del Humor y la Magia.",
+      "precio": "15 €",
+      "url": "https://www.ideva.es/eventos-festivalhumor-misionvalladolid",
+      "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-11-30-gala-humor-calderon",
+      "titulo": "Gala de Humor · Dani Rovira, Iñaki Urrutia y más",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-30",
+      "hora": "20:00",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Cierre del festival con Iñaki Urrutia, J.J. Vaquero, Arturo González-Campos y Dani Rovira.",
+      "precio": "20-40 €",
+      "url": "https://www.ideva.es/eventos-festivalhumor-misionvalladolid",
+      "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-10-31-museoph-talleres-infantiles",
+      "titulo": "Talleres infantiles en el Museo Patio Herreriano",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-31",
+      "fecha_fin": "2026-11-01",
+      "hora": "11:30",
+      "lugar": "Museo Patio Herreriano",
+      "descripcion": "Programa para niños de 6 a 11 años por el puente; inscripciones desde el 18 de octubre.",
+      "precio": "2 €",
+      "url": "https://museoph.org/pagina/programas-infantiles",
+      "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-12-26-levitants-porta-caeli",
+      "titulo": "Levitants",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-26",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto del grupo Levitants en Valladolid durante las fiestas navideñas.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-04"
     }
   ]
 }
