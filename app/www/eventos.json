@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T08:40:00+02:00",
+  "actualizado": "2026-10-05T08:40:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -758,6 +758,17 @@
       "descripcion": "Concierto del grupo Levitants en Valladolid durante las fiestas navideñas.",
       "url": "https://www.laganzua.net/conciertos/valladolid/2026",
       "anadido": "2026-10-04"
+    },
+    {
+      "id": "2026-10-31-oro-viejo-halloween",
+      "titulo": "Oro Viejo Halloween 2026",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-10-31",
+      "hora": "17:00",
+      "lugar": "Arroyo Esfera, Arroyo de la Encomienda",
+      "descripcion": "Sesión de música electrónica por Halloween con DJ Nano, Cristian Varela y Frank Trax, de 17:00 a 00:30.",
+      "url": "https://modofestival.es/oro-viejo-halloween-2026-valladolid-dj-nano-cartel-entradas/",
+      "anadido": "2026-10-05"
     }
   ]
 }
