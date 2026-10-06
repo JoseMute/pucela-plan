@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T08:40:00+02:00",
+  "actualizado": "2026-10-06T08:40:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -769,6 +769,106 @@
       "descripcion": "Sesión de música electrónica por Halloween con DJ Nano, Cristian Varela y Frank Trax, de 17:00 a 00:30.",
       "url": "https://modofestival.es/oro-viejo-halloween-2026-valladolid-dj-nano-cartel-entradas/",
       "anadido": "2026-10-05"
+    },
+    {
+      "id": "2026-11-12-atzur-porta-caeli",
+      "titulo": "Atzur",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-12",
+      "hora": "20:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Atzur en la sala Porta Caeli de Valladolid.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-07-paraiso-negros-calderon",
+      "titulo": "El paraíso de los negros · María Pagés",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-07",
+      "fecha_fin": "2026-11-09",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Espectáculo de danza de María Pagés y El Arbi El Harti inspirado en «Poeta en Nueva York» de Lorca.",
+      "url": "https://tcalderon.com/temporada/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-22-hijo-comica-calderon",
+      "titulo": "El hijo de la cómica · José Sacristán",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-22",
+      "fecha_fin": "2026-11-23",
+      "lugar": "Teatro Calderón",
+      "descripcion": "José Sacristán versiona e interpreta textos de «El tiempo amarillo» de Fernando Fernán-Gómez.",
+      "url": "https://tcalderon.com/temporada/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-26-hijos-joaquin-diaz",
+      "titulo": "Los hijos de Joaquín Díaz",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-26",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Concierto homenaje al músico y etnógrafo Joaquín Díaz.",
+      "url": "https://tcalderon.com/temporada/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-10-18-cnt-nueva-sede",
+      "titulo": "Inauguración de la nueva sede de CNT Valladolid",
+      "categoria": "otros",
+      "fecha_inicio": "2026-10-18",
+      "fecha_fin": "2026-10-24",
+      "lugar": "Calle Merced, 6",
+      "descripcion": "Apertura del nuevo local sindical con exposición sobre 90 años de revolución social y semana de debates sobre vivienda, racismo y antifascismo.",
+      "precio": "Gratis",
+      "url": "https://www.cntvalladolid.es/inauguracion-del-nuevo-local-de-cnt-valladolid/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-20-lago-carrion",
+      "titulo": "Lago",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-20",
+      "hora": "20:30",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Concierto de Lago en el Teatro Carrión.",
+      "url": "https://teatrocarrion.com/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-28-veladas-ghibli-carrion",
+      "titulo": "Veladas Ghibli · Tributo",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-28",
+      "hora": "20:30",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Concierto tributo a las bandas sonoras de las películas de Studio Ghibli.",
+      "url": "https://teatrocarrion.com/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-11-08-gran-showman-carrion",
+      "titulo": "El Gran Showman · El Musical",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-08",
+      "hora": "17:30",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Musical inspirado en la película El Gran Showman, para toda la familia.",
+      "url": "https://teatrocarrion.com/",
+      "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-10-16-piensa-en-wilbur-carrion",
+      "titulo": "Piensa en Wilbur",
+      "categoria": "humor",
+      "fecha_inicio": "2026-10-16",
+      "hora": "17:30",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Espectáculo de comedia, acrobacias y clown con Wilbur en situaciones imposibles.",
+      "precio": "17,30 €",
+      "url": "https://www.taquilla.com/entradas/piensa-en-wilbur",
+      "anadido": "2026-10-06"
     }
   ]
 }
