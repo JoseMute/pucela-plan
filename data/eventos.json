@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T08:40:00+02:00",
+  "actualizado": "2026-10-07T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -869,6 +869,26 @@
       "precio": "17,30 €",
       "url": "https://www.taquilla.com/entradas/piensa-en-wilbur",
       "anadido": "2026-10-06"
+    },
+    {
+      "id": "2026-10-10-fran-perea-porta-caeli",
+      "titulo": "Fran Perea en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-10",
+      "lugar": "Sala Porta Caeli, C. Mariano de los Cobos 1",
+      "descripcion": "El actor y cantautor Fran Perea presenta su directo en la sala vallisoletana.",
+      "url": "https://www.taquilla.com/valladolid/sala-porta-caeli-valladolid",
+      "anadido": "2026-10-07"
+    },
+    {
+      "id": "2026-11-21-siempre-serrat-cervantes",
+      "titulo": "Siempre Serrat, tributo a Joan Manuel Serrat",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-21",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "José Voces, con piano de Miguel Simancas, repasa las canciones más emblemáticas de Serrat inspirándose en la gira Serrat 100x100.",
+      "url": "https://conciertos.club/valladolid/conciertos/121516-siempre-serrat-tributo-a-joan-manuel-serrat",
+      "anadido": "2026-10-07"
     }
   ]
 }
