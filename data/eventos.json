@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T08:30:00+02:00",
+  "actualizado": "2026-10-08T08:25:00+02:00",
   "eventos": [
     {
       "id": "2026-10-01-pacifica-desierto-rojo",
@@ -889,6 +889,59 @@
       "descripcion": "José Voces, con piano de Miguel Simancas, repasa las canciones más emblemáticas de Serrat inspirándose en la gira Serrat 100x100.",
       "url": "https://conciertos.club/valladolid/conciertos/121516-siempre-serrat-tributo-a-joan-manuel-serrat",
       "anadido": "2026-10-07"
+    },
+    {
+      "id": "2026-10-10-boney-m-tributo-cervantes",
+      "titulo": "Tributo a Boney M.",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-10",
+      "hora": "22:30",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Noche de música disco con un tributo al grupo Boney M. y sus grandes éxitos.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-08"
+    },
+    {
+      "id": "2026-10-11-zarzuela-de-zarzuelas-cervantes",
+      "titulo": "Zarzuela de Zarzuelas",
+      "categoria": "escena",
+      "fecha_inicio": "2026-10-11",
+      "hora": "20:00",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Antología de los números más conocidos de la zarzuela en una función de domingo por la tarde.",
+      "url": "https://conciertosvalladolid.es/",
+      "anadido": "2026-10-08"
+    },
+    {
+      "id": "2026-10-31-parquesvr-porta-caeli",
+      "titulo": "Parquesvr",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-31",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Parquesvr en la víspera de Todos los Santos.",
+      "url": "https://www.songkick.com/metro-areas/28803-spain-valladolid/2026",
+      "anadido": "2026-10-08"
+    },
+    {
+      "id": "2026-11-07-memorial-vidal-matarranz",
+      "titulo": "Memorial Vidal-Matarranz",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-07",
+      "lugar": "Valladolid",
+      "descripcion": "Carrera popular de 9 km con carrera vertical y pruebas infantiles.",
+      "url": "https://gotrail.run/en/event/memorial-vidal-matarranz",
+      "anadido": "2026-10-08"
+    },
+    {
+      "id": "2026-11-28-rollo-de-siempre-cientocero",
+      "titulo": "Festival El Rollo de Siempre",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-28",
+      "hora": "20:00",
+      "lugar": "Sala Cientocero",
+      "descripcion": "Festival con tributos a Extremoduro y Platero y Tú / Fito.",
+      "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid/valladolid-y-campina-del-pisuerga/concerts",
+      "anadido": "2026-10-08"
     }
   ]
 }
