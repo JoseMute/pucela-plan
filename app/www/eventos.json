@@ -1,16 +1,6 @@
 {
-  "actualizado": "2026-10-08T08:25:00+02:00",
+  "actualizado": "2026-10-09T08:40:00+02:00",
   "eventos": [
-    {
-      "id": "2026-10-01-pacifica-desierto-rojo",
-      "titulo": "Pacífica",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-01",
-      "lugar": "Sala El Desierto Rojo",
-      "descripcion": "Concierto de Pacífica en la sala El Desierto Rojo.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-01-oscyl-programa-1",
       "titulo": "OSCyL · Programa 1 de la temporada 26-27",
@@ -942,6 +932,18 @@
       "descripcion": "Festival con tributos a Extremoduro y Platero y Tú / Fito.",
       "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid/valladolid-y-campina-del-pisuerga/concerts",
       "anadido": "2026-10-08"
+    },
+    {
+      "id": "2026-11-06-david-cepo-carrion",
+      "titulo": "David Cepo: No cruces los brazos",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-06",
+      "hora": "20:30",
+      "lugar": "Teatro Carrión, calle Montero Calvo 2",
+      "descripcion": "Monólogo de humor de David Cepo con su espectáculo en gira, que vuelve a Valladolid tras pasar por el mismo teatro en febrero.",
+      "precio": "desde 25,90 €",
+      "url": "https://www.taquilla.com/valladolid/teatro-carrion-valladolid",
+      "anadido": "2026-10-09"
     }
   ]
 }
