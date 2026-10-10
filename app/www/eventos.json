@@ -1,27 +1,6 @@
 {
-  "actualizado": "2026-10-09T08:40:00+02:00",
+  "actualizado": "2026-10-10T08:30:00+02:00",
   "eventos": [
-    {
-      "id": "2026-10-01-oscyl-programa-1",
-      "titulo": "OSCyL · Programa 1 de la temporada 26-27",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-01",
-      "fecha_fin": "2026-10-02",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Arranque de temporada de la Orquesta Sinfónica de Castilla y León (dos turnos, 1 y 2 de octubre).",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-02-abraham-cupeiro-carrion",
-      "titulo": "Abraham Cupeiro",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-02",
-      "lugar": "Teatro Carrión",
-      "descripcion": "El multiinstrumentista gallego de instrumentos antiguos.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-03-kiko-veneno-carrion",
       "titulo": "Kiko Veneno",
@@ -944,6 +923,61 @@
       "precio": "desde 25,90 €",
       "url": "https://www.taquilla.com/valladolid/teatro-carrion-valladolid",
       "anadido": "2026-10-09"
+    },
+    {
+      "id": "2026-10-22-action-parquesol",
+      "titulo": "Apertura de Action en Parquesol",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-10-22",
+      "lugar": "C/ Manuel Canesí Acevedo (antiguo Aldi), Parquesol",
+      "descripcion": "La cadena holandesa de tiendas de bajo coste abre su primera tienda en Valladolid capital, en el local del antiguo Aldi.",
+      "url": "https://www.diariodevalladolid.es/valladolid/261006/286956/cadena-holandesa-3-500-tiendas-toda-europa-desembarca-antiguo-aldi-parquesol-valladolid.html",
+      "anadido": "2026-10-10"
+    },
+    {
+      "id": "2026-10-11-balenciaga-pertegaz-pasion",
+      "titulo": "De Balenciaga a Pertegaz: la moda española",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-11",
+      "fecha_fin": "2027-01-10",
+      "lugar": "Sala Municipal de Exposiciones de La Pasión",
+      "descripcion": "Muestra sobre la moda española que llega por primera vez a la ciudad, con visitas guiadas ordinarias desde el 11 de octubre.",
+      "precio": "Gratis",
+      "url": "https://www.tribunavalladolid.com/noticias/462081/de-balenciaga-a-pertegaz-valladolid-acoge-una-exposicion-gratuita-sobre-la-moda-espanola",
+      "anadido": "2026-10-10"
+    },
+    {
+      "id": "2026-11-21-agua-sucia-calderon",
+      "titulo": "Agua sucia, de Judit Sánchez",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-21",
+      "fecha_fin": "2026-11-22",
+      "lugar": "Teatro Calderón, Sala Delibes",
+      "descripcion": "Obra de Judit Sánchez dirigida por Raúl Escudero, dentro de la temporada 26/27 del Calderón.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-10"
+    },
+    {
+      "id": "2026-11-18-titize-venetian-dream-calderon",
+      "titulo": "Titizé, a Venetian Dream",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-18",
+      "fecha_fin": "2026-11-22",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Espectáculo de la temporada 26/27 del Teatro Calderón; conviene confirmar horarios y sala en la web del teatro.",
+      "url": "https://cultura.valladolid.es/actualidad/el-teatro-calderon-presenta-su-temporada-2627",
+      "anadido": "2026-10-10"
+    },
+    {
+      "id": "2026-11-07-tempo-clasico-eva-arderius",
+      "titulo": "Tempo Clásico: Eva Arderius y Nicolás Margarit",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-07",
+      "hora": "19:00",
+      "lugar": "Teatro Calderón, Sala Delibes",
+      "descripcion": "Recital de violonchelo y piano que inaugura el ciclo Tempo Clásico de Juventudes Musicales.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-10"
     }
   ]
 }
