@@ -1,26 +1,6 @@
 {
-  "actualizado": "2026-10-11T08:40:00+02:00",
+  "actualizado": "2026-10-12T08:45:00+02:00",
   "eventos": [
-    {
-      "id": "2026-10-04-midori-recital",
-      "titulo": "Recital 1: Midori",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-04",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Recital de violín de Midori dentro del ciclo de música de cámara.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-04-dj-symphonic",
-      "titulo": "DJ Symphonic & Royal Film Concert Orchestra",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-04",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Música electrónica y orquesta sinfónica en el mismo escenario.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-09-shinova-carrion",
       "titulo": "Shinova",
@@ -289,53 +269,6 @@
       "anadido": "2026-10-01"
     },
     {
-      "id": "2026-10-02-la-desconquista",
-      "titulo": "La Desconquista · Ron Lalá",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-02",
-      "fecha_fin": "2026-10-04",
-      "lugar": "Teatro Calderón (Sala Principal)",
-      "descripcion": "La compañía de humor y música Ron Lalá abre la temporada del Calderón.",
-      "precio": "10 – 30 €",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-03-pablo-y-ana",
-      "titulo": "Pablo y Ana",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-03",
-      "fecha_fin": "2026-10-04",
-      "lugar": "Teatro Calderón (Sala Delibes)",
-      "descripcion": "Obra de Javier Hernando dentro del ciclo Alternativas.",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-03-dulcinea",
-      "titulo": "Dulcinea, con Paloma San Basilio",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-03",
-      "fecha_fin": "2026-10-04",
-      "lugar": "Teatro Calderón (Sala Principal)",
-      "descripcion": "Paloma San Basilio protagoniza esta revisión del personaje cervantino.",
-      "precio": "10 – 30 €",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-03-doncellas-nautilus-lava",
-      "titulo": "«Doncellas» y «Nautilus»",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-03",
-      "fecha_fin": "2026-10-04",
-      "lugar": "LAVA",
-      "descripcion": "Dos montajes de artes escénicas en el Laboratorio de las Artes de Valladolid.",
-      "precio": "5,50 – 18 €",
-      "url": "https://www.eldiadevalladolid.com/eventos",
-      "anadido": "2026-10-01"
-    },
-    {
       "id": "2026-10-03-vallatarde-vallanoche",
       "titulo": "Vallatarde y Vallanoche: otoño",
       "categoria": "otros",
@@ -345,28 +278,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-04-legua-guardia-civil",
-      "titulo": "III Legua de la Guardia Civil",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-10-04",
-      "lugar": "Valladolid",
-      "descripcion": "Carrera popular de 6 km, marcha solidaria y carreras infantiles.",
-      "precio": "8 €",
-      "url": "https://running.life/en/event/legua-de-la-guardia-civil-de-valladolid",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-04-scnafamiliar-lava",
-      "titulo": "SCNA Familiar en el LAVA",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-04",
-      "lugar": "LAVA",
-      "descripcion": "Programa de teatro para ir con niños los fines de semana.",
-      "precio": "5,50 €",
-      "url": "https://www.eldiadevalladolid.com/eventos",
       "anadido": "2026-10-01"
     },
     {
@@ -999,6 +910,27 @@
       "descripcion": "Zarzuela clásica de Amadeo Vives en el Teatro Zorrilla.",
       "url": "https://teatrozorrilla.es/cartelera/",
       "anadido": "2026-10-11"
+    },
+    {
+      "id": "2026-12-11-ruslana-lava",
+      "titulo": "Ruslana en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-11",
+      "lugar": "Sala Lava",
+      "descripcion": "La cantante ucraniana de pop rock actúa en Valladolid en una cita de su gira.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
+      "anadido": "2026-10-12"
+    },
+    {
+      "id": "2026-12-19-candlelight-clasicos-navidad",
+      "titulo": "Candlelight: Clásicos de Navidad",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-19",
+      "lugar": "Colegio San José",
+      "descripcion": "Concierto de música clásica navideña a la luz de las velas.",
+      "precio": "desde 19 €",
+      "url": "https://feverup.com/en/valladolid/candlelight",
+      "anadido": "2026-10-12"
     }
   ]
 }
