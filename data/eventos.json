@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T08:45:00+02:00",
+  "actualizado": "2026-10-13T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-09-shinova-carrion",
@@ -931,6 +931,28 @@
       "precio": "desde 19 €",
       "url": "https://feverup.com/en/valladolid/candlelight",
       "anadido": "2026-10-12"
+    },
+    {
+      "id": "2026-12-13-diana-navarro-delibes",
+      "titulo": "Diana Navarro: Ya no estoy sola (gira 20 aniversario)",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-13",
+      "hora": "19:00",
+      "lugar": "Sala Sinfónica, Centro Cultural Miguel Delibes",
+      "descripcion": "La cantante repasa dos décadas de carrera con su gira del vigésimo aniversario.",
+      "url": "https://www.taquilla.com/entradas/diana-navarro",
+      "anadido": "2026-10-13"
+    },
+    {
+      "id": "2026-10-17-isabel-rey-diva-de-barrio",
+      "titulo": "Isabel Rey: Diva de barrio",
+      "categoria": "humor",
+      "fecha_inicio": "2026-10-17",
+      "hora": "20:30",
+      "lugar": "Sala Borja",
+      "descripcion": "Monólogo nostálgico sobre los años 2000 y las redes sociales que termina con un cierre musical.",
+      "url": "https://www.tomaticket.es/es-es/artista/isabel-rey",
+      "anadido": "2026-10-13"
     }
   ]
 }
