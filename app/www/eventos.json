@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T08:30:00+02:00",
+  "actualizado": "2026-10-14T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-09-shinova-carrion",
@@ -953,6 +953,17 @@
       "descripcion": "Monólogo nostálgico sobre los años 2000 y las redes sociales que termina con un cierre musical.",
       "url": "https://www.tomaticket.es/es-es/artista/isabel-rey",
       "anadido": "2026-10-13"
+    },
+    {
+      "id": "2026-10-02-dialogo-arte-arquitectura-santa-clara",
+      "titulo": "Diálogo entre Arte y Arquitectura",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-02",
+      "fecha_fin": "2027-01-24",
+      "lugar": "Real Monasterio de Santa Clara, Valladolid",
+      "descripcion": "Muestra que pone en relación obras de arte con el espacio arquitectónico del histórico monasterio.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-10-14"
     }
   ]
 }
