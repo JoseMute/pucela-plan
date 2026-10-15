@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T08:30:00+02:00",
+  "actualizado": "2026-10-15T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-09-shinova-carrion",
@@ -964,6 +964,64 @@
       "descripcion": "Muestra que pone en relación obras de arte con el espacio arquitectónico del histórico monasterio.",
       "url": "https://cultura.valladolid.es/",
       "anadido": "2026-10-14"
+    },
+    {
+      "id": "2026-11-26-mercado-navideno-plaza-mayor",
+      "titulo": "X Mercado Artesanal Navideño",
+      "categoria": "ferias",
+      "fecha_inicio": "2026-11-26",
+      "fecha_fin": "2027-01-05",
+      "lugar": "Plaza Mayor",
+      "descripcion": "Décima edición del mercado de artesanía y alimentación navideño con casetas de oficios tradicionales en la Plaza Mayor. Cierra el 25 de diciembre y el 1 de enero.",
+      "url": "https://mercadoartesanalvalladolid.es/",
+      "anadido": "2026-10-15"
+    },
+    {
+      "id": "2026-11-21-noches-de-ortega-borja",
+      "titulo": "Las Noches de Ortega",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-21",
+      "hora": "20:30",
+      "lugar": "Sala Borja",
+      "descripcion": "Espectáculo de comedia en la Sala Borja.",
+      "precio": "desde 22,69 €",
+      "url": "https://www.taquilla.com/valladolid/sala-borja-valladolid-cp47002",
+      "anadido": "2026-10-15"
+    },
+    {
+      "id": "2026-11-24-congreso-controversia-valladolid",
+      "titulo": "Congreso internacional de la Controversia de Valladolid",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-11-24",
+      "fecha_fin": "2026-11-26",
+      "lugar": "Valladolid",
+      "descripcion": "Congreso científico internacional dentro de los actos del 475 aniversario de la Controversia de Valladolid.",
+      "url": "https://info.valladolid.es",
+      "anadido": "2026-10-15"
+    },
+    {
+      "id": "2026-06-13-miquel-mont-patio-herreriano",
+      "titulo": "Miquel Mont: «olvidar borrar, borrar despacio»",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-06-13",
+      "fecha_fin": "2027-01-10",
+      "lugar": "Museo Patio Herreriano (salas 3, 4 y 5)",
+      "descripcion": "Muestra del artista Miquel Mont en el Patio Herreriano, junto a «Zonas grises» en las salas 1 y 2.",
+      "url": "https://museoph.org/pagina/exposiciones",
+      "anadido": "2026-10-15"
+    },
+    {
+      "id": "2026-10-17-rios-de-luz-ruta-teatralizada",
+      "titulo": "Ríos de Luz: ruta teatralizada",
+      "categoria": "visitas",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-11-28",
+      "hora": "20:30",
+      "lugar": "Salida Oficina de Turismo, Acera de Recoletos",
+      "descripcion": "Ruta teatralizada por la ciudad todos los sábados; en noviembre empieza a las 20:00.",
+      "precio": "10 €",
+      "url": "https://info.valladolid.es/en/-/rutas-teatralizadas-y-visitas-guiadas-valladolid-a-tu-medida",
+      "anadido": "2026-10-15"
     }
   ]
 }
