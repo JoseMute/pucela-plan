@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T08:30:00+02:00",
+  "actualizado": "2026-10-16T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-09-shinova-carrion",
@@ -1022,6 +1022,29 @@
       "precio": "10 €",
       "url": "https://info.valladolid.es/en/-/rutas-teatralizadas-y-visitas-guiadas-valladolid-a-tu-medida",
       "anadido": "2026-10-15"
+    },
+    {
+      "id": "2026-10-14-controversia-archivo-municipal",
+      "titulo": "La Controversia de Valladolid · Exposición",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-14",
+      "fecha_fin": "2027-06-30",
+      "lugar": "Archivo Municipal de Valladolid",
+      "descripcion": "Muestra con 42 piezas de 16 instituciones de España y otros países que recorre el debate histórico de 1550-1551 sobre los derechos de los pueblos indígenas.",
+      "precio": "Gratis",
+      "url": "https://www.valladolidplural.com/cultura/controversia-valladolid-expone-archivo-municipal-traves-42-piezas-espana-otros-paises/20261014134317073458.html",
+      "anadido": "2026-10-16"
+    },
+    {
+      "id": "2026-12-20-luna-olivar-vaquero-cervantes",
+      "titulo": "Luna, Olivar y Vaquero · Monólogo",
+      "categoria": "humor",
+      "fecha_inicio": "2026-12-20",
+      "hora": "20:00",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Espectáculo de humor en formato monólogo con tres cómicos en el escenario del Teatro Cervantes.",
+      "url": "https://eventos.aldeapucela.org/e/2239/luna-olivar-y-vaquero-monologo/",
+      "anadido": "2026-10-16"
     }
   ]
 }
