@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T08:30:00+02:00",
+  "actualizado": "2026-10-17T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-09-shinova-carrion",
@@ -10,16 +10,6 @@
       "lugar": "Teatro Carrión",
       "descripcion": "Dos noches de Shinova en el Carrión (9 y 10 de octubre).",
       "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-09-maki-maria",
-      "titulo": "Maki & María · Tour 20 Conmigo",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-09",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Recital de la gira 20 Conmigo.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
       "anadido": "2026-10-01"
     },
     {
@@ -167,16 +157,6 @@
       "anadido": "2026-10-01"
     },
     {
-      "id": "2026-10-24-federico-teatro",
-      "titulo": "Federico. No hay olvido, ni sueño: carne viva",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-24",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Obra de teatro sobre Federico García Lorca.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
       "id": "2026-10-25-dmana-tributo",
       "titulo": "Amar es combatir · 20 aniversario by +DMANÁ",
       "categoria": "conciertos",
@@ -278,28 +258,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-07-hispanidad-mesas-redondas",
-      "titulo": "Mesas redondas «Hispanidad sin complejos»",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-10-07",
-      "fecha_fin": "2026-10-09",
-      "lugar": "Valladolid",
-      "descripcion": "Ciclo de mesas redondas con entrada libre.",
-      "precio": "Gratis",
-      "url": "https://www.eldiadevalladolid.com/eventos",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-09-cuestion-de-tiempo",
-      "titulo": "Cuestión de tiempo · Hermanos Aguilar",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-09",
-      "lugar": "Teatro Calderón (Sala Principal)",
-      "descripcion": "Espectáculo de danza.",
-      "url": "https://tcalderon.com/",
       "anadido": "2026-10-01"
     },
     {
@@ -470,16 +428,6 @@
       "lugar": "Calle Platerías, 20",
       "descripcion": "Tienda de producto local de empresas rurales lideradas por mujeres: vinos, lácteos, miel, dulces y artesanía alimentaria.",
       "url": "https://www.tribunavalladolid.com/noticias/459588/manos-de-mujer-abre-sus-puertas-en-pleno-centro-de-valladolid-para-poner-en-valor-el-producto-local",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-08-ruta-enocultural-rueda",
-      "titulo": "Ruta enocultural a Rueda",
-      "categoria": "visitas",
-      "fecha_inicio": "2026-10-08",
-      "lugar": "Salida desde Valladolid (Oficina de Turismo)",
-      "descripcion": "Excursión guiada a Rueda coincidiendo con su feria del vino: iglesia barroca y bodega con cata. Inscripción en la Oficina de Turismo (983 219 310).",
-      "url": "https://www.valladolid.es/en/actualidad/noticias/oficina-turismo-valladolid-amplia-programa-visitas-turistic",
       "anadido": "2026-10-01"
     },
     {
@@ -1045,6 +993,26 @@
       "descripcion": "Espectáculo de humor en formato monólogo con tres cómicos en el escenario del Teatro Cervantes.",
       "url": "https://eventos.aldeapucela.org/e/2239/luna-olivar-y-vaquero-monologo/",
       "anadido": "2026-10-16"
+    },
+    {
+      "id": "2026-11-13-sienna-porta-caeli",
+      "titulo": "Sienna en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-13",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de Sienna en la sala vallisoletana Porta Caeli, dentro de la programación de otoño.",
+      "url": "https://www.jacksonlive.es/valladolid",
+      "anadido": "2026-10-17"
+    },
+    {
+      "id": "2026-11-01-carrera-salchicha-zaratan",
+      "titulo": "Carrera Popular de la Salchicha",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-01",
+      "lugar": "Zaratán",
+      "descripcion": "Carrera popular de unos 7 kilómetros por el entorno de Zaratán, a las puertas de Valladolid.",
+      "url": "https://www.fmdva.org/eventos",
+      "anadido": "2026-10-17"
     }
   ]
 }
