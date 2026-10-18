@@ -1,17 +1,6 @@
 {
-  "actualizado": "2026-10-17T08:30:00+02:00",
+  "actualizado": "2026-10-18T08:30:00+02:00",
   "eventos": [
-    {
-      "id": "2026-10-09-shinova-carrion",
-      "titulo": "Shinova",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-09",
-      "fecha_fin": "2026-10-10",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Dos noches de Shinova en el Carrión (9 y 10 de octubre).",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-09-feria-outlet",
       "titulo": "Feria Outlet Valladolid",
@@ -21,26 +10,6 @@
       "lugar": "Feria de Valladolid",
       "descripcion": "Feria de compras con descuentos de comercios locales.",
       "url": "https://feriavalladolid.com/calendario-ferial/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-10-arroyo-indie",
-      "titulo": "Arroyo Indie Festival 2026",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-10",
-      "lugar": "Arroyo Esfera (Arroyo de la Encomienda)",
-      "descripcion": "Festival de música indie de un día.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-10-daydreams-danza",
-      "titulo": "Daydreams",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-10",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Espectáculo de danza.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
       "anadido": "2026-10-01"
     },
     {
@@ -442,16 +411,6 @@
       "anadido": "2026-10-01"
     },
     {
-      "id": "2026-10-10-la-guardia-delibes",
-      "titulo": "La Guardia en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-10",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "El grupo madrileño de pop-rock La Guardia actúa en Valladolid dentro de su gira, en la Sala Mayor del Delibes.",
-      "url": "https://www.laganzua.net/conciertos/valladolid",
-      "anadido": "2026-10-02"
-    },
-    {
       "id": "2026-10-16-grunge-xxl-porta-caeli",
       "titulo": "Festival Grunge Is Not Dead XXL",
       "categoria": "conciertos",
@@ -667,16 +626,6 @@
       "anadido": "2026-10-06"
     },
     {
-      "id": "2026-10-10-fran-perea-porta-caeli",
-      "titulo": "Fran Perea en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-10",
-      "lugar": "Sala Porta Caeli, C. Mariano de los Cobos 1",
-      "descripcion": "El actor y cantautor Fran Perea presenta su directo en la sala vallisoletana.",
-      "url": "https://www.taquilla.com/valladolid/sala-porta-caeli-valladolid",
-      "anadido": "2026-10-07"
-    },
-    {
       "id": "2026-11-21-siempre-serrat-cervantes",
       "titulo": "Siempre Serrat, tributo a Joan Manuel Serrat",
       "categoria": "conciertos",
@@ -685,17 +634,6 @@
       "descripcion": "José Voces, con piano de Miguel Simancas, repasa las canciones más emblemáticas de Serrat inspirándose en la gira Serrat 100x100.",
       "url": "https://conciertos.club/valladolid/conciertos/121516-siempre-serrat-tributo-a-joan-manuel-serrat",
       "anadido": "2026-10-07"
-    },
-    {
-      "id": "2026-10-10-boney-m-tributo-cervantes",
-      "titulo": "Tributo a Boney M.",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-10",
-      "hora": "22:30",
-      "lugar": "Teatro Cervantes",
-      "descripcion": "Noche de música disco con un tributo al grupo Boney M. y sus grandes éxitos.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-08"
     },
     {
       "id": "2026-10-11-zarzuela-de-zarzuelas-cervantes",
@@ -1013,6 +951,27 @@
       "descripcion": "Carrera popular de unos 7 kilómetros por el entorno de Zaratán, a las puertas de Valladolid.",
       "url": "https://www.fmdva.org/eventos",
       "anadido": "2026-10-17"
+    },
+    {
+      "id": "2026-12-06-cantajuego-carrion",
+      "titulo": "CantaJuego · Grupo EnCanto",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-06",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Espectáculo musical infantil de canciones y juegos para disfrutar en familia.",
+      "url": "https://teatrocarrion.com/cartelera-teatro-carrion.html",
+      "anadido": "2026-10-18"
+    },
+    {
+      "id": "2026-11-05-donde-mejor-que-aqui-presentacion",
+      "titulo": "Presentación del libro «¿Dónde mejor que aquí?»",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-11-05",
+      "hora": "17:30",
+      "lugar": "Instituto de Estudios Europeos, Plaza de Santa Cruz 5",
+      "descripcion": "La UVA y el CSIC presentan un libro sobre el retorno al campo en Castilla y León.",
+      "url": "https://cchs.csic.es/sites/default/files/invitacion_donde_mejor_que_aqui.pdf",
+      "anadido": "2026-10-18"
     }
   ]
 }
