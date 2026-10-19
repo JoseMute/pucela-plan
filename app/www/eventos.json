@@ -1,27 +1,6 @@
 {
-  "actualizado": "2026-10-18T08:30:00+02:00",
+  "actualizado": "2026-10-19T08:30:00+02:00",
   "eventos": [
-    {
-      "id": "2026-10-09-feria-outlet",
-      "titulo": "Feria Outlet Valladolid",
-      "categoria": "ferias",
-      "fecha_inicio": "2026-10-09",
-      "fecha_fin": "2026-10-11",
-      "lugar": "Feria de Valladolid",
-      "descripcion": "Feria de compras con descuentos de comercios locales.",
-      "url": "https://feriavalladolid.com/calendario-ferial/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-11-odisea-film-symphony",
-      "titulo": "Odisea · Film Symphony Orchestra",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-11",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Bandas sonoras de cine interpretadas en directo.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-17-homenaje-delibes-piano",
       "titulo": "Homenaje a Delibes",
@@ -636,17 +615,6 @@
       "anadido": "2026-10-07"
     },
     {
-      "id": "2026-10-11-zarzuela-de-zarzuelas-cervantes",
-      "titulo": "Zarzuela de Zarzuelas",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-11",
-      "hora": "20:00",
-      "lugar": "Teatro Cervantes",
-      "descripcion": "Antología de los números más conocidos de la zarzuela en una función de domingo por la tarde.",
-      "url": "https://conciertosvalladolid.es/",
-      "anadido": "2026-10-08"
-    },
-    {
       "id": "2026-10-31-parquesvr-porta-caeli",
       "titulo": "Parquesvr",
       "categoria": "conciertos",
@@ -972,6 +940,29 @@
       "descripcion": "La UVA y el CSIC presentan un libro sobre el retorno al campo en Castilla y León.",
       "url": "https://cchs.csic.es/sites/default/files/invitacion_donde_mejor_que_aqui.pdf",
       "anadido": "2026-10-18"
+    },
+    {
+      "id": "2026-11-13-intur-viajeros",
+      "titulo": "INTUR Viajeros · Feria Internacional del Turismo de Interior",
+      "categoria": "ferias",
+      "fecha_inicio": "2026-11-13",
+      "fecha_fin": "2026-11-15",
+      "hora": "10:30",
+      "lugar": "Feria de Valladolid",
+      "descripcion": "Jornadas abiertas al público de la feria de turismo de interior, con expositores de destinos, rutas y gastronomía. El jueves 12 es solo para profesionales.",
+      "url": "https://feriavalladolid.com/intur/",
+      "anadido": "2026-10-19"
+    },
+    {
+      "id": "2026-10-23-primavera-cercana-sala-teresa-ortega",
+      "titulo": "Primavera Cercana · Pablo Giménez",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-23",
+      "hora": "11:00",
+      "lugar": "Sala Teresa Ortega Coca (Diputación de Valladolid)",
+      "descripcion": "Inauguración de la exposición de Pablo Giménez en la sala de la Diputación.",
+      "url": "https://cultura.diputaciondevalladolid.es/en/calendario-de-eventos",
+      "anadido": "2026-10-19"
     }
   ]
 }
