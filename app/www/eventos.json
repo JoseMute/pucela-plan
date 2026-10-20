@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T08:30:00+02:00",
+  "actualizado": "2026-10-20T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-17-homenaje-delibes-piano",
@@ -183,17 +183,6 @@
       "descripcion": "Nuevo restaurante de comida callejera de distintos países con técnicas de alta cocina. Platos de 3,90 a 20 €.",
       "precio": "3,90 – 20 €",
       "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20260913/vanessa-alex-duenos-nuevo-restaurante-precio-platos-va-euros-trt/1003744378046_0.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-12-real-valladolid-albacete",
-      "titulo": "Real Valladolid – Albacete",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-10-12",
-      "hora": "12:00",
-      "lugar": "Estadio José Zorrilla",
-      "descripcion": "Jornada 9 de LaLiga Hypermotion: el Real Valladolid recibe al Albacete Balompié en casa.",
-      "url": "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-hypermotion-real-valladolid-cf-albacete-bp-9",
       "anadido": "2026-10-01"
     },
     {
@@ -658,16 +647,6 @@
       "anadido": "2026-10-09"
     },
     {
-      "id": "2026-10-22-action-parquesol",
-      "titulo": "Apertura de Action en Parquesol",
-      "categoria": "aperturas",
-      "fecha_inicio": "2026-10-22",
-      "lugar": "C/ Manuel Canesí Acevedo (antiguo Aldi), Parquesol",
-      "descripcion": "La cadena holandesa de tiendas de bajo coste abre su primera tienda en Valladolid capital, en el local del antiguo Aldi.",
-      "url": "https://www.diariodevalladolid.es/valladolid/261006/286956/cadena-holandesa-3-500-tiendas-toda-europa-desembarca-antiguo-aldi-parquesol-valladolid.html",
-      "anadido": "2026-10-10"
-    },
-    {
       "id": "2026-10-11-balenciaga-pertegaz-pasion",
       "titulo": "De Balenciaga a Pertegaz: la moda española",
       "categoria": "exposiciones",
@@ -728,10 +707,10 @@
       "id": "2026-11-01-valladolid-jazz",
       "titulo": "Festival Valladolid Jazz",
       "categoria": "conciertos",
-      "fecha_inicio": "2026-11-01",
-      "fecha_fin": "2026-11-30",
-      "lugar": "LAVA, Sala Concha Velasco",
-      "descripcion": "Ciclo de conciertos de jazz organizado por la Fundación Municipal de Cultura; el cartel concreto aún no está publicado.",
+      "fecha_inicio": "2026-11-06",
+      "fecha_fin": "2026-11-27",
+      "lugar": "LAVA (Sala Concha Velasco)",
+      "descripcion": "21ª edición del festival con ocho conciertos de jazz internacional y regional en la Sala Concha Velasco del LAVA, los viernes del 6 al 27 de noviembre.",
       "url": "https://www.festivalesdeespana.com/festival/festival-de-jazz-de-valladolid-valladolid-jazz-valladolid",
       "anadido": "2026-10-11"
     },
@@ -963,6 +942,62 @@
       "descripcion": "Inauguración de la exposición de Pablo Giménez en la sala de la Diputación.",
       "url": "https://cultura.diputaciondevalladolid.es/en/calendario-de-eventos",
       "anadido": "2026-10-19"
+    },
+    {
+      "id": "2026-10-25-marcha-contra-cancer",
+      "titulo": "Marcha contra el Cáncer de Valladolid",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-10-25",
+      "hora": "10:30",
+      "lugar": "Centro de Valladolid",
+      "descripcion": "Marcha solidaria multitudinaria de unos cinco kilómetros por el centro de la ciudad a beneficio de la lucha contra el cáncer.",
+      "url": "https://ociovalladolid.com/",
+      "anadido": "2026-10-20"
+    },
+    {
+      "id": "2026-11-09-festival-humor-valladolid",
+      "titulo": "II Festival del Humor de Valladolid",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-09",
+      "fecha_fin": "2026-11-15",
+      "lugar": "Centros cívicos y teatros de Valladolid",
+      "descripcion": "Once espectáculos de humor con conciencia ambiental, ocho de ellos gratuitos en barrios, y funciones de pago con fines solidarios (incluye a Pica Pica).",
+      "url": "https://ociovalladolid.com/festival-humor-valladolid/",
+      "anadido": "2026-10-20"
+    },
+    {
+      "id": "2026-11-14-expo-superheroes-museo-ciencia",
+      "titulo": "Exposición sobre la ciencia de los superhéroes (Marvel y DC)",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-11-14",
+      "fecha_fin": "2027-06-13",
+      "lugar": "Museo de la Ciencia de Valladolid",
+      "descripcion": "Muestra temporal que explora la ciencia detrás de los superpoderes de los héroes de Marvel y DC.",
+      "url": "https://www.diariodevalladolid.es/valladolid/261019/287111/marvel-dc-firman-acuerdo-valladolid.html",
+      "anadido": "2026-10-20"
+    },
+    {
+      "id": "2026-10-14-la-responsura-francesas",
+      "titulo": "La Responsura. Las respuestas de la fe",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-14",
+      "fecha_fin": "2026-11-22",
+      "lugar": "Sala Municipal de Exposiciones de Las Francesas",
+      "descripcion": "Exposición sobre las distintas respuestas que da la fe a las grandes preguntas, abierta hasta el 22 de noviembre.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-10-20"
+    },
+    {
+      "id": "2026-12-12-candlelight-queen-beatles",
+      "titulo": "Candlelight: Queen vs. The Beatles",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-12",
+      "fecha_fin": "2027-02-20",
+      "lugar": "Círculo de Recreo",
+      "descripcion": "Concierto a la luz de las velas con versiones de Queen y The Beatles; serie de sesiones hasta febrero.",
+      "precio": "desde 18 €",
+      "url": "https://feverup.com/es/valladolid/candlelight",
+      "anadido": "2026-10-20"
     }
   ]
 }
