@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T08:30:00+02:00",
+  "actualizado": "2026-10-21T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-17-homenaje-delibes-piano",
@@ -745,16 +745,6 @@
       "anadido": "2026-10-11"
     },
     {
-      "id": "2026-12-11-ruslana-lava",
-      "titulo": "Ruslana en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-12-11",
-      "lugar": "Sala Lava",
-      "descripcion": "La cantante ucraniana de pop rock actúa en Valladolid en una cita de su gira.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-12"
-    },
-    {
       "id": "2026-12-19-candlelight-clasicos-navidad",
       "titulo": "Candlelight: Clásicos de Navidad",
       "categoria": "conciertos",
@@ -998,6 +988,27 @@
       "precio": "desde 18 €",
       "url": "https://feverup.com/es/valladolid/candlelight",
       "anadido": "2026-10-20"
+    },
+    {
+      "id": "2026-10-22-action-parquesol",
+      "titulo": "Action abre su primera tienda en Valladolid",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-10-22",
+      "lugar": "C/ Manuel Canesí Acevedo, Parquesol (antiguo Aldi)",
+      "descripcion": "La cadena holandesa de tiendas de descuento inaugura su primer establecimiento en la capital, en el local que ocupaba Aldi en Parquesol.",
+      "url": "https://www.diariodevalladolid.es/valladolid/261006/286956/cadena-holandesa-3-500-tiendas-toda-europa-desembarca-antiguo-aldi-parquesol-valladolid.html",
+      "anadido": "2026-10-21"
+    },
+    {
+      "id": "2026-12-18-tiempo-entre-costuras-calderon",
+      "titulo": "El tiempo entre costuras, el musical",
+      "categoria": "escena",
+      "fecha_inicio": "2026-12-18",
+      "fecha_fin": "2027-01-04",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Adaptación musical de la novela de María Dueñas, con la autora como asesora creativa, que cierra el año en el Calderón.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-21"
     }
   ]
 }
