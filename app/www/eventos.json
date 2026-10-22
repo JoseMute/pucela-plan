@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T08:30:00+02:00",
+  "actualizado": "2026-10-22T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-17-homenaje-delibes-piano",
@@ -195,16 +195,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-14-julio-verne",
-      "titulo": "Julio Verne y el libro de mi abuelo",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-14",
-      "lugar": "Teatro Calderón (Sala Delibes)",
-      "descripcion": "Teatro de Rayuela Producciones para público familiar.",
-      "url": "https://tcalderon.com/",
       "anadido": "2026-10-01"
     },
     {
@@ -1009,6 +999,123 @@
       "descripcion": "Adaptación musical de la novela de María Dueñas, con la autora como asesora creativa, que cierra el año en el Calderón.",
       "url": "https://tcalderon.com/",
       "anadido": "2026-10-21"
+    },
+    {
+      "id": "2026-11-01-don-juan-tenorio-zorrilla",
+      "titulo": "Don Juan Tenorio",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-01",
+      "fecha_fin": "2026-11-03",
+      "hora": "19:00",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "La representación tradicional del drama de Zorrilla por Todos los Santos, en el teatro que lleva su nombre.",
+      "url": "https://teatrozorrilla.vivaticket.es/espectaculo/don-juan-tenorio/TZ261101",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-06-rancapino-chico-zorrilla",
+      "titulo": "Rancapino Chico en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-06",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Concierto de cante flamenco de Rancapino Chico en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-13-nos-damos-un-viaje-zorrilla",
+      "titulo": "¿Nos damos un viaje? · Santi Rodríguez",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-13",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Espectáculo de humor de Santi Rodríguez en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-15-miki-dkai-zorrilla",
+      "titulo": "Miki Dkai: Hoy se lía",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-15",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Show de humor y mentalismo de Miki Dkai en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-20-gala-zarzuela-zorrilla",
+      "titulo": "Gala de Zarzuela 70 Aniversario: Veredicto Gaudí",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-20",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Gala lírica de zarzuela por el 70 aniversario, en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-22-catherine-russell-zorrilla",
+      "titulo": "Catherine Russell · Clásicos del jazz",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-22",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "La cantante de jazz Catherine Russell repasa los clásicos del género en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-28-jorge-blass-zorrilla",
+      "titulo": "La magia de Jorge Blass",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-28",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Espectáculo de magia del ilusionista Jorge Blass en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-29-impro-show-zorrilla",
+      "titulo": "Impro Show",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-29",
+      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
+      "descripcion": "Espectáculo de humor e improvisación en el Teatro Zorrilla.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-11-18-copa-espana-uemc-insolac",
+      "titulo": "UEMC Real Valladolid – Insolac Caja 87 (Copa España, octavos)",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-18",
+      "hora": "20:30",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Partido de octavos de final de la Copa España de baloncesto en Valladolid.",
+      "url": "https://www.eldiadevalladolid.com/noticia/z46411b9c-316a-485e-a0c87fb49f455663/202610/contra-insolac-caja-87-basket-en-los-octavos-de-la-copa-espana",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-10-26-congreso-vallejo-siempre",
+      "titulo": "VII Congreso Internacional «Vallejo Siempre»",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-10-26",
+      "fecha_fin": "2026-10-28",
+      "lugar": "Universidad de Valladolid, Plaza del Colegio de Santa Cruz 6",
+      "descripcion": "Congreso internacional dedicado al poeta César Vallejo, con ponencias de especialistas.",
+      "url": "https://andina.pe/agencia/noticia-valladolid-sera-capital-mundial-del-vii-congreso-internacional-vallejo-siempre-2026-1096070.aspx",
+      "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-10-25-descubriendo-a-colon",
+      "titulo": "Descubriendo a Colón · visita familiar",
+      "categoria": "visitas",
+      "fecha_inicio": "2026-10-25",
+      "fecha_fin": "2026-11-29",
+      "hora": "11:00",
+      "lugar": "Casa Museo de Colón",
+      "descripcion": "Visita guiada para familias por la historia de Colón, todos los domingos hasta el 29 de noviembre.",
+      "precio": "12 €",
+      "url": "https://es.patronbase.com/_TurismoValladolid/Productions",
+      "anadido": "2026-10-22"
     }
   ]
 }
