@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T08:30:00+02:00",
+  "actualizado": "2026-10-23T08:30:00+02:00",
   "eventos": [
     {
       "id": "2026-10-17-homenaje-delibes-piano",
@@ -1116,6 +1116,40 @@
       "precio": "12 €",
       "url": "https://es.patronbase.com/_TurismoValladolid/Productions",
       "anadido": "2026-10-22"
+    },
+    {
+      "id": "2026-10-29-halloween-vallsur",
+      "titulo": "Halloween en Vallsur",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-29",
+      "fecha_fin": "2026-10-31",
+      "hora": "19:00",
+      "lugar": "Centro comercial Vallsur",
+      "descripcion": "Maquillaje temático, encuentros con personajes, talleres como Pintamonstruos y espectáculos de magia para los más pequeños durante los días de Halloween.",
+      "precio": "Gratis",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.amp.html",
+      "anadido": "2026-10-23"
+    },
+    {
+      "id": "2026-11-14-medea-la-machina-calderon",
+      "titulo": "Medea · La Machina",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-14",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Nueva versión teatral de la tragedia de Medea a cargo de la compañía La Machina, dentro de la programación del Calderón.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-23"
+    },
+    {
+      "id": "2026-11-27-gigante-calderon",
+      "titulo": "Gigante · Josep Maria Mestres",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-27",
+      "fecha_fin": "2026-11-29",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Espectáculo dirigido por Josep Maria Mestres incluido en el abono de temporada del Teatro Calderón.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-10-23"
     }
   ]
 }
