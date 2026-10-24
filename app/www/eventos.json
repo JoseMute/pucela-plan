@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T08:30:00+02:00",
+  "actualizado": "2026-10-24T08:20:00+02:00",
   "eventos": [
     {
       "id": "2026-10-17-homenaje-delibes-piano",
@@ -369,17 +369,6 @@
       "anadido": "2026-10-01"
     },
     {
-      "id": "2026-10-16-grunge-xxl-porta-caeli",
-      "titulo": "Festival Grunge Is Not Dead XXL",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-16",
-      "hora": "21:00",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Cuatro bandas tributo repasan a Nirvana, Pearl Jam, Soundgarden, Foo Fighters y Alice in Chains en una noche de grunge.",
-      "url": "https://conciertos.club/valladolid/conciertos/127071-radiobleach-tributo-a-nirvana-black-hole-jam-tributo-a-pearl-jam-y-soundgarden-foo-fakers-tributo-a-foo-fighters-the-rooster-project-tributo-a-alice-in-chains",
-      "anadido": "2026-10-03"
-    },
-    {
       "id": "2026-11-14-antonio-carmona-delibes",
       "titulo": "Antonio Carmona",
       "categoria": "conciertos",
@@ -572,18 +561,6 @@
       "anadido": "2026-10-06"
     },
     {
-      "id": "2026-10-16-piensa-en-wilbur-carrion",
-      "titulo": "Piensa en Wilbur",
-      "categoria": "humor",
-      "fecha_inicio": "2026-10-16",
-      "hora": "17:30",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Espectáculo de comedia, acrobacias y clown con Wilbur en situaciones imposibles.",
-      "precio": "17,30 €",
-      "url": "https://www.taquilla.com/entradas/piensa-en-wilbur",
-      "anadido": "2026-10-06"
-    },
-    {
       "id": "2026-11-21-siempre-serrat-cervantes",
       "titulo": "Siempre Serrat, tributo a Joan Manuel Serrat",
       "categoria": "conciertos",
@@ -702,16 +679,6 @@
       "lugar": "LAVA (Sala Concha Velasco)",
       "descripcion": "21ª edición del festival con ocho conciertos de jazz internacional y regional en la Sala Concha Velasco del LAVA, los viernes del 6 al 27 de noviembre.",
       "url": "https://www.festivalesdeespana.com/festival/festival-de-jazz-de-valladolid-valladolid-jazz-valladolid",
-      "anadido": "2026-10-11"
-    },
-    {
-      "id": "2026-10-16-naque-zorrilla",
-      "titulo": "Ñaque o de piojos y actores",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-16",
-      "lugar": "Teatro Zorrilla",
-      "descripcion": "Clásico de José Sanchis Sinisterra sobre dos cómicos ambulantes del Siglo de Oro.",
-      "url": "https://teatrozorrilla.es/cartelera/",
       "anadido": "2026-10-11"
     },
     {
@@ -1150,6 +1117,38 @@
       "descripcion": "Espectáculo dirigido por Josep Maria Mestres incluido en el abono de temporada del Teatro Calderón.",
       "url": "https://tcalderon.com/",
       "anadido": "2026-10-23"
+    },
+    {
+      "id": "2026-10-24-princess-story-sala-borja",
+      "titulo": "Princess Story",
+      "categoria": "familia",
+      "fecha_inicio": "2026-10-24",
+      "hora": "17:00",
+      "lugar": "Sala Borja",
+      "descripcion": "Espectáculo familiar de princesas en la Sala Borja, en sesión de tarde.",
+      "url": "https://conciertosvalladolid.es/",
+      "anadido": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-elenha-cafe-teatro",
+      "titulo": "Elenha",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-24",
+      "hora": "22:00",
+      "lugar": "Café Teatro",
+      "descripcion": "Concierto de Elenha en el Café Teatro de Valladolid.",
+      "url": "https://conciertosvalladolid.es/",
+      "anadido": "2026-10-24"
+    },
+    {
+      "id": "2026-11-08-rafa-pons-cafe-teatro",
+      "titulo": "Rafa Pons",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-08",
+      "lugar": "Café Teatro",
+      "descripcion": "El cantautor Rafa Pons actúa en el Café Teatro de Valladolid.",
+      "url": "https://www.songkick.com/metro-areas/28803-spain-valladolid/2026",
+      "anadido": "2026-10-24"
     }
   ]
 }
