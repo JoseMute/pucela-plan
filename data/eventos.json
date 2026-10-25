@@ -1,26 +1,6 @@
 {
-  "actualizado": "2026-10-24T08:20:00+02:00",
+  "actualizado": "2026-10-25T07:20:00+01:00",
   "eventos": [
-    {
-      "id": "2026-10-17-homenaje-delibes-piano",
-      "titulo": "Homenaje a Delibes",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-17",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Recital de piano en homenaje a Miguel Delibes.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-17-experiencia-mecano",
-      "titulo": "No tienes nada que perder · Una experiencia Mecano",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-17",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Espectáculo tributo a Mecano.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-17-de-boda",
       "titulo": "De Boda Valladolid",
@@ -217,17 +197,6 @@
       "lugar": "Cementerio del Carmen",
       "descripcion": "Pieza de artes vivas en un espacio poco habitual: el cementerio del Carmen.",
       "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-17-el-monaguillo",
-      "titulo": "El Monaguillo",
-      "categoria": "humor",
-      "fecha_inicio": "2026-10-17",
-      "hora": "20:30",
-      "lugar": "Valladolid",
-      "descripcion": "Espectáculo del humorista malagueño.",
-      "url": "https://www.taquilla.com/espectaculos/humor-monologos",
       "anadido": "2026-10-01"
     },
     {
@@ -682,16 +651,6 @@
       "anadido": "2026-10-11"
     },
     {
-      "id": "2026-10-17-viaje-sin-retorno-zorrilla",
-      "titulo": "Un viaje sin retorno",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-17",
-      "lugar": "Teatro Zorrilla",
-      "descripcion": "Función programada en la cartelera del Teatro Zorrilla; confirma horario y precio en la web.",
-      "url": "https://teatrozorrilla.es/cartelera/",
-      "anadido": "2026-10-11"
-    },
-    {
       "id": "2026-10-18-dona-francisquita-zorrilla",
       "titulo": "Doña Francisquita",
       "categoria": "escena",
@@ -721,17 +680,6 @@
       "lugar": "Sala Sinfónica, Centro Cultural Miguel Delibes",
       "descripcion": "La cantante repasa dos décadas de carrera con su gira del vigésimo aniversario.",
       "url": "https://www.taquilla.com/entradas/diana-navarro",
-      "anadido": "2026-10-13"
-    },
-    {
-      "id": "2026-10-17-isabel-rey-diva-de-barrio",
-      "titulo": "Isabel Rey: Diva de barrio",
-      "categoria": "humor",
-      "fecha_inicio": "2026-10-17",
-      "hora": "20:30",
-      "lugar": "Sala Borja",
-      "descripcion": "Monólogo nostálgico sobre los años 2000 y las redes sociales que termina con un cierre musical.",
-      "url": "https://www.tomaticket.es/es-es/artista/isabel-rey",
       "anadido": "2026-10-13"
     },
     {
@@ -1149,6 +1097,18 @@
       "descripcion": "El cantautor Rafa Pons actúa en el Café Teatro de Valladolid.",
       "url": "https://www.songkick.com/metro-areas/28803-spain-valladolid/2026",
       "anadido": "2026-10-24"
+    },
+    {
+      "id": "2026-12-26-navival-feria",
+      "titulo": "Navival, parque de Navidad infantil",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-26",
+      "fecha_fin": "2027-01-04",
+      "lugar": "Feria de Valladolid",
+      "descripcion": "Parque de ocio navideño para niños con hinchables y atracciones durante las vacaciones de Navidad.",
+      "precio": "3 € - 12 €",
+      "url": "https://www.festivalesdeespana.com/festival/navival-parque-de-navidad-infantil-valladolid",
+      "anadido": "2026-10-25"
     }
   ]
 }
