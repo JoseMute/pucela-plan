@@ -1,47 +1,6 @@
 {
-  "actualizado": "2026-10-25T07:20:00+01:00",
+  "actualizado": "2026-10-26T07:30:00+01:00",
   "eventos": [
-    {
-      "id": "2026-10-17-de-boda",
-      "titulo": "De Boda Valladolid",
-      "categoria": "ferias",
-      "fecha_inicio": "2026-10-17",
-      "fecha_fin": "2026-10-18",
-      "lugar": "Feria de Valladolid",
-      "descripcion": "Feria de proveedores para bodas, bautizos y comuniones.",
-      "url": "https://feriavalladolid.com/calendario-ferial/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-18-sergio-dalma",
-      "titulo": "Sergio Dalma",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-18",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Concierto de Sergio Dalma.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-18-lugansky-repin",
-      "titulo": "Recital 2: Nikolai Lugansky y Vadim Repin",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-18",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Piano y violín: música de cámara con dos figuras internacionales.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-18-musica-bebes",
-      "titulo": "Talleres de música para bebés",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-18",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Taller musical para los más pequeños.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-21-mercartes",
       "titulo": "MERCARTES · Mercado de las Artes Escénicas",
@@ -175,39 +134,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-17-calentamiento-rocio-molina",
-      "titulo": "Calentamiento · Rocío Molina",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-17",
-      "fecha_fin": "2026-10-18",
-      "lugar": "Teatro Calderón (Sala Principal)",
-      "descripcion": "La bailaora Rocío Molina con su espectáculo de flamenco contemporáneo.",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-17-cuerpos-celestes",
-      "titulo": "Cuerpos celestes · El Conde de Torrefiel",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-17",
-      "fecha_fin": "2026-10-18",
-      "lugar": "Cementerio del Carmen",
-      "descripcion": "Pieza de artes vivas en un espacio poco habitual: el cementerio del Carmen.",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-18-real-valladolid-eldense",
-      "titulo": "Real Valladolid – Eldense",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-10-18",
-      "hora": "16:30",
-      "lugar": "Estadio José Zorrilla",
-      "descripcion": "Jornada 10 de LaLiga Hypermotion.",
-      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
       "anadido": "2026-10-01"
     },
     {
@@ -648,16 +574,6 @@
       "lugar": "LAVA (Sala Concha Velasco)",
       "descripcion": "21ª edición del festival con ocho conciertos de jazz internacional y regional en la Sala Concha Velasco del LAVA, los viernes del 6 al 27 de noviembre.",
       "url": "https://www.festivalesdeespana.com/festival/festival-de-jazz-de-valladolid-valladolid-jazz-valladolid",
-      "anadido": "2026-10-11"
-    },
-    {
-      "id": "2026-10-18-dona-francisquita-zorrilla",
-      "titulo": "Doña Francisquita",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-18",
-      "lugar": "Teatro Zorrilla",
-      "descripcion": "Zarzuela clásica de Amadeo Vives en el Teatro Zorrilla.",
-      "url": "https://teatrozorrilla.es/cartelera/",
       "anadido": "2026-10-11"
     },
     {
@@ -1109,6 +1025,18 @@
       "precio": "3 € - 12 €",
       "url": "https://www.festivalesdeespana.com/festival/navival-parque-de-navidad-infantil-valladolid",
       "anadido": "2026-10-25"
+    },
+    {
+      "id": "2026-11-15-angel-martin-somos-monos",
+      "titulo": "Ángel Martín: Somos monos",
+      "categoria": "humor",
+      "fecha_inicio": "2026-11-15",
+      "hora": "18:00",
+      "lugar": "Centro Cultural Miguel Delibes, Sala Sinfónica",
+      "descripcion": "Nuevo espectáculo de monólogo del humorista Ángel Martín, para mayores de 14 años.",
+      "precio": "20-24 €",
+      "url": "https://planomato.com/es/valladolid/p/angel-martin-somos-monos-valladolid",
+      "anadido": "2026-10-26"
     }
   ]
 }
