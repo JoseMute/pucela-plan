@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T07:30:00+01:00",
+  "actualizado": "2026-10-27T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-10-21-mercartes",
@@ -1037,6 +1037,49 @@
       "precio": "20-24 €",
       "url": "https://planomato.com/es/valladolid/p/angel-martin-somos-monos-valladolid",
       "anadido": "2026-10-26"
+    },
+    {
+      "id": "2026-12-05-mikkey-dee-lava",
+      "titulo": "Mikkey Dee & Friends + Newtron + Rafa Basa DJ",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-05",
+      "lugar": "LAVA (Laboratorio de las Artes de Valladolid)",
+      "descripcion": "El batería de Motörhead y Scorpions se sube al escenario del LAVA con amigos, teloneros y sesión de DJ.",
+      "precio": "desde 35 €",
+      "url": "https://conciertos.club/valladolid/conciertos/126426-mikkey-dee-friends-newtron-rafa-basa-dj",
+      "anadido": "2026-10-27"
+    },
+    {
+      "id": "2026-12-27-el-nido-carrion",
+      "titulo": "El Nido: Última ronda de La Constancia",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-27",
+      "lugar": "Teatro Carrión",
+      "descripcion": "El quinteto burgalés cierra en Valladolid la gira de su segundo disco, La Constancia.",
+      "precio": "16,20 € anticipada",
+      "url": "https://www.laganzua.net/conciertos/el-nido-barcelona-1017697",
+      "anadido": "2026-10-27"
+    },
+    {
+      "id": "2026-10-31-salistre-porta-caeli",
+      "titulo": "Salistre presenta 'Vaivén'",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-10-31",
+      "hora": "20:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Presentación en directo de su primer disco, Vaivén.",
+      "url": "https://www.laganzua.net/conciertos/valladolid/octubre-2026",
+      "anadido": "2026-10-27"
+    },
+    {
+      "id": "2026-11-13-vallatech-summit",
+      "titulo": "VallaTech Summit 2026",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-11-13",
+      "lugar": "Escuela de Ingeniería Informática de Valladolid",
+      "descripcion": "Jornada tecnológica con charlas, talleres y networking.",
+      "url": "https://www.vallatechsummit.com/",
+      "anadido": "2026-10-27"
     }
   ]
 }
