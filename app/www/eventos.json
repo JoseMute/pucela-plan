@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T07:20:00+01:00",
+  "actualizado": "2026-10-29T07:15:00+01:00",
   "eventos": [
     {
       "id": "2026-10-21-mercartes",
@@ -250,17 +250,6 @@
       "lugar": "Calle Platerías, 20",
       "descripcion": "Tienda de producto local de empresas rurales lideradas por mujeres: vinos, lácteos, miel, dulces y artesanía alimentaria.",
       "url": "https://www.tribunavalladolid.com/noticias/459588/manos-de-mujer-abre-sus-puertas-en-pleno-centro-de-valladolid-para-poner-en-valor-el-producto-local",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-21-excursion-penafiel",
-      "titulo": "Excursión guiada a Peñafiel",
-      "categoria": "visitas",
-      "fecha_inicio": "2026-10-21",
-      "hora": "09:30",
-      "lugar": "Salida desde Valladolid",
-      "descripcion": "Castillo y Museo del Vino, bodega Protos, casco histórico y Casa de la Ribera. Inscripción en la Oficina de Turismo (983 219 310).",
-      "url": "https://www.valladolid.es/en/actualidad/noticias/oficina-turismo-valladolid-amplia-programa-visitas-turistic",
       "anadido": "2026-10-01"
     },
     {
