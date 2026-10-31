@@ -1,17 +1,6 @@
 {
-  "actualizado": "2026-10-30T07:20:00+01:00",
+  "actualizado": "2026-10-31T07:15:00+01:00",
   "eventos": [
-    {
-      "id": "2026-10-21-mercartes",
-      "titulo": "MERCARTES · Mercado de las Artes Escénicas",
-      "categoria": "escena",
-      "fecha_inicio": "2026-10-21",
-      "fecha_fin": "2026-10-23",
-      "lugar": "Valladolid",
-      "descripcion": "Encuentro profesional de artes escénicas con muestras de compañías.",
-      "url": "https://www.moloon.es/blog/ferias-valladolid/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-10-23-seminci-71",
       "titulo": "71ª Seminci · Semana Internacional de Cine",
@@ -733,17 +722,6 @@
       "anadido": "2026-10-19"
     },
     {
-      "id": "2026-10-23-primavera-cercana-sala-teresa-ortega",
-      "titulo": "Primavera Cercana · Pablo Giménez",
-      "categoria": "exposiciones",
-      "fecha_inicio": "2026-10-23",
-      "hora": "11:00",
-      "lugar": "Sala Teresa Ortega Coca (Diputación de Valladolid)",
-      "descripcion": "Inauguración de la exposición de Pablo Giménez en la sala de la Diputación.",
-      "url": "https://cultura.diputaciondevalladolid.es/en/calendario-de-eventos",
-      "anadido": "2026-10-19"
-    },
-    {
       "id": "2026-10-25-marcha-contra-cancer",
       "titulo": "Marcha contra el Cáncer de Valladolid",
       "categoria": "deporte",
@@ -1170,6 +1148,37 @@
       "precio": "20 € por día",
       "url": "https://www.diariodevalladolid.es/valladolid/provincia/261026/287572/campamentos-de-halloween-en-el-valle-de-los-6-sentidos-de-valladolid-fechas-y-horarios.html",
       "anadido": "2026-10-30"
+    },
+    {
+      "id": "2026-11-06-madre-mia-carrion",
+      "titulo": "Madre mía, con Ismael Lemais e Isita Díaz",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-06",
+      "hora": "20:30",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Espectáculo de Ismael Lemais e Isita Díaz que llega al Teatro Carrión con una función el viernes por la noche.",
+      "url": "https://teatrocarrion.com/",
+      "anadido": "2026-10-31"
+    },
+    {
+      "id": "2026-11-08-carrera-parquesol",
+      "titulo": "Carrera Popular Ciudad de Parquesol",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-08",
+      "lugar": "Parquesol, Valladolid",
+      "descripcion": "Carrera popular de 6 km por las calles del barrio de Parquesol.",
+      "url": "https://trainerday.com/events/es/carrera-popular-ciudad-de-parquesol",
+      "anadido": "2026-10-31"
+    },
+    {
+      "id": "2026-11-22-carrera-poligono-san-cristobal",
+      "titulo": "Carrera Polígono San Cristóbal",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-22",
+      "lugar": "Polígono San Cristóbal, Valladolid",
+      "descripcion": "Carrera popular con recorridos de 5 y 10 km; inscripción a través de valladoliddeporte.es.",
+      "url": "https://trainerday.com/events/es/carrera-poligono-san-cristobal-2026",
+      "anadido": "2026-10-31"
     }
   ]
 }
