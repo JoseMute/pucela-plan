@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T07:15:00+01:00",
+  "actualizado": "2026-11-01T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -10,26 +10,6 @@
       "lugar": "Teatro Calderón y otras sedes",
       "descripcion": "El festival de cine de Valladolid. Proyecciones en el Calderón, Zorrilla, Carrión, Broadway, Cervantes, Fundos, Miguel Delibes y Espacio Seminci.",
       "url": "https://www.seminci.com/agenda/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-24-tanxugueiras",
-      "titulo": "Tanxugueiras",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-24",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de Tanxugueiras.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-24-funzo",
-      "titulo": "Funzo",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-24",
-      "lugar": "Sala Lava",
-      "descripcion": "Concierto de Funzo.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
       "anadido": "2026-10-01"
     },
     {
@@ -386,18 +366,6 @@
       "lugar": "Teatro Calderón",
       "descripcion": "Concierto homenaje al músico y etnógrafo Joaquín Díaz.",
       "url": "https://tcalderon.com/temporada/",
-      "anadido": "2026-10-06"
-    },
-    {
-      "id": "2026-10-18-cnt-nueva-sede",
-      "titulo": "Inauguración de la nueva sede de CNT Valladolid",
-      "categoria": "otros",
-      "fecha_inicio": "2026-10-18",
-      "fecha_fin": "2026-10-24",
-      "lugar": "Calle Merced, 6",
-      "descripcion": "Apertura del nuevo local sindical con exposición sobre 90 años de revolución social y semana de debates sobre vivienda, racismo y antifascismo.",
-      "precio": "Gratis",
-      "url": "https://www.cntvalladolid.es/inauguracion-del-nuevo-local-de-cnt-valladolid/",
       "anadido": "2026-10-06"
     },
     {
@@ -950,28 +918,6 @@
       "anadido": "2026-10-23"
     },
     {
-      "id": "2026-10-24-princess-story-sala-borja",
-      "titulo": "Princess Story",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-24",
-      "hora": "17:00",
-      "lugar": "Sala Borja",
-      "descripcion": "Espectáculo familiar de princesas en la Sala Borja, en sesión de tarde.",
-      "url": "https://conciertosvalladolid.es/",
-      "anadido": "2026-10-24"
-    },
-    {
-      "id": "2026-10-24-elenha-cafe-teatro",
-      "titulo": "Elenha",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-24",
-      "hora": "22:00",
-      "lugar": "Café Teatro",
-      "descripcion": "Concierto de Elenha en el Café Teatro de Valladolid.",
-      "url": "https://conciertosvalladolid.es/",
-      "anadido": "2026-10-24"
-    },
-    {
       "id": "2026-11-08-rafa-pons-cafe-teatro",
       "titulo": "Rafa Pons",
       "categoria": "conciertos",
@@ -1179,6 +1125,26 @@
       "descripcion": "Carrera popular con recorridos de 5 y 10 km; inscripción a través de valladoliddeporte.es.",
       "url": "https://trainerday.com/events/es/carrera-poligono-san-cristobal-2026",
       "anadido": "2026-10-31"
+    },
+    {
+      "id": "2026-12-13-real-valladolid-tenerife",
+      "titulo": "Real Valladolid – CD Tenerife (LaLiga Hypermotion, jornada 18)",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-13",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Partido de la jornada 18 de LaLiga Hypermotion en casa del Real Valladolid. Hora pendiente de confirmar por LaLiga.",
+      "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-hypermotion-real-valladolid-cf-cd-tenerife-18",
+      "anadido": "2026-11-01"
+    },
+    {
+      "id": "2026-10-21-tres-a-la-mesa-arroyo",
+      "titulo": "Tres a la Mesa, nuevo restaurante en Arroyo de la Encomienda",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-10-21",
+      "lugar": "Avenida José Luis Lasa, Arroyo de la Encomienda",
+      "descripcion": "Nuevo restaurante que abrió sus puertas el 21 de octubre; su planta superior se usa también para eventos privados.",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/",
+      "anadido": "2026-11-01"
     }
   ]
 }
