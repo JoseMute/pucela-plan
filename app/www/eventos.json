@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T07:20:00+01:00",
+  "actualizado": "2026-11-02T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -10,16 +10,6 @@
       "lugar": "Teatro Calderón y otras sedes",
       "descripcion": "El festival de cine de Valladolid. Proyecciones en el Calderón, Zorrilla, Carrión, Broadway, Cervantes, Fundos, Miguel Delibes y Espacio Seminci.",
       "url": "https://www.seminci.com/agenda/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-10-25-dmana-tributo",
-      "titulo": "Amar es combatir · 20 aniversario by +DMANÁ",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-25",
-      "lugar": "Centro Cultural Miguel Delibes",
-      "descripcion": "Tributo a Maná.",
-      "url": "https://www.centroculturalmigueldelibes.com/eventos/2026/10/",
       "anadido": "2026-10-01"
     },
     {
@@ -690,17 +680,6 @@
       "anadido": "2026-10-19"
     },
     {
-      "id": "2026-10-25-marcha-contra-cancer",
-      "titulo": "Marcha contra el Cáncer de Valladolid",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-10-25",
-      "hora": "10:30",
-      "lugar": "Centro de Valladolid",
-      "descripcion": "Marcha solidaria multitudinaria de unos cinco kilómetros por el centro de la ciudad a beneficio de la lucha contra el cáncer.",
-      "url": "https://ociovalladolid.com/",
-      "anadido": "2026-10-20"
-    },
-    {
       "id": "2026-11-09-festival-humor-valladolid",
       "titulo": "II Festival del Humor de Valladolid",
       "categoria": "humor",
@@ -1145,6 +1124,17 @@
       "descripcion": "Nuevo restaurante que abrió sus puertas el 21 de octubre; su planta superior se usa también para eventos privados.",
       "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/",
       "anadido": "2026-11-01"
+    },
+    {
+      "id": "2026-12-18-no-es-facil-ser-grison-carrion",
+      "titulo": "No es fácil ser Grison",
+      "categoria": "humor",
+      "fecha_inicio": "2026-12-18",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Espectáculo de humor de Grison en el Teatro Carrión.",
+      "precio": "desde 25,90 €",
+      "url": "https://ventaoficial.es/conciertos/valladolid/comedia/",
+      "anadido": "2026-11-02"
     }
   ]
 }
