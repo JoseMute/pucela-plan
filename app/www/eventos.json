@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T07:30:00+01:00",
+  "actualizado": "2026-11-03T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -1135,6 +1135,51 @@
       "precio": "desde 25,90 €",
       "url": "https://ventaoficial.es/conciertos/valladolid/comedia/",
       "anadido": "2026-11-02"
+    },
+    {
+      "id": "2026-11-08-dirty-sound-magnet-porta-caeli",
+      "titulo": "Dirty Sound Magnet",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-08",
+      "hora": "20:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de la banda suiza de rock psicodélico en la sala Porta Caeli.",
+      "precio": "18,70 €",
+      "url": "https://www.laganzua.net/conciertos/valladolid",
+      "anadido": "2026-11-03"
+    },
+    {
+      "id": "2026-12-11-ruslana-lava",
+      "titulo": "Ruslana",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-11",
+      "hora": "21:00",
+      "lugar": "Sala LAVA",
+      "descripcion": "La cantante ucraniana, ganadora de Eurovisión 2004, actúa en Valladolid.",
+      "url": "https://www.laganzua.net/conciertos/ruslana-valladolid-1016092",
+      "anadido": "2026-11-03"
+    },
+    {
+      "id": "2026-12-12-candlelight-vivaldi-circulo-recreo",
+      "titulo": "Candlelight: Las Cuatro Estaciones de Vivaldi",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-12",
+      "hora": "21:00",
+      "lugar": "Círculo de Recreo",
+      "descripcion": "Concierto de cuerda a la luz de las velas con Las Cuatro Estaciones de Vivaldi.",
+      "precio": "19 €",
+      "url": "https://www.laganzua.net/conciertos/valladolid",
+      "anadido": "2026-11-03"
+    },
+    {
+      "id": "2026-10-29-gadis-vadillos",
+      "titulo": "Gadis abre su tienda número 17 en Valladolid",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-10-29",
+      "lugar": "Plaza de los Vadillos",
+      "descripcion": "Nuevo supermercado de la cadena gallega Gadis, con 35 puestos de trabajo.",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/gadis-abre-tienda-numero-valladolid-gran-expectacion-queremos-compra-comoda-sencilla/1003744439462_0.html",
+      "anadido": "2026-11-03"
     }
   ]
 }
