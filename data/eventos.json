@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T07:20:00+01:00",
+  "actualizado": "2026-11-04T07:15:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -1180,6 +1180,59 @@
       "descripcion": "Nuevo supermercado de la cadena gallega Gadis, con 35 puestos de trabajo.",
       "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/gadis-abre-tienda-numero-valladolid-gran-expectacion-queremos-compra-comoda-sencilla/1003744439462_0.html",
       "anadido": "2026-11-03"
+    },
+    {
+      "id": "2026-11-05-jaimitos-florida",
+      "titulo": "Apertura de Jaimitos Valladolid",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-11-05",
+      "lugar": "Calle Florida 18",
+      "descripcion": "Nuevo local de barrio que combina asador de pollos con hamburguesería gourmet.",
+      "url": "https://carterafresca.substack.com/p/cartera-fresca-n-36",
+      "anadido": "2026-11-04"
+    },
+    {
+      "id": "2026-11-07-carlota-co-apertura",
+      "titulo": "Apertura de la tienda Carlota & Co",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-11-07",
+      "lugar": "Confluencia de Héroes de Alcántara y Zúñiga",
+      "descripcion": "La firma de moda y complementos inaugura su nueva tienda en pleno centro de Valladolid.",
+      "url": "https://www.tribunavalladolid.com/noticias/463099/carlota-co-ya-tiene-fecha-para-abrir-su-nueva-tienda-en-valladolid",
+      "anadido": "2026-11-04"
+    },
+    {
+      "id": "2026-11-07-uemc-jaen-pisuerga",
+      "titulo": "UEMC Baloncesto Valladolid vs Jaén",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-07",
+      "hora": "19:00",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Partido de Segunda FEB del UEMC en casa ante el Jaén.",
+      "url": "https://valladolidbaloncesto.koobin.com/",
+      "anadido": "2026-11-04"
+    },
+    {
+      "id": "2026-12-06-reb-velvet-delibes",
+      "titulo": "Reb Velvet Big Band: tributo navideño a Bublé",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-06",
+      "lugar": "Auditorio Miguel Delibes",
+      "descripcion": "Big band con repertorio navideño inspirado en Michael Bublé.",
+      "precio": "40-70 €",
+      "url": "https://elgusanillo.com/ocio/actuaciones/music2.shtm",
+      "anadido": "2026-11-04"
+    },
+    {
+      "id": "2026-12-11-lizzy-banshees-porta-caeli",
+      "titulo": "Lizzy and The Banshees (tributo a Siouxsie)",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-11",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Tributo a Siouxsie & The Banshees en directo.",
+      "precio": "22 €",
+      "url": "https://elgusanillo.com/ocio/actuaciones/music2.shtm",
+      "anadido": "2026-11-04"
     }
   ]
 }
