@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T07:15:00+01:00",
+  "actualizado": "2026-11-05T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -839,17 +839,6 @@
       "anadido": "2026-10-22"
     },
     {
-      "id": "2026-10-26-congreso-vallejo-siempre",
-      "titulo": "VII Congreso Internacional «Vallejo Siempre»",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-10-26",
-      "fecha_fin": "2026-10-28",
-      "lugar": "Universidad de Valladolid, Plaza del Colegio de Santa Cruz 6",
-      "descripcion": "Congreso internacional dedicado al poeta César Vallejo, con ponencias de especialistas.",
-      "url": "https://andina.pe/agencia/noticia-valladolid-sera-capital-mundial-del-vii-congreso-internacional-vallejo-siempre-2026-1096070.aspx",
-      "anadido": "2026-10-22"
-    },
-    {
       "id": "2026-10-25-descubriendo-a-colon",
       "titulo": "Descubriendo a Colón · visita familiar",
       "categoria": "visitas",
@@ -1233,6 +1222,16 @@
       "precio": "22 €",
       "url": "https://elgusanillo.com/ocio/actuaciones/music2.shtm",
       "anadido": "2026-11-04"
+    },
+    {
+      "id": "2026-11-26-encendido-luces-navidad",
+      "titulo": "Encendido de las luces de Navidad",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-11-26",
+      "lugar": "Centro de Valladolid",
+      "descripcion": "Fecha prevista para el encendido oficial del alumbrado navideño con la nueva iluminación de la ciudad; pendiente de confirmación municipal.",
+      "url": "https://www.valladolidplural.com/valladolid/valladolid-mira-navidad-pleno-verano-asi-sera-nueva-iluminacion-que-encendera-noviembre/20260731112617072008.html",
+      "anadido": "2026-11-05"
     }
   ]
 }
