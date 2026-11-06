@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T07:30:00+01:00",
+  "actualizado": "2026-11-06T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -1232,6 +1232,17 @@
       "descripcion": "Fecha prevista para el encendido oficial del alumbrado navideño con la nueva iluminación de la ciudad; pendiente de confirmación municipal.",
       "url": "https://www.valladolidplural.com/valladolid/valladolid-mira-navidad-pleno-verano-asi-sera-nueva-iluminacion-que-encendera-noviembre/20260731112617072008.html",
       "anadido": "2026-11-05"
+    },
+    {
+      "id": "2026-11-14-candlelight-michael-jackson-circulo-recreo",
+      "titulo": "Candlelight: Tributo a Michael Jackson",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-14",
+      "lugar": "Círculo de Recreo, C/ Duque de la Victoria 6",
+      "descripcion": "Concierto a la luz de las velas con cuarteto de cuerda que recorre éxitos de Michael Jackson como Billie Jean, Thriller o Heal the World.",
+      "precio": "desde 18 €",
+      "url": "https://feverup.com/es/valladolid/venue/circulo-de-recreo-de-valladolid",
+      "anadido": "2026-11-06"
     }
   ]
 }
