@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T07:20:00+01:00",
+  "actualizado": "2026-11-07T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-10-23-seminci-71",
@@ -728,7 +728,7 @@
       "id": "2026-10-22-action-parquesol",
       "titulo": "Action abre su primera tienda en Valladolid",
       "categoria": "aperturas",
-      "fecha_inicio": "2026-10-22",
+      "fecha_inicio": "2026-11-19",
       "lugar": "C/ Manuel Canesí Acevedo, Parquesol (antiguo Aldi)",
       "descripcion": "La cadena holandesa de tiendas de descuento inaugura su primer establecimiento en la capital, en el local que ocupaba Aldi en Parquesol.",
       "url": "https://www.diariodevalladolid.es/valladolid/261006/286956/cadena-holandesa-3-500-tiendas-toda-europa-desembarca-antiguo-aldi-parquesol-valladolid.html",
@@ -1243,6 +1243,50 @@
       "precio": "desde 18 €",
       "url": "https://feverup.com/es/valladolid/venue/circulo-de-recreo-de-valladolid",
       "anadido": "2026-11-06"
+    },
+    {
+      "id": "2026-11-14-good-rockin-porta-caeli",
+      "titulo": "10th Good Rockin' Valladolid",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-14",
+      "hora": "20:30",
+      "lugar": "Sala Porta Caeli, C/ Mariano de los Cobos",
+      "descripcion": "Décima edición del festival de rockabilly y swing con The Gold Diggers, Strike y Pekka Tiilikainen & Beatmakers, más dos DJs.",
+      "precio": "23 €",
+      "url": "https://conciertos.club/valladolid/conciertos/129888-good-rockin-valladolid-the-gold-diggers-strike-pekka-tiilikainen-beatmakers/1794771000",
+      "anadido": "2026-11-07"
+    },
+    {
+      "id": "2026-11-15-javier-perianes-delibes",
+      "titulo": "Recital de piano de Javier Perianes",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-15",
+      "lugar": "Centro Cultural Miguel Delibes (Sala de Cámara)",
+      "descripcion": "Javier Perianes ofrece un recital de piano dentro del ciclo de recitales y música de cámara 2026-27.",
+      "url": "https://cndm.inaem.gob.es/sites/default/files/2026-09/Programaci%C3%B3n%20PDF_Ciclo%20recitales%20y%20musica%20de%20c%C3%A1mara-26-27.pdf",
+      "anadido": "2026-11-07"
+    },
+    {
+      "id": "2026-11-09-encuentros-teveo-28",
+      "titulo": "28º Encuentros TeVeo",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-09",
+      "fecha_fin": "2026-11-15",
+      "lugar": "Teatro Calderón y otros espacios",
+      "descripcion": "Festival de artes escénicas para infancia y juventud con espectáculos para familias y jornadas profesionales.",
+      "url": "https://www.teveo.es/es/encuentrosteveo.html",
+      "anadido": "2026-11-07"
+    },
+    {
+      "id": "2026-11-05-ribalta-museo-escultura",
+      "titulo": "Los Ribalta y el naturalismo barroco en València",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-11-05",
+      "fecha_fin": "2027-02-07",
+      "lugar": "Museo Nacional de Escultura",
+      "descripcion": "Muestra sobre Francisco y Juan Ribalta, con obras del Museo de Bellas Artes de Valencia, tras su paso por Málaga.",
+      "url": "https://www.culturaydeporte.gob.es/mnescultura/",
+      "anadido": "2026-11-07"
     }
   ]
 }
