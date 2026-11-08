@@ -1,17 +1,6 @@
 {
-  "actualizado": "2026-11-07T07:30:00+01:00",
+  "actualizado": "2026-11-08T07:15:00+01:00",
   "eventos": [
-    {
-      "id": "2026-10-23-seminci-71",
-      "titulo": "71ª Seminci · Semana Internacional de Cine",
-      "categoria": "cine",
-      "fecha_inicio": "2026-10-23",
-      "fecha_fin": "2026-10-31",
-      "lugar": "Teatro Calderón y otras sedes",
-      "descripcion": "El festival de cine de Valladolid. Proyecciones en el Calderón, Zorrilla, Carrión, Broadway, Cervantes, Fundos, Miguel Delibes y Espacio Seminci.",
-      "url": "https://www.seminci.com/agenda/",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-11-07-malu-arroyo",
       "titulo": "Malú",
@@ -305,17 +294,6 @@
       "anadido": "2026-10-04"
     },
     {
-      "id": "2026-10-31-oro-viejo-halloween",
-      "titulo": "Oro Viejo Halloween 2026",
-      "categoria": "fiestas",
-      "fecha_inicio": "2026-10-31",
-      "hora": "17:00",
-      "lugar": "Arroyo Esfera, Arroyo de la Encomienda",
-      "descripcion": "Sesión de música electrónica por Halloween con DJ Nano, Cristian Varela y Frank Trax, de 17:00 a 00:30.",
-      "url": "https://modofestival.es/oro-viejo-halloween-2026-valladolid-dj-nano-cartel-entradas/",
-      "anadido": "2026-10-05"
-    },
-    {
       "id": "2026-11-12-atzur-porta-caeli",
       "titulo": "Atzur",
       "categoria": "conciertos",
@@ -400,16 +378,6 @@
       "descripcion": "José Voces, con piano de Miguel Simancas, repasa las canciones más emblemáticas de Serrat inspirándose en la gira Serrat 100x100.",
       "url": "https://conciertos.club/valladolid/conciertos/121516-siempre-serrat-tributo-a-joan-manuel-serrat",
       "anadido": "2026-10-07"
-    },
-    {
-      "id": "2026-10-31-parquesvr-porta-caeli",
-      "titulo": "Parquesvr",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-31",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de Parquesvr en la víspera de Todos los Santos.",
-      "url": "https://www.songkick.com/metro-areas/28803-spain-valladolid/2026",
-      "anadido": "2026-10-08"
     },
     {
       "id": "2026-11-07-memorial-vidal-matarranz",
@@ -852,19 +820,6 @@
       "anadido": "2026-10-22"
     },
     {
-      "id": "2026-10-29-halloween-vallsur",
-      "titulo": "Halloween en Vallsur",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-29",
-      "fecha_fin": "2026-10-31",
-      "hora": "19:00",
-      "lugar": "Centro comercial Vallsur",
-      "descripcion": "Maquillaje temático, encuentros con personajes, talleres como Pintamonstruos y espectáculos de magia para los más pequeños durante los días de Halloween.",
-      "precio": "Gratis",
-      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.amp.html",
-      "anadido": "2026-10-23"
-    },
-    {
       "id": "2026-11-14-medea-la-machina-calderon",
       "titulo": "Medea · La Machina",
       "categoria": "escena",
@@ -939,17 +894,6 @@
       "descripcion": "El quinteto burgalés cierra en Valladolid la gira de su segundo disco, La Constancia.",
       "precio": "16,20 € anticipada",
       "url": "https://www.laganzua.net/conciertos/el-nido-barcelona-1017697",
-      "anadido": "2026-10-27"
-    },
-    {
-      "id": "2026-10-31-salistre-porta-caeli",
-      "titulo": "Salistre presenta 'Vaivén'",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-10-31",
-      "hora": "20:00",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Presentación en directo de su primer disco, Vaivén.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/octubre-2026",
       "anadido": "2026-10-27"
     },
     {
