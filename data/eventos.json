@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T07:15:00+01:00",
+  "actualizado": "2026-11-09T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-07-malu-arroyo",
@@ -82,16 +82,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-01-real-valladolid-leganes",
-      "titulo": "Real Valladolid – Leganés",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-01",
-      "lugar": "Estadio José Zorrilla",
-      "descripcion": "Jornada 12 de LaLiga Hypermotion. Día y hora pendientes de confirmar.",
-      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
       "anadido": "2026-10-01"
     },
     {
@@ -268,19 +258,6 @@
       "descripcion": "Cierre del festival con Iñaki Urrutia, J.J. Vaquero, Arturo González-Campos y Dani Rovira.",
       "precio": "20-40 €",
       "url": "https://www.ideva.es/eventos-festivalhumor-misionvalladolid",
-      "anadido": "2026-10-04"
-    },
-    {
-      "id": "2026-10-31-museoph-talleres-infantiles",
-      "titulo": "Talleres infantiles en el Museo Patio Herreriano",
-      "categoria": "familia",
-      "fecha_inicio": "2026-10-31",
-      "fecha_fin": "2026-11-01",
-      "hora": "11:30",
-      "lugar": "Museo Patio Herreriano",
-      "descripcion": "Programa para niños de 6 a 11 años por el puente; inscripciones desde el 18 de octubre.",
-      "precio": "2 €",
-      "url": "https://museoph.org/pagina/programas-infantiles",
       "anadido": "2026-10-04"
     },
     {
@@ -602,16 +579,6 @@
       "lugar": "Sala Porta Caeli",
       "descripcion": "Concierto de Sienna en la sala vallisoletana Porta Caeli, dentro de la programación de otoño.",
       "url": "https://www.jacksonlive.es/valladolid",
-      "anadido": "2026-10-17"
-    },
-    {
-      "id": "2026-11-01-carrera-salchicha-zaratan",
-      "titulo": "Carrera Popular de la Salchicha",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-01",
-      "lugar": "Zaratán",
-      "descripcion": "Carrera popular de unos 7 kilómetros por el entorno de Zaratán, a las puertas de Valladolid.",
-      "url": "https://www.fmdva.org/eventos",
       "anadido": "2026-10-17"
     },
     {
@@ -1231,6 +1198,30 @@
       "descripcion": "Muestra sobre Francisco y Juan Ribalta, con obras del Museo de Bellas Artes de Valencia, tras su paso por Málaga.",
       "url": "https://www.culturaydeporte.gob.es/mnescultura/",
       "anadido": "2026-11-07"
+    },
+    {
+      "id": "2026-11-20-neverland-bari-cientocero",
+      "titulo": "Neverland Bari en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-20",
+      "hora": "20:30",
+      "lugar": "Sala Cientocero, calle Gamazo 17",
+      "descripcion": "La banda de pop-rock indie Neverland Bari presenta su gira en la sala Cientocero de Valladolid.",
+      "precio": "desde 18 €",
+      "url": "https://www.taquilla.com/valladolid/sala-cientocero-valladolid",
+      "anadido": "2026-11-09"
+    },
+    {
+      "id": "2026-10-30-expo-200-anos-policia-municipal",
+      "titulo": "Exposición «200 años a tu servicio» · Policía Municipal",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-30",
+      "fecha_fin": "2026-12-09",
+      "lugar": "Oficina de Turismo de San Benito",
+      "descripcion": "Recorrido por los dos siglos de historia de la Policía Municipal de Valladolid, desde la Partida de la Capa hasta hoy.",
+      "precio": "Gratis",
+      "url": "https://vivirediciones.es/?p=1139201",
+      "anadido": "2026-11-09"
     }
   ]
 }
