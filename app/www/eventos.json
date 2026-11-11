@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T07:20:00+01:00",
+  "actualizado": "2026-11-11T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-07-malu-arroyo",
@@ -670,18 +670,6 @@
       "anadido": "2026-10-21"
     },
     {
-      "id": "2026-11-01-don-juan-tenorio-zorrilla",
-      "titulo": "Don Juan Tenorio",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-01",
-      "fecha_fin": "2026-11-03",
-      "hora": "19:00",
-      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
-      "descripcion": "La representación tradicional del drama de Zorrilla por Todos los Santos, en el teatro que lleva su nombre.",
-      "url": "https://teatrozorrilla.vivaticket.es/espectaculo/don-juan-tenorio/TZ261101",
-      "anadido": "2026-10-22"
-    },
-    {
       "id": "2026-11-06-rancapino-chico-zorrilla",
       "titulo": "Rancapino Chico en concierto",
       "categoria": "conciertos",
@@ -1208,6 +1196,18 @@
       "descripcion": "Vuelve a abrir uno de los bares míticos de la ciudad con una nueva etapa que recupera su esencia y renueva su propuesta como cafetería y restaurante.",
       "url": "https://www.tribunavalladolid.com/noticias/465862/ya-hay-fecha-para-la-reapertura-de-el-penicilino",
       "anadido": "2026-11-10"
+    },
+    {
+      "id": "2026-12-13-jeanette-arroyo",
+      "titulo": "Jeanette: gira 50 aniversario",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-13",
+      "hora": "19:00",
+      "lugar": "Casa de la Música y el Teatro, Arroyo de la Encomienda",
+      "descripcion": "La cantante repasa cinco décadas de carrera con temas como «Soy rebelde» y «Porque te vas».",
+      "precio": "desde 28 €",
+      "url": "https://www.laganzua.net/conciertos/jeanette-arroyo-de-la-encomienda-1018099",
+      "anadido": "2026-11-11"
     }
   ]
 }
