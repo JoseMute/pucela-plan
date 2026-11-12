@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T07:30:00+01:00",
+  "actualizado": "2026-11-12T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-07-malu-arroyo",
@@ -1208,6 +1208,88 @@
       "precio": "desde 28 €",
       "url": "https://www.laganzua.net/conciertos/jeanette-arroyo-de-la-encomienda-1018099",
       "anadido": "2026-11-11"
+    },
+    {
+      "id": "2026-11-15-calabacin-errante-delicias",
+      "titulo": "La caja de los agujeros (El Calabacín Errante)",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-15",
+      "hora": "12:00",
+      "lugar": "Centro Cívico Delicias",
+      "descripcion": "Espectáculo infantil dentro del ciclo municipal Menudo fin de semana.",
+      "precio": "Gratis (invitación)",
+      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-delicias/actividades",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-11-21-henriko-parquesol",
+      "titulo": "Henriko: malabares y humor",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-21",
+      "hora": "18:00",
+      "lugar": "Centro Cívico Parquesol",
+      "descripcion": "Espectáculo familiar de malabares y humor del ciclo Menudo fin de semana.",
+      "precio": "Gratis (invitación)",
+      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-parquesol/actividades",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-11-28-vamos-a-hacer-el-indio-zona-sur",
+      "titulo": "Vamos a hacer el indio (RādhāNīl)",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-28",
+      "hora": "12:00",
+      "lugar": "Centro Cívico Zona Sur",
+      "descripcion": "Función infantil del ciclo Menudo fin de semana.",
+      "precio": "Gratis (invitación)",
+      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-zona-sur/actividades",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-11-17-expo-cristina-duenas-zona-sur",
+      "titulo": "Explorando territorios, de Cristina Dueñas",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-11-17",
+      "fecha_fin": "2026-11-30",
+      "lugar": "Centro Cívico Zona Sur",
+      "descripcion": "Muestra de la artista Cristina Dueñas en el centro cívico.",
+      "precio": "Gratis",
+      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-zona-sur/actividades",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-11-18-presentacion-vikingo-casa-zorrilla",
+      "titulo": "Presentación: Hay un vikingo enterrado en mi pueblo",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-11-18",
+      "hora": "19:30",
+      "lugar": "Casa de Zorrilla",
+      "descripcion": "Presentación literaria de esta obra en la Casa de Zorrilla.",
+      "precio": "Gratis",
+      "url": "https://vivetuciudad.es/mes?page=2",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-11-17-vida-social-bacterias-casa-cervantes",
+      "titulo": "Charla: La vida social de las bacterias",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-11-17",
+      "lugar": "Museo Casa de Cervantes",
+      "descripcion": "Charla divulgativa sobre el comportamiento de las bacterias.",
+      "url": "https://vivetuciudad.es/mes?page=2",
+      "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-12-03-oscyl-fischer-ibragimova",
+      "titulo": "OSCyL: Fischer e Ibragimova (Vivaldi y Nielsen)",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-03",
+      "hora": "19:30",
+      "lugar": "Auditorio Miguel Delibes, Sala Sinfónica",
+      "descripcion": "Programa 6 de la temporada con Thierry Fischer y la violinista Alina Ibragimova; se repite el 4 de diciembre.",
+      "precio": "12 €",
+      "url": "https://vivetuciudad.es/mes/2026/12",
+      "anadido": "2026-11-12"
     }
   ]
 }
