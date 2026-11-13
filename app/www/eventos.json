@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T07:20:00+01:00",
+  "actualizado": "2026-11-13T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-07-malu-arroyo",
@@ -578,17 +578,6 @@
       "lugar": "Teatro Carrión",
       "descripcion": "Espectáculo musical infantil de canciones y juegos para disfrutar en familia.",
       "url": "https://teatrocarrion.com/cartelera-teatro-carrion.html",
-      "anadido": "2026-10-18"
-    },
-    {
-      "id": "2026-11-05-donde-mejor-que-aqui-presentacion",
-      "titulo": "Presentación del libro «¿Dónde mejor que aquí?»",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-11-05",
-      "hora": "17:30",
-      "lugar": "Instituto de Estudios Europeos, Plaza de Santa Cruz 5",
-      "descripcion": "La UVA y el CSIC presentan un libro sobre el retorno al campo en Castilla y León.",
-      "url": "https://cchs.csic.es/sites/default/files/invitacion_donde_mejor_que_aqui.pdf",
       "anadido": "2026-10-18"
     },
     {
