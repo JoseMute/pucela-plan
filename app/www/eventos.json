@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T07:30:00+01:00",
+  "actualizado": "2026-11-14T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-07-malu-arroyo",
@@ -82,17 +82,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-06-jorge-bolanos",
-      "titulo": "Animal de Compañía · Jorge Bolaños",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-06",
-      "lugar": "Sala Borja",
-      "descripcion": "Monólogo de Jorge Bolaños.",
-      "precio": "18 €",
-      "url": "https://feverup.com/es/valladolid/monologos",
       "anadido": "2026-10-01"
     },
     {
@@ -365,18 +354,6 @@
       "descripcion": "Festival con tributos a Extremoduro y Platero y Tú / Fito.",
       "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid/valladolid-y-campina-del-pisuerga/concerts",
       "anadido": "2026-10-08"
-    },
-    {
-      "id": "2026-11-06-david-cepo-carrion",
-      "titulo": "David Cepo: No cruces los brazos",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-06",
-      "hora": "20:30",
-      "lugar": "Teatro Carrión, calle Montero Calvo 2",
-      "descripcion": "Monólogo de humor de David Cepo con su espectáculo en gira, que vuelve a Valladolid tras pasar por el mismo teatro en febrero.",
-      "precio": "desde 25,90 €",
-      "url": "https://www.taquilla.com/valladolid/teatro-carrion-valladolid",
-      "anadido": "2026-10-09"
     },
     {
       "id": "2026-10-11-balenciaga-pertegaz-pasion",
@@ -659,16 +636,6 @@
       "anadido": "2026-10-21"
     },
     {
-      "id": "2026-11-06-rancapino-chico-zorrilla",
-      "titulo": "Rancapino Chico en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-06",
-      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
-      "descripcion": "Concierto de cante flamenco de Rancapino Chico en el Teatro Zorrilla.",
-      "url": "https://teatrozorrilla.vivaticket.es/",
-      "anadido": "2026-10-22"
-    },
-    {
       "id": "2026-11-13-nos-damos-un-viaje-zorrilla",
       "titulo": "¿Nos damos un viaje? · Santi Rodríguez",
       "categoria": "humor",
@@ -926,17 +893,6 @@
       "precio": "desde 15,47 €",
       "url": "https://ociovalladolid.com/espectaculos-en-valladolid/",
       "anadido": "2026-10-30"
-    },
-    {
-      "id": "2026-11-06-madre-mia-carrion",
-      "titulo": "Madre mía, con Ismael Lemais e Isita Díaz",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-06",
-      "hora": "20:30",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Espectáculo de Ismael Lemais e Isita Díaz que llega al Teatro Carrión con una función el viernes por la noche.",
-      "url": "https://teatrocarrion.com/",
-      "anadido": "2026-10-31"
     },
     {
       "id": "2026-11-08-carrera-parquesol",
@@ -1279,6 +1235,57 @@
       "precio": "12 €",
       "url": "https://vivetuciudad.es/mes/2026/12",
       "anadido": "2026-11-12"
+    },
+    {
+      "id": "2026-12-11-mesias-participativo-delibes",
+      "titulo": "El Mesías de Händel participativo",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-11",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Concierto participativo de El Mesías con la OSCyL y coros invitados, abierto a cantantes aficionados.",
+      "url": "https://www.centroculturalmigueldelibes.com/evento/",
+      "anadido": "2026-11-14"
+    },
+    {
+      "id": "2026-12-10-metropolis-filmoteca-seminci",
+      "titulo": "Metrópolis (1927) - Filmoteca Seminci",
+      "categoria": "cine",
+      "fecha_inicio": "2026-12-10",
+      "lugar": "Cines Broadway",
+      "descripcion": "Proyección del clásico de Fritz Lang que cierra el ciclo de Filmoteca Seminci.",
+      "url": "https://www.seminci.com/",
+      "anadido": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-te-atrevo-lava",
+      "titulo": "Te atrevo (danza)",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-14",
+      "lugar": "LAVA",
+      "descripcion": "Espectáculo de danza programado en LAVA.",
+      "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid",
+      "anadido": "2026-11-14"
+    },
+    {
+      "id": "2026-11-15-caperucita-roja-lava",
+      "titulo": "Caperucita Roja (o para quién es este pastel)",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-15",
+      "lugar": "LAVA",
+      "descripcion": "Función familiar sobre el cuento de Caperucita Roja.",
+      "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid",
+      "anadido": "2026-11-14"
+    },
+    {
+      "id": "2026-11-15-flamenco-arroyo",
+      "titulo": "Flamenco de empoderamiento femenino",
+      "categoria": "escena",
+      "fecha_inicio": "2026-11-15",
+      "lugar": "Casa de la Música y Teatro, Arroyo de la Encomienda",
+      "descripcion": "Espectáculo flamenco centrado en el empoderamiento femenino.",
+      "url": "https://vivetuciudad.es/mes?page=2",
+      "anadido": "2026-11-14",
+      "hora": "19:00"
     }
   ]
 }
