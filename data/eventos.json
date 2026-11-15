@@ -1,26 +1,6 @@
 {
-  "actualizado": "2026-11-14T07:20:00+01:00",
+  "actualizado": "2026-11-15T07:30:00+01:00",
   "eventos": [
-    {
-      "id": "2026-11-07-malu-arroyo",
-      "titulo": "Malú",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-07",
-      "lugar": "Arroyo Esfera (Arroyo de la Encomienda)",
-      "descripcion": "Concierto de Malú.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-07-chiquita-movida",
-      "titulo": "Chiquita Movida",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-07",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de Chiquita Movida.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-11-13-hens",
       "titulo": "Hens",
@@ -82,16 +62,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-07-concurso-nacional-tapas",
-      "titulo": "Concurso Nacional de Pinchos y Tapas y Mundial de Tapas",
-      "categoria": "gastronomia",
-      "fecha_inicio": "2026-11-07",
-      "lugar": "Cúpula del Milenio",
-      "descripcion": "Final del XXII Concurso Nacional y X Campeonato Mundial de Tapas Ciudad de Valladolid. Después, las tapas finalistas se pueden probar en bares de la ciudad.",
-      "url": "https://concursonacionaltapas.com/valladolid/",
       "anadido": "2026-10-01"
     },
     {
@@ -335,16 +305,6 @@
       "anadido": "2026-10-07"
     },
     {
-      "id": "2026-11-07-memorial-vidal-matarranz",
-      "titulo": "Memorial Vidal-Matarranz",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-07",
-      "lugar": "Valladolid",
-      "descripcion": "Carrera popular de 9 km con carrera vertical y pruebas infantiles.",
-      "url": "https://gotrail.run/en/event/memorial-vidal-matarranz",
-      "anadido": "2026-10-08"
-    },
-    {
       "id": "2026-11-28-rollo-de-siempre-cientocero",
       "titulo": "Festival El Rollo de Siempre",
       "categoria": "conciertos",
@@ -387,17 +347,6 @@
       "lugar": "Teatro Calderón",
       "descripcion": "Espectáculo de la temporada 26/27 del Teatro Calderón; conviene confirmar horarios y sala en la web del teatro.",
       "url": "https://cultura.valladolid.es/actualidad/el-teatro-calderon-presenta-su-temporada-2627",
-      "anadido": "2026-10-10"
-    },
-    {
-      "id": "2026-11-07-tempo-clasico-eva-arderius",
-      "titulo": "Tempo Clásico: Eva Arderius y Nicolás Margarit",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-07",
-      "hora": "19:00",
-      "lugar": "Teatro Calderón, Sala Delibes",
-      "descripcion": "Recital de violonchelo y piano que inaugura el ciclo Tempo Clásico de Juventudes Musicales.",
-      "url": "https://tcalderon.com/",
       "anadido": "2026-10-10"
     },
     {
@@ -1011,17 +960,6 @@
       "anadido": "2026-11-04"
     },
     {
-      "id": "2026-11-07-uemc-jaen-pisuerga",
-      "titulo": "UEMC Baloncesto Valladolid vs Jaén",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-07",
-      "hora": "19:00",
-      "lugar": "Polideportivo Pisuerga",
-      "descripcion": "Partido de Segunda FEB del UEMC en casa ante el Jaén.",
-      "url": "https://valladolidbaloncesto.koobin.com/",
-      "anadido": "2026-11-04"
-    },
-    {
       "id": "2026-12-06-reb-velvet-delibes",
       "titulo": "Reb Velvet Big Band: tributo navideño a Bublé",
       "categoria": "conciertos",
@@ -1286,6 +1224,16 @@
       "url": "https://vivetuciudad.es/mes?page=2",
       "anadido": "2026-11-14",
       "hora": "19:00"
+    },
+    {
+      "id": "2026-12-22-maria-pelae-delibes",
+      "titulo": "María Peláe: Navidad flamenca",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-22",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "La cantautora malagueña lleva a Valladolid su espectáculo de villancicos con aire flamenco y letras con carácter.",
+      "url": "https://conciertos.club/valladolid/conciertos/129958-maria-pelae",
+      "anadido": "2026-11-15"
     }
   ]
 }
