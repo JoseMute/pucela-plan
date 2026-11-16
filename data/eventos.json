@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T07:30:00+01:00",
+  "actualizado": "2026-11-16T07:15:00+01:00",
   "eventos": [
     {
       "id": "2026-11-13-hens",
@@ -62,17 +62,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-07-dialogos-siglo-xviii",
-      "titulo": "Diálogos del siglo XVIII",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-07",
-      "fecha_fin": "2026-11-08",
-      "lugar": "Teatro Calderón (Sala Delibes)",
-      "descripcion": "Música clásica con Juventudes Musicales de Valladolid.",
-      "url": "https://tcalderon.com/",
       "anadido": "2026-10-01"
     },
     {
@@ -280,17 +269,6 @@
       "hora": "20:30",
       "lugar": "Teatro Carrión",
       "descripcion": "Concierto tributo a las bandas sonoras de las películas de Studio Ghibli.",
-      "url": "https://teatrocarrion.com/",
-      "anadido": "2026-10-06"
-    },
-    {
-      "id": "2026-11-08-gran-showman-carrion",
-      "titulo": "El Gran Showman · El Musical",
-      "categoria": "familia",
-      "fecha_inicio": "2026-11-08",
-      "hora": "17:30",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Musical inspirado en la película El Gran Showman, para toda la familia.",
       "url": "https://teatrocarrion.com/",
       "anadido": "2026-10-06"
     },
@@ -690,16 +668,6 @@
       "anadido": "2026-10-23"
     },
     {
-      "id": "2026-11-08-rafa-pons-cafe-teatro",
-      "titulo": "Rafa Pons",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-08",
-      "lugar": "Café Teatro",
-      "descripcion": "El cantautor Rafa Pons actúa en el Café Teatro de Valladolid.",
-      "url": "https://www.songkick.com/metro-areas/28803-spain-valladolid/2026",
-      "anadido": "2026-10-24"
-    },
-    {
       "id": "2026-12-26-navival-feria",
       "titulo": "Navival, parque de Navidad infantil",
       "categoria": "familia",
@@ -844,16 +812,6 @@
       "anadido": "2026-10-30"
     },
     {
-      "id": "2026-11-08-carrera-parquesol",
-      "titulo": "Carrera Popular Ciudad de Parquesol",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-08",
-      "lugar": "Parquesol, Valladolid",
-      "descripcion": "Carrera popular de 6 km por las calles del barrio de Parquesol.",
-      "url": "https://trainerday.com/events/es/carrera-popular-ciudad-de-parquesol",
-      "anadido": "2026-10-31"
-    },
-    {
       "id": "2026-11-22-carrera-poligono-san-cristobal",
       "titulo": "Carrera Polígono San Cristóbal",
       "categoria": "deporte",
@@ -893,18 +851,6 @@
       "precio": "desde 25,90 €",
       "url": "https://ventaoficial.es/conciertos/valladolid/comedia/",
       "anadido": "2026-11-02"
-    },
-    {
-      "id": "2026-11-08-dirty-sound-magnet-porta-caeli",
-      "titulo": "Dirty Sound Magnet",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-08",
-      "hora": "20:00",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de la banda suiza de rock psicodélico en la sala Porta Caeli.",
-      "precio": "18,70 €",
-      "url": "https://www.laganzua.net/conciertos/valladolid",
-      "anadido": "2026-11-03"
     },
     {
       "id": "2026-12-11-ruslana-lava",
