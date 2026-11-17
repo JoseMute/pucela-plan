@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T07:15:00+01:00",
+  "actualizado": "2026-11-17T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-13-hens",
@@ -216,17 +216,6 @@
       "lugar": "Sala Porta Caeli",
       "descripcion": "Concierto de Atzur en la sala Porta Caeli de Valladolid.",
       "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-06"
-    },
-    {
-      "id": "2026-11-07-paraiso-negros-calderon",
-      "titulo": "El paraíso de los negros · María Pagés",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-07",
-      "fecha_fin": "2026-11-09",
-      "lugar": "Teatro Calderón",
-      "descripcion": "Espectáculo de danza de María Pagés y El Arbi El Harti inspirado en «Poeta en Nueva York» de Lorca.",
-      "url": "https://tcalderon.com/temporada/",
       "anadido": "2026-10-06"
     },
     {
@@ -1180,6 +1169,86 @@
       "descripcion": "La cantautora malagueña lleva a Valladolid su espectáculo de villancicos con aire flamenco y letras con carácter.",
       "url": "https://conciertos.club/valladolid/conciertos/129958-maria-pelae",
       "anadido": "2026-11-15"
+    },
+    {
+      "id": "2026-12-27-mocedades-panchos-delibes",
+      "titulo": "Mocedades + Los Panchos: gira 60 aniversario",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-27",
+      "hora": "19:00",
+      "lugar": "Centro Cultural Miguel Delibes",
+      "descripcion": "Concierto conjunto de Mocedades y Los Panchos dentro de su gira por el 60 aniversario.",
+      "precio": "desde 38 €",
+      "url": "https://www.taquilla.com/entradas/los-panchos",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2026-12-11-caballero-olmedo-calderon",
+      "titulo": "El caballero de Olmedo · Compañía Nacional de Teatro Clásico",
+      "categoria": "escena",
+      "fecha_inicio": "2026-12-11",
+      "fecha_fin": "2026-12-13",
+      "hora": "19:30",
+      "lugar": "Teatro Calderón (Sala Principal)",
+      "descripcion": "Montaje de la CNTC dirigido por Laila Ripoll sobre el clásico de Lope de Vega.",
+      "precio": "10-30 €",
+      "url": "https://cultura.valladolid.es/programas-y-ciclos/temporada-teatro-calderon-valladolid",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2027-01-08-abian-diaz-carrion",
+      "titulo": "Abián Díaz: Show Patético",
+      "categoria": "humor",
+      "fecha_inicio": "2027-01-08",
+      "hora": "21:00",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Monólogo de humor de Abián Díaz.",
+      "precio": "17,30 €",
+      "url": "https://entradas.teatrocarrion.com/",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2027-01-15-alex-odogherty-carrion",
+      "titulo": "Alex O'Dogherty: Palabras Mayores",
+      "categoria": "humor",
+      "fecha_inicio": "2027-01-15",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Espectáculo de humor y palabras de Alex O'Dogherty.",
+      "precio": "17,30 €",
+      "url": "https://entradas.teatrocarrion.com/",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2027-01-03-real-valladolid-burgos",
+      "titulo": "Real Valladolid – Burgos CF (LaLiga Hypermotion, jornada 20)",
+      "categoria": "deporte",
+      "fecha_inicio": "2027-01-03",
+      "lugar": "Estadio José Zorrilla",
+      "descripcion": "Partido de liga en casa del Real Valladolid contra el Burgos.",
+      "url": "https://www.laliga.com/es-ES/clubes/r-valladolid-cf/proximos-partidos",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2026-10-17-azul-castilla-patio-herreriano",
+      "titulo": "Azul Castilla",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2027-04-04",
+      "lugar": "Museo Patio Herreriano (Sala 8)",
+      "descripcion": "Exposición de la colección en la Sala 8 del Patio Herreriano.",
+      "url": "https://museoph.org/pagina/exposiciones",
+      "anadido": "2026-11-17"
+    },
+    {
+      "id": "2026-09-26-ora-pro-nobis-patio-herreriano",
+      "titulo": "Ora pro nobis",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-09-26",
+      "fecha_fin": "2027-02-14",
+      "lugar": "Museo Patio Herreriano (capilla y Sala 9)",
+      "descripcion": "Muestra en la capilla y la Sala 9 del museo.",
+      "url": "https://museoph.org/pagina/exposiciones",
+      "anadido": "2026-11-17"
     }
   ]
 }
