@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T07:30:00+01:00",
+  "actualizado": "2026-11-19T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-13-hens",
@@ -241,12 +241,12 @@
     },
     {
       "id": "2026-11-20-lago-carrion",
-      "titulo": "Lago",
-      "categoria": "conciertos",
+      "titulo": "Miguel Lago",
+      "categoria": "humor",
       "fecha_inicio": "2026-11-20",
       "hora": "20:30",
       "lugar": "Teatro Carrión",
-      "descripcion": "Concierto de Lago en el Teatro Carrión.",
+      "descripcion": "Espectáculo de humor del cómico Miguel Lago en el Teatro Carrión.",
       "url": "https://teatrocarrion.com/",
       "anadido": "2026-10-06"
     },
@@ -1249,6 +1249,39 @@
       "descripcion": "Muestra en la capilla y la Sala 9 del museo.",
       "url": "https://museoph.org/pagina/exposiciones",
       "anadido": "2026-11-17"
+    },
+    {
+      "id": "2027-01-15-notte-morricone-calderon",
+      "titulo": "Notte Morricone · Aterballetto",
+      "categoria": "escena",
+      "fecha_inicio": "2027-01-15",
+      "fecha_fin": "2027-01-17",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Homenaje en danza a Ennio Morricone, dirigido y coreografiado por Marcos Morau junto a la compañía Aterballetto.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-11-19"
+    },
+    {
+      "id": "2027-01-15-esturillo-sala-borja",
+      "titulo": "Iván Esturillo: En la sala de espera",
+      "categoria": "humor",
+      "fecha_inicio": "2027-01-15",
+      "lugar": "Sala Borja",
+      "descripcion": "Monólogo de humor de Iván Esturillo en la Sala Borja.",
+      "url": "https://salaborja.es/category/monologos-comicos/",
+      "anadido": "2026-11-19"
+    },
+    {
+      "id": "2026-12-13-musica-bebes-delibes",
+      "titulo": "Talleres de música para bebés",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-13",
+      "hora": "11:00",
+      "lugar": "Auditorio Miguel Delibes (Sala Sinfónica)",
+      "descripcion": "Taller musical para los más pequeños y sus familias en el Auditorio.",
+      "precio": "5 €",
+      "url": "https://www.centroculturalmigueldelibes.com/",
+      "anadido": "2026-11-19"
     }
   ]
 }
