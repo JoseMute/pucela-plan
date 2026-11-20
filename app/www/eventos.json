@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T07:20:00+01:00",
+  "actualizado": "2026-11-20T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-13-hens",
@@ -206,17 +206,6 @@
       "descripcion": "Concierto del grupo Levitants en Valladolid durante las fiestas navideñas.",
       "url": "https://www.laganzua.net/conciertos/valladolid/2026",
       "anadido": "2026-10-04"
-    },
-    {
-      "id": "2026-11-12-atzur-porta-caeli",
-      "titulo": "Atzur",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-12",
-      "hora": "20:00",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de Atzur en la sala Porta Caeli de Valladolid.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-06"
     },
     {
       "id": "2026-11-22-hijo-comica-calderon",
@@ -1282,6 +1271,62 @@
       "precio": "5 €",
       "url": "https://www.centroculturalmigueldelibes.com/",
       "anadido": "2026-11-19"
+    },
+    {
+      "id": "2026-11-26-pista-hielo-campo-grande",
+      "titulo": "Pista de hielo de Navidad en el Campo Grande",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-26",
+      "fecha_fin": "2027-01-06",
+      "lugar": "Paseo Central del Campo Grande",
+      "descripcion": "Pista de patinaje que se instala en el Campo Grande durante toda la Navidad, con apertura de tarde y, en la segunda parte de la temporada, también de mañana.",
+      "precio": "9 € (según Ocio Valladolid, por confirmar)",
+      "url": "https://ociovalladolid.com/pista-hielo-valladolid/",
+      "anadido": "2026-11-20"
+    },
+    {
+      "id": "2026-12-12-cabalgata-papa-noel",
+      "titulo": "Cabalgata de Papá Noel",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-12",
+      "hora": "18:30",
+      "lugar": "Centro de Valladolid",
+      "descripcion": "Desfile navideño con Papá Noel por las calles del centro, dentro del programa municipal de Navidad.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-11-20"
+    },
+    {
+      "id": "2026-12-18-videomapping-antigua",
+      "titulo": "Videomapping navideño en La Antigua",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-18",
+      "fecha_fin": "2026-12-19",
+      "lugar": "Iglesia de Santa María la Antigua",
+      "descripcion": "Espectáculo de luces proyectado sobre la iglesia de La Antigua dentro de la programación navideña.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-11-20"
+    },
+    {
+      "id": "2026-12-03-belen-cupula-milenio",
+      "titulo": "Belén monumental en la Cúpula del Milenio",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-03",
+      "fecha_fin": "2027-01-10",
+      "lugar": "Cúpula del Milenio",
+      "descripcion": "Belén monumental visitable durante la Navidad, con talleres y teatro en el mismo espacio. Las fechas varían según la fuente.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-11-20"
+    },
+    {
+      "id": "2026-12-18-feria-creativa-galerias-va",
+      "titulo": "XII Feria Creativa",
+      "categoria": "ferias",
+      "fecha_inicio": "2026-12-18",
+      "fecha_fin": "2026-12-19",
+      "lugar": "Galerías Va",
+      "descripcion": "Feria de creadores y artesanía en el centro comercial Galerías Va, en plena campaña navideña.",
+      "url": "https://cultura.valladolid.es/",
+      "anadido": "2026-11-20"
     }
   ]
 }
