@@ -1,16 +1,6 @@
 {
-  "actualizado": "2026-11-20T07:30:00+01:00",
+  "actualizado": "2026-11-21T07:20:00+01:00",
   "eventos": [
-    {
-      "id": "2026-11-13-hens",
-      "titulo": "Hens",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-13",
-      "lugar": "Sala El Desierto Rojo",
-      "descripcion": "Concierto de Hens.",
-      "url": "https://www.laganzua.net/conciertos/valladolid/2026",
-      "anadido": "2026-10-01"
-    },
     {
       "id": "2026-11-21-belen-aguilera",
       "titulo": "Belén Aguilera",
@@ -443,16 +433,6 @@
       "anadido": "2026-10-16"
     },
     {
-      "id": "2026-11-13-sienna-porta-caeli",
-      "titulo": "Sienna en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-13",
-      "lugar": "Sala Porta Caeli",
-      "descripcion": "Concierto de Sienna en la sala vallisoletana Porta Caeli, dentro de la programación de otoño.",
-      "url": "https://www.jacksonlive.es/valladolid",
-      "anadido": "2026-10-17"
-    },
-    {
       "id": "2026-12-06-cantajuego-carrion",
       "titulo": "CantaJuego · Grupo EnCanto",
       "categoria": "familia",
@@ -539,16 +519,6 @@
       "descripcion": "Adaptación musical de la novela de María Dueñas, con la autora como asesora creativa, que cierra el año en el Calderón.",
       "url": "https://tcalderon.com/",
       "anadido": "2026-10-21"
-    },
-    {
-      "id": "2026-11-13-nos-damos-un-viaje-zorrilla",
-      "titulo": "¿Nos damos un viaje? · Santi Rodríguez",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-13",
-      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
-      "descripcion": "Espectáculo de humor de Santi Rodríguez en el Teatro Zorrilla.",
-      "url": "https://teatrozorrilla.vivaticket.es/",
-      "anadido": "2026-10-22"
     },
     {
       "id": "2026-11-15-miki-dkai-zorrilla",
@@ -692,16 +662,6 @@
       "anadido": "2026-10-27"
     },
     {
-      "id": "2026-11-13-vallatech-summit",
-      "titulo": "VallaTech Summit 2026",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-11-13",
-      "lugar": "Escuela de Ingeniería Informática de Valladolid",
-      "descripcion": "Jornada tecnológica con charlas, talleres y networking.",
-      "url": "https://www.vallatechsummit.com/",
-      "anadido": "2026-10-27"
-    },
-    {
       "id": "2026-12-03-raya-real-carrion",
       "titulo": "Raya Real: Con alegría (concierto navideño)",
       "categoria": "conciertos",
@@ -737,11 +697,12 @@
       "id": "2026-12-26-pucela-sansil",
       "titulo": "Pucela Sansil, carrera popular de fin de año",
       "categoria": "deporte",
-      "fecha_inicio": "2026-12-26",
+      "fecha_inicio": "2026-12-27",
       "lugar": "Feria de Valladolid",
       "descripcion": "Carrera popular de fin de año con inscripciones abiertas hasta el 23 de diciembre.",
       "url": "https://pucelasansil.com/",
-      "anadido": "2026-10-28"
+      "anadido": "2026-10-28",
+      "precio": "6,5 €"
     },
     {
       "id": "2026-11-03-expo-momentos-deporte-cc-parquesol",
@@ -1327,6 +1288,235 @@
       "descripcion": "Feria de creadores y artesanía en el centro comercial Galerías Va, en plena campaña navideña.",
       "url": "https://cultura.valladolid.es/",
       "anadido": "2026-11-20"
+    },
+    {
+      "id": "2026-11-21-uemc-ponferrada",
+      "titulo": "UEMC Baloncesto Valladolid - Clínica Ponferrada",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-11-21",
+      "hora": "19:00",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Jornada 8 de Segunda FEB del UEMC en casa, recién clasificado para cuartos de la Copa España.",
+      "url": "https://realvalladolidbaloncesto.es/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-12-andres-koi-porta-caeli",
+      "titulo": "Andrés Koi",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-12",
+      "hora": "21:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de pop-rock e indie en la sala vallisoletana.",
+      "precio": "25 €",
+      "url": "https://www.taquilla.com/valladolid/sala-porta-caeli-valladolid",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-13-potato-porta-caeli",
+      "titulo": "Potato",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-13",
+      "hora": "19:30",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Tarde de reggae y ska con Potato en Porta Caeli.",
+      "precio": "15 €",
+      "url": "https://www.taquilla.com/valladolid/sala-porta-caeli-valladolid",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-18-javi-medina-porta-caeli",
+      "titulo": "Javi Medina",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-18",
+      "hora": "21:00",
+      "lugar": "Sala Porta Caeli",
+      "descripcion": "Concierto de cantautor en Porta Caeli.",
+      "url": "https://www.taquilla.com/valladolid/sala-porta-caeli-valladolid",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-06-terol-existe-zorrilla",
+      "titulo": "Terol existe",
+      "categoria": "humor",
+      "fecha_inicio": "2026-12-06",
+      "hora": "20:00",
+      "lugar": "Teatro Zorrilla",
+      "descripcion": "Monólogo de humor en el Teatro Zorrilla.",
+      "precio": "desde 20 €",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-12-noticiero-nosoloviernes-zorrilla",
+      "titulo": "Noticiero de Nosoloviernes live show",
+      "categoria": "humor",
+      "fecha_inicio": "2026-12-12",
+      "lugar": "Teatro Zorrilla",
+      "descripcion": "Espectáculo en directo de humor de actualidad, en formato monólogo.",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-13-conversaciones-mente-zorrilla",
+      "titulo": "Conversaciones con mi mente",
+      "categoria": "humor",
+      "fecha_inicio": "2026-12-13",
+      "lugar": "Teatro Zorrilla",
+      "descripcion": "Espectáculo de humor en el Teatro Zorrilla; confirmar horario en taquilla.",
+      "precio": "desde 22 €",
+      "url": "https://teatrozorrilla.vivaticket.es/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-13-pavo-laguna-duero",
+      "titulo": "XLIV Carrera Pedestre Popular del Pavo",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-13",
+      "hora": "10:30",
+      "lugar": "Laguna de Duero",
+      "descripcion": "Carrera popular navideña en Laguna de Duero; inscripciones hasta el 10 de diciembre.",
+      "url": "https://inscripciones.runvasport.es/inscripcion/runvasport/listado-eventos-deportivos/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-15-pregon-navidad-calderon",
+      "titulo": "Pregón de Navidad de Valladolid",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-15",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Cuarto pregón navideño con deportistas y artistas locales.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-12-coros-voces-blancas-salvador",
+      "titulo": "I Encuentro de Coros de Voces Blancas Ciudad de Valladolid",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-12",
+      "lugar": "Iglesia del Salvador",
+      "descripcion": "Primer encuentro de coros infantiles dentro del programa de Navidad.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-22-villancicos-barrocos-catedral",
+      "titulo": "Concierto de villancicos barrocos",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-22",
+      "lugar": "Catedral de Valladolid",
+      "descripcion": "Concierto navideño de villancicos barrocos.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-18-vanesa-muela-santa-isabel",
+      "titulo": "Vanesa Muela, música tradicional navideña",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-18",
+      "lugar": "Santa Isabel de Hungría",
+      "descripcion": "Recital de música tradicional dentro del programa Valladolid es Navidad.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-19-conde-ansurez-santa-isabel",
+      "titulo": "Orquesta de Laúdes Conde Ansúrez",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-19",
+      "lugar": "Santa Isabel de Hungría",
+      "descripcion": "Concierto navideño de la orquesta de laúdes.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-27-bazanca-santa-isabel",
+      "titulo": "La Bazanca",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-27",
+      "lugar": "Santa Isabel de Hungría",
+      "descripcion": "Concierto de música tradicional en el ciclo navideño.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-14-herreriano-brilla-navidad",
+      "titulo": "El Herreriano brilla con la Navidad",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-14",
+      "fecha_fin": "2026-12-23",
+      "lugar": "Museo Patio Herreriano (patios exteriores)",
+      "descripcion": "Espectáculos de luz y arte en los patios del museo por su 25 aniversario; acceso gratuito.",
+      "precio": "Gratis",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-11-26-luz-sonido-plaza-portugalete",
+      "titulo": "Pases de luz y sonido en la Plaza Portugalete",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-11-26",
+      "fecha_fin": "2026-12-16",
+      "lugar": "Plaza Portugalete",
+      "descripcion": "Dos pases diarios (19:00 y 20:00) de luz y sonido durante la Navidad.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-30-nochevieja-infantil-cupula",
+      "titulo": "Fiesta de Nochevieja infantil",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-30",
+      "lugar": "Cúpula del Milenio",
+      "descripcion": "Fiesta infantil con disfraces, música y campanadas anticipadas.",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-12-23-talleres-navidad-casa-zorrilla",
+      "titulo": "Talleres navideños en la Casa de Zorrilla",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-23",
+      "fecha_fin": "2026-12-30",
+      "lugar": "Casa de Zorrilla",
+      "descripcion": "Talleres y fiesta infantil gratuitos (días 23, 28, 29 y 30) con inscripción previa desde el 12 de diciembre.",
+      "precio": "Gratis",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-concurso-tartas-queso",
+      "titulo": "V Concurso de Tartas de Queso",
+      "categoria": "gastronomia",
+      "fecha_inicio": "2026-11-21",
+      "fecha_fin": "2026-11-29",
+      "lugar": "36 establecimientos de la provincia",
+      "descripcion": "Quinta edición del concurso, con 36 locales ofreciendo sus tartas de queso hasta el 29 de noviembre.",
+      "url": "https://www.diariodevalladolid.es/valladolid/provincia/261120/288290/que-hacer-este-fin-de-semana-en-valladolid-5-planes-para-desconectar-y-no-aburrirse.html",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-10-20-expo-gondomar-palacio-villena",
+      "titulo": "Tiempos de paz y diplomacia: Diego y Constanza, condes de Gondomar",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-10-20",
+      "fecha_fin": "2027-02-14",
+      "lugar": "Palacio de Villena",
+      "descripcion": "Exposición sobre los condes de Gondomar; entrada gratuita.",
+      "precio": "Gratis",
+      "url": "https://www.lavozdemedinadigital.com/2026/11/valladolid-presenta-su-navidad-2026-con-cabalgatas-conciertos-belenes-y-espectaculos-de-luces/",
+      "anadido": "2026-11-21"
+    },
+    {
+      "id": "2027-01-10-cascanueces-ballet-kiev-calderon",
+      "titulo": "El Cascanueces, Ballet de Kiev",
+      "categoria": "escena",
+      "fecha_inicio": "2027-01-10",
+      "hora": "19:30",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Clásico navideño de danza a cargo del Ballet de Kiev.",
+      "url": "https://balletdekiev.com/events/el-cascanueces-valladolid/",
+      "anadido": "2026-11-21"
     }
   ]
 }
