@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T07:20:00+01:00",
+  "actualizado": "2026-11-22T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -116,17 +116,6 @@
       "descripcion": "Tienda de producto local de empresas rurales lideradas por mujeres: vinos, lácteos, miel, dulces y artesanía alimentaria.",
       "url": "https://www.tribunavalladolid.com/noticias/459588/manos-de-mujer-abre-sus-puertas-en-pleno-centro-de-valladolid-para-poner-en-valor-el-producto-local",
       "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-14-antonio-carmona-delibes",
-      "titulo": "Antonio Carmona",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-14",
-      "hora": "21:00",
-      "lugar": "Centro Cultural Miguel Delibes, Sala Sinfónica",
-      "descripcion": "El cantante de Ketama presenta su repertorio de flamenco-pop en el auditorio.",
-      "url": "https://www.eventworld.com/antonio-carmona-valladolid-tickets-14-11-2026/event/493612",
-      "anadido": "2026-10-03"
     },
     {
       "id": "2026-11-21-julio-iglesias-experience",
@@ -294,18 +283,6 @@
       "descripcion": "Espectáculo de la temporada 26/27 del Teatro Calderón; conviene confirmar horarios y sala en la web del teatro.",
       "url": "https://cultura.valladolid.es/actualidad/el-teatro-calderon-presenta-su-temporada-2627",
       "anadido": "2026-10-10"
-    },
-    {
-      "id": "2026-11-14-queen-forever-carrion",
-      "titulo": "Queen Forever",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-14",
-      "hora": "21:00",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Tributo en directo a Queen con los grandes éxitos de la banda británica.",
-      "precio": "33,50 €",
-      "url": "https://conciertos.club/valladolid/conciertos/121512-queen-forever-tributo-a-queen",
-      "anadido": "2026-10-11"
     },
     {
       "id": "2026-11-01-valladolid-jazz",
@@ -595,16 +572,6 @@
       "anadido": "2026-10-22"
     },
     {
-      "id": "2026-11-14-medea-la-machina-calderon",
-      "titulo": "Medea · La Machina",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-14",
-      "lugar": "Teatro Calderón",
-      "descripcion": "Nueva versión teatral de la tragedia de Medea a cargo de la compañía La Machina, dentro de la programación del Calderón.",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-23"
-    },
-    {
       "id": "2026-11-27-gigante-calderon",
       "titulo": "Gigante · Josep Maria Mestres",
       "categoria": "escena",
@@ -877,29 +844,6 @@
       "anadido": "2026-11-05"
     },
     {
-      "id": "2026-11-14-candlelight-michael-jackson-circulo-recreo",
-      "titulo": "Candlelight: Tributo a Michael Jackson",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-14",
-      "lugar": "Círculo de Recreo, C/ Duque de la Victoria 6",
-      "descripcion": "Concierto a la luz de las velas con cuarteto de cuerda que recorre éxitos de Michael Jackson como Billie Jean, Thriller o Heal the World.",
-      "precio": "desde 18 €",
-      "url": "https://feverup.com/es/valladolid/venue/circulo-de-recreo-de-valladolid",
-      "anadido": "2026-11-06"
-    },
-    {
-      "id": "2026-11-14-good-rockin-porta-caeli",
-      "titulo": "10th Good Rockin' Valladolid",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-14",
-      "hora": "20:30",
-      "lugar": "Sala Porta Caeli, C/ Mariano de los Cobos",
-      "descripcion": "Décima edición del festival de rockabilly y swing con The Gold Diggers, Strike y Pekka Tiilikainen & Beatmakers, más dos DJs.",
-      "precio": "23 €",
-      "url": "https://conciertos.club/valladolid/conciertos/129888-good-rockin-valladolid-the-gold-diggers-strike-pekka-tiilikainen-beatmakers/1794771000",
-      "anadido": "2026-11-07"
-    },
-    {
       "id": "2026-11-15-javier-perianes-delibes",
       "titulo": "Recital de piano de Javier Perianes",
       "categoria": "conciertos",
@@ -1077,16 +1021,6 @@
       "lugar": "Cines Broadway",
       "descripcion": "Proyección del clásico de Fritz Lang que cierra el ciclo de Filmoteca Seminci.",
       "url": "https://www.seminci.com/",
-      "anadido": "2026-11-14"
-    },
-    {
-      "id": "2026-11-14-te-atrevo-lava",
-      "titulo": "Te atrevo (danza)",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-14",
-      "lugar": "LAVA",
-      "descripcion": "Espectáculo de danza programado en LAVA.",
-      "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid",
       "anadido": "2026-11-14"
     },
     {
@@ -1517,6 +1451,161 @@
       "descripcion": "Clásico navideño de danza a cargo del Ballet de Kiev.",
       "url": "https://balletdekiev.com/events/el-cascanueces-valladolid/",
       "anadido": "2026-11-21"
+    },
+    {
+      "id": "2026-11-19-jack-jones-vallsur",
+      "titulo": "Apertura de Jack & Jones en Vallsur",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-11-19",
+      "lugar": "Centro Comercial Vallsur",
+      "descripcion": "Abre su mayor outlet de moda masculina de Castilla y León, con más de 500 m² y promoción de 3x2 en la inauguración.",
+      "url": "https://distribucionactualidad.com/jackjones-abre-mayor-outlet-castilla-leon-vallsur-valladolid/",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2027-01-30-espinete-no-existe-cervantes",
+      "titulo": "Espinete no existe (Eduardo Aldán)",
+      "categoria": "humor",
+      "fecha_inicio": "2027-01-30",
+      "hora": "20:30",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Monólogo de humor de Eduardo Aldán sobre la nostalgia de la infancia.",
+      "precio": "18 €",
+      "url": "https://www.teatrocervantesva.es/",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-11-28-belako-desierto-rojo",
+      "titulo": "Belako en el Desierto Rojo",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-28",
+      "hora": "20:30",
+      "lugar": "El Desierto Rojo",
+      "descripcion": "Concierto de Belako dentro del ciclo Directos Vibra Mahou 2026.",
+      "precio": "16,50 €",
+      "url": "https://conciertos.club/artistas/belako",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-21-duende-por-navidad-plaza-mayor",
+      "titulo": "Duende por Navidad",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-21",
+      "hora": "19:00",
+      "lugar": "Plaza Mayor",
+      "descripcion": "Actuación navideña en la Plaza Mayor dentro del programa Valladolid es Navidad.",
+      "precio": "Gratis",
+      "url": "https://www.valladolidplural.com/valladolid/concierto-villancicos-barrocos-coros-infantiles-experiencias-inmersivas-vivir-navidad-valladolid/20261119183750074363.html",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-23-zagalejos-villancicos",
+      "titulo": "Villancicos de la Asociación Cultural Zagalejos",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-23",
+      "hora": "20:00",
+      "lugar": "Centro (desfile desde la Plaza del Salvador)",
+      "descripcion": "Desfile y villancicos tradicionales de Zagalejos en el centro de la ciudad.",
+      "precio": "Gratis",
+      "url": "https://www.diariodevalladolid.es/valladolid/261119/288358/asi-navidad-valladolid-pregon-videomapping-cabalgatas.html",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-26-tuna-derecho-plaza-mayor",
+      "titulo": "Recital de la Tuna de Derecho",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-26",
+      "lugar": "Plaza Mayor",
+      "descripcion": "Recital navideño de la Tuna de Derecho en la programación municipal de Navidad.",
+      "precio": "Gratis",
+      "url": "https://www.cope.es/emisoras/castilla-y-leon/valladolid-provincia/valladolid/noticias/valladolid-despliega-programa-navidad-videomapping-conciertos-inmersivos-actividades-todos-20261119_3478304.html",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-06-zumbaton-benefico-cupula",
+      "titulo": "Zumbatón benéfico",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-06",
+      "lugar": "Cúpula del Milenio",
+      "descripcion": "Sesión solidaria de zumba a favor de la Asociación Española de Cáncer de Mama Metastásico.",
+      "url": "https://www.tribunavalladolid.com/noticias/467244/valladolid-despliega-mas-de-un-mes-de-actividades-para-celebrar-la-navidad",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-22-belen-reyes-magos-francesas",
+      "titulo": "Belén y «El secreto mágico de los Reyes Magos»",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-22",
+      "fecha_fin": "2027-01-04",
+      "lugar": "Sala Municipal de Exposiciones Las Francesas",
+      "descripcion": "Belén «Navidad en Castilla y León» y propuesta familiar sobre los Reyes Magos.",
+      "precio": "Gratis",
+      "url": "https://www.lavozdemedinadigital.com/2026/11/valladolid-presenta-su-navidad-2026-con-cabalgatas-conciertos-belenes-y-espectaculos-de-luces/",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-01-retorno-a-las-leyendas-zona-sur",
+      "titulo": "Exposición «Retorno a las leyendas»",
+      "categoria": "exposiciones",
+      "fecha_inicio": "2026-12-01",
+      "fecha_fin": "2026-12-16",
+      "lugar": "Centro Cívico Zona Sur",
+      "descripcion": "Muestra de dibujo a lápiz de temática legendaria.",
+      "precio": "Gratis",
+      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-zona-sur/actividades",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-05-uemc-tres-cantos",
+      "titulo": "UEMC Valladolid - CB Tres Cantos",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-05",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Jornada 10 de Segunda FEB en casa del UEMC Valladolid.",
+      "url": "https://cbcvalladolid.com/",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-16-copa-espana-uemc-cantabria",
+      "titulo": "Copa de España: UEMC Valladolid - Grupo Alega Cantabria",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-16",
+      "hora": "20:30",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Cuartos de final de la Copa de España de baloncesto.",
+      "url": "https://www.tribunavalladolid.com/noticias/467422/el-uemc-valladolid-busca-cerrar-la-semana-con-otro-triunfo-ante-el-ponferrada",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-19-uemc-moron",
+      "titulo": "UEMC Valladolid - CB Starlabs Morón",
+      "categoria": "deporte",
+      "fecha_inicio": "2026-12-19",
+      "lugar": "Polideportivo Pisuerga",
+      "descripcion": "Jornada 12 de Segunda FEB en casa del UEMC Valladolid.",
+      "url": "https://cbcvalladolid.com/",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-11-bernaldez-latin-jazz-cervantes",
+      "titulo": "Bernáldez Latin Jazz Orchestra",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-11",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Concierto de big band de jazz latino.",
+      "precio": "16 €",
+      "url": "https://conciertos.club/valladolid/locales/teatro-cervantes-de-valladolid",
+      "anadido": "2026-11-22"
+    },
+    {
+      "id": "2026-12-22-zambomba-flamenca-cervantes",
+      "titulo": "Zambomba flamenca con Remedios Reyes",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-12-22",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Zambomba navideña dentro del ciclo Flamenco con Duende.",
+      "url": "https://www.guiaflama.com/lugares/teatro-cervantes-3/",
+      "anadido": "2026-11-22"
     }
   ]
 }
