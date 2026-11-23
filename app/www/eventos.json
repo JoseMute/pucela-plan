@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T07:30:00+01:00",
+  "actualizado": "2026-11-23T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -52,27 +52,6 @@
       "descripcion": "170 actividades gratis para jóvenes: paintball, escape rooms, realidad virtual, rutas de fantasmas, subida a la torre de la catedral, planetario, talleres de DJ y fotografía. Inscripción en vallanoche.es.",
       "precio": "Gratis",
       "url": "https://www.valladolidplural.com/valladolid/plan-otono-valladolid-prepara-170-actividades-gratis-jovenes-novedades-deporte-ocio-digital/20260930142710073118.html",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-14-teatro-infantil-calderon",
-      "titulo": "Teatro infantil en el Calderón",
-      "categoria": "familia",
-      "fecha_inicio": "2026-11-14",
-      "fecha_fin": "2026-11-15",
-      "lugar": "Teatro Calderón (Sala Delibes y El Desván)",
-      "descripcion": "Fin de semana familiar: «En la casita Klimt», «La cigarra y la hormiga, de tela y cartón», «Tip Tap Top» y «¿Quién soy? De oruga a mariposa».",
-      "url": "https://tcalderon.com/",
-      "anadido": "2026-10-01"
-    },
-    {
-      "id": "2026-11-15-real-valladolid-castellon",
-      "titulo": "Real Valladolid – Castellón",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-15",
-      "lugar": "Estadio José Zorrilla",
-      "descripcion": "Jornada 14 de LaLiga Hypermotion. Día y hora pendientes de confirmar.",
-      "url": "https://www.tribunavalladolid.com/noticias/450473/consulta-el-calendario-completo-del-real-valladolid-en-la-liga-hypermotion-2026-2027",
       "anadido": "2026-10-01"
     },
     {
@@ -420,29 +399,6 @@
       "anadido": "2026-10-18"
     },
     {
-      "id": "2026-11-13-intur-viajeros",
-      "titulo": "INTUR Viajeros · Feria Internacional del Turismo de Interior",
-      "categoria": "ferias",
-      "fecha_inicio": "2026-11-13",
-      "fecha_fin": "2026-11-15",
-      "hora": "10:30",
-      "lugar": "Feria de Valladolid",
-      "descripcion": "Jornadas abiertas al público de la feria de turismo de interior, con expositores de destinos, rutas y gastronomía. El jueves 12 es solo para profesionales.",
-      "url": "https://feriavalladolid.com/intur/",
-      "anadido": "2026-10-19"
-    },
-    {
-      "id": "2026-11-09-festival-humor-valladolid",
-      "titulo": "II Festival del Humor de Valladolid",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-09",
-      "fecha_fin": "2026-11-15",
-      "lugar": "Centros cívicos y teatros de Valladolid",
-      "descripcion": "Once espectáculos de humor con conciencia ambiental, ocho de ellos gratuitos en barrios, y funciones de pago con fines solidarios (incluye a Pica Pica).",
-      "url": "https://ociovalladolid.com/festival-humor-valladolid/",
-      "anadido": "2026-10-20"
-    },
-    {
       "id": "2026-11-14-expo-superheroes-museo-ciencia",
       "titulo": "Exposición sobre la ciencia de los superhéroes (Marvel y DC)",
       "categoria": "exposiciones",
@@ -496,16 +452,6 @@
       "descripcion": "Adaptación musical de la novela de María Dueñas, con la autora como asesora creativa, que cierra el año en el Calderón.",
       "url": "https://tcalderon.com/",
       "anadido": "2026-10-21"
-    },
-    {
-      "id": "2026-11-15-miki-dkai-zorrilla",
-      "titulo": "Miki Dkai: Hoy se lía",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-15",
-      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
-      "descripcion": "Show de humor y mentalismo de Miki Dkai en el Teatro Zorrilla.",
-      "url": "https://teatrozorrilla.vivaticket.es/",
-      "anadido": "2026-10-22"
     },
     {
       "id": "2026-11-20-gala-zarzuela-zorrilla",
@@ -593,18 +539,6 @@
       "precio": "3 € - 12 €",
       "url": "https://www.festivalesdeespana.com/festival/navival-parque-de-navidad-infantil-valladolid",
       "anadido": "2026-10-25"
-    },
-    {
-      "id": "2026-11-15-angel-martin-somos-monos",
-      "titulo": "Ángel Martín: Somos monos",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-15",
-      "hora": "18:00",
-      "lugar": "Centro Cultural Miguel Delibes, Sala Sinfónica",
-      "descripcion": "Nuevo espectáculo de monólogo del humorista Ángel Martín, para mayores de 14 años.",
-      "precio": "20-24 €",
-      "url": "https://planomato.com/es/valladolid/p/angel-martin-somos-monos-valladolid",
-      "anadido": "2026-10-26"
     },
     {
       "id": "2026-12-05-mikkey-dee-lava",
@@ -844,27 +778,6 @@
       "anadido": "2026-11-05"
     },
     {
-      "id": "2026-11-15-javier-perianes-delibes",
-      "titulo": "Recital de piano de Javier Perianes",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-15",
-      "lugar": "Centro Cultural Miguel Delibes (Sala de Cámara)",
-      "descripcion": "Javier Perianes ofrece un recital de piano dentro del ciclo de recitales y música de cámara 2026-27.",
-      "url": "https://cndm.inaem.gob.es/sites/default/files/2026-09/Programaci%C3%B3n%20PDF_Ciclo%20recitales%20y%20musica%20de%20c%C3%A1mara-26-27.pdf",
-      "anadido": "2026-11-07"
-    },
-    {
-      "id": "2026-11-09-encuentros-teveo-28",
-      "titulo": "28º Encuentros TeVeo",
-      "categoria": "familia",
-      "fecha_inicio": "2026-11-09",
-      "fecha_fin": "2026-11-15",
-      "lugar": "Teatro Calderón y otros espacios",
-      "descripcion": "Festival de artes escénicas para infancia y juventud con espectáculos para familias y jornadas profesionales.",
-      "url": "https://www.teveo.es/es/encuentrosteveo.html",
-      "anadido": "2026-11-07"
-    },
-    {
       "id": "2026-11-05-ribalta-museo-escultura",
       "titulo": "Los Ribalta y el naturalismo barroco en València",
       "categoria": "exposiciones",
@@ -920,18 +833,6 @@
       "precio": "desde 28 €",
       "url": "https://www.laganzua.net/conciertos/jeanette-arroyo-de-la-encomienda-1018099",
       "anadido": "2026-11-11"
-    },
-    {
-      "id": "2026-11-15-calabacin-errante-delicias",
-      "titulo": "La caja de los agujeros (El Calabacín Errante)",
-      "categoria": "familia",
-      "fecha_inicio": "2026-11-15",
-      "hora": "12:00",
-      "lugar": "Centro Cívico Delicias",
-      "descripcion": "Espectáculo infantil dentro del ciclo municipal Menudo fin de semana.",
-      "precio": "Gratis (invitación)",
-      "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-delicias/actividades",
-      "anadido": "2026-11-12"
     },
     {
       "id": "2026-11-21-henriko-parquesol",
@@ -1022,27 +923,6 @@
       "descripcion": "Proyección del clásico de Fritz Lang que cierra el ciclo de Filmoteca Seminci.",
       "url": "https://www.seminci.com/",
       "anadido": "2026-11-14"
-    },
-    {
-      "id": "2026-11-15-caperucita-roja-lava",
-      "titulo": "Caperucita Roja (o para quién es este pastel)",
-      "categoria": "familia",
-      "fecha_inicio": "2026-11-15",
-      "lugar": "LAVA",
-      "descripcion": "Función familiar sobre el cuento de Caperucita Roja.",
-      "url": "https://www.viralagenda.com/es/castilla-y-leon/valladolid",
-      "anadido": "2026-11-14"
-    },
-    {
-      "id": "2026-11-15-flamenco-arroyo",
-      "titulo": "Flamenco de empoderamiento femenino",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-15",
-      "lugar": "Casa de la Música y Teatro, Arroyo de la Encomienda",
-      "descripcion": "Espectáculo flamenco centrado en el empoderamiento femenino.",
-      "url": "https://vivetuciudad.es/mes?page=2",
-      "anadido": "2026-11-14",
-      "hora": "19:00"
     },
     {
       "id": "2026-12-22-maria-pelae-delibes",
@@ -1606,6 +1486,29 @@
       "descripcion": "Zambomba navideña dentro del ciclo Flamenco con Duende.",
       "url": "https://www.guiaflama.com/lugares/teatro-cervantes-3/",
       "anadido": "2026-11-22"
+    },
+    {
+      "id": "2027-01-29-7-minutos-calderon",
+      "titulo": "7 minutos",
+      "categoria": "escena",
+      "fecha_inicio": "2027-01-29",
+      "fecha_fin": "2027-01-31",
+      "hora": "19:30",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Montaje teatral de la temporada 2026/2027 del Calderón, incluido en los abonos; funciones de viernes a domingo.",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-11-23"
+    },
+    {
+      "id": "2027-01-22-extasis-desierto-rojo",
+      "titulo": "Éxtasis en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2027-01-22",
+      "hora": "21:00",
+      "lugar": "El Desierto Rojo",
+      "descripcion": "La banda Éxtasis llega a Valladolid con su gira; las entradas figuran agotadas.",
+      "url": "https://www.extasisband.com/event/concierto-extasis-valladolid-2027/",
+      "anadido": "2026-11-23"
     }
   ]
 }
