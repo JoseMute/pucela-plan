@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T07:20:00+01:00",
+  "actualizado": "2026-11-24T07:15:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -1509,6 +1509,49 @@
       "descripcion": "La banda Éxtasis llega a Valladolid con su gira; las entradas figuran agotadas.",
       "url": "https://www.extasisband.com/event/concierto-extasis-valladolid-2027/",
       "anadido": "2026-11-23"
+    },
+    {
+      "id": "2026-11-28-estrella-trajo-navidad-plaza-toros",
+      "titulo": "La Estrella que trajo la Navidad",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-28",
+      "fecha_fin": "2027-01-05",
+      "hora": "17:00",
+      "lugar": "Plaza de Toros de Valladolid",
+      "descripcion": "Espectáculo navideño para toda la familia en la Plaza de Toros, con sesiones desde el 28 de noviembre. Consulta la taquilla para sesiones y disponibilidad.",
+      "url": "https://www.taquilla.com/actividades/valladolid",
+      "anadido": "2026-11-24"
+    },
+    {
+      "id": "2026-11-28-duque-calderon",
+      "titulo": "Duque en concierto",
+      "categoria": "conciertos",
+      "fecha_inicio": "2026-11-28",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Concierto de pop-rock/indie de Duque en Valladolid. Conviene confirmar hora y entradas en la taquilla del teatro.",
+      "url": "https://conciertos.club/valladolid/conciertos/129965-duque",
+      "anadido": "2026-11-24"
+    },
+    {
+      "id": "2026-11-29-baul-magico-cervantes",
+      "titulo": "El Baúl Mágico · tributo a Disney",
+      "categoria": "familia",
+      "fecha_inicio": "2026-11-29",
+      "hora": "17:00",
+      "lugar": "Teatro Cervantes",
+      "descripcion": "Espectáculo familiar de homenaje a las canciones y personajes de Disney.",
+      "url": "https://quedava.com/eventos/",
+      "anadido": "2026-11-24"
+    },
+    {
+      "id": "2026-11-20-nautilus-reapertura",
+      "titulo": "Reapertura de Nautilus 3.0",
+      "categoria": "aperturas",
+      "fecha_inicio": "2026-11-20",
+      "lugar": "Calle Concha Velasco, 22",
+      "descripcion": "El histórico café bar de barrio cerca del Paseo de Zorrilla reabre con una nueva etapa.",
+      "url": "https://carterafresca.substack.com/p/cartera-fresca-n-47",
+      "anadido": "2026-11-24"
     }
   ]
 }
