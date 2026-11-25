@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T07:15:00+01:00",
+  "actualizado": "2026-11-25T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -883,16 +883,6 @@
       "anadido": "2026-11-12"
     },
     {
-      "id": "2026-11-17-vida-social-bacterias-casa-cervantes",
-      "titulo": "Charla: La vida social de las bacterias",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-11-17",
-      "lugar": "Museo Casa de Cervantes",
-      "descripcion": "Charla divulgativa sobre el comportamiento de las bacterias.",
-      "url": "https://vivetuciudad.es/mes?page=2",
-      "anadido": "2026-11-12"
-    },
-    {
       "id": "2026-12-03-oscyl-fischer-ibragimova",
       "titulo": "OSCyL: Fischer e Ibragimova (Vivaldi y Nielsen)",
       "categoria": "conciertos",
@@ -1552,6 +1542,27 @@
       "descripcion": "El histórico café bar de barrio cerca del Paseo de Zorrilla reabre con una nueva etapa.",
       "url": "https://carterafresca.substack.com/p/cartera-fresca-n-47",
       "anadido": "2026-11-24"
+    },
+    {
+      "id": "2026-12-26-cuento-navidad-calderon",
+      "titulo": "Cuento de Navidad",
+      "categoria": "escena",
+      "fecha_inicio": "2026-12-26",
+      "fecha_fin": "2026-12-27",
+      "lugar": "Teatro Calderón",
+      "descripcion": "Espectáculo navideño de la programación del Teatro Calderón para los días 26 y 27 de diciembre.",
+      "url": "https://www.lavozdemedinadigital.com/2026/11/valladolid-presenta-su-navidad-2026-con-cabalgatas-conciertos-belenes-y-espectaculos-de-luces/",
+      "anadido": "2026-11-25"
+    },
+    {
+      "id": "2027-01-11-corsario-ballet-kiev-calderon",
+      "titulo": "El Corsario · Ballet de Kiev",
+      "categoria": "escena",
+      "fecha_inicio": "2027-01-11",
+      "lugar": "Teatro Calderón",
+      "descripcion": "El Ballet de Kiev regresa con una segunda función, tras El Cascanueces del día 10.",
+      "url": "https://www.lavozdemedinadigital.com/2026/11/valladolid-presenta-su-navidad-2026-con-cabalgatas-conciertos-belenes-y-espectaculos-de-luces/",
+      "anadido": "2026-11-25"
     }
   ]
 }
