@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T07:30:00+01:00",
+  "actualizado": "2026-11-26T07:30:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -494,17 +494,6 @@
       "anadido": "2026-10-22"
     },
     {
-      "id": "2026-11-18-copa-espana-uemc-insolac",
-      "titulo": "UEMC Real Valladolid – Insolac Caja 87 (Copa España, octavos)",
-      "categoria": "deporte",
-      "fecha_inicio": "2026-11-18",
-      "hora": "20:30",
-      "lugar": "Polideportivo Pisuerga",
-      "descripcion": "Partido de octavos de final de la Copa España de baloncesto en Valladolid.",
-      "url": "https://www.eldiadevalladolid.com/noticia/z46411b9c-316a-485e-a0c87fb49f455663/202610/contra-insolac-caja-87-basket-en-los-octavos-de-la-copa-espana",
-      "anadido": "2026-10-22"
-    },
-    {
       "id": "2026-10-25-descubriendo-a-colon",
       "titulo": "Descubriendo a Colón · visita familiar",
       "categoria": "visitas",
@@ -868,18 +857,6 @@
       "descripcion": "Muestra de la artista Cristina Dueñas en el centro cívico.",
       "precio": "Gratis",
       "url": "https://www.valladolid.es/es/temas/donde-estamos/centro-civico-zona-sur/actividades",
-      "anadido": "2026-11-12"
-    },
-    {
-      "id": "2026-11-18-presentacion-vikingo-casa-zorrilla",
-      "titulo": "Presentación: Hay un vikingo enterrado en mi pueblo",
-      "categoria": "charlas",
-      "fecha_inicio": "2026-11-18",
-      "hora": "19:30",
-      "lugar": "Casa de Zorrilla",
-      "descripcion": "Presentación literaria de esta obra en la Casa de Zorrilla.",
-      "precio": "Gratis",
-      "url": "https://vivetuciudad.es/mes?page=2",
       "anadido": "2026-11-12"
     },
     {
@@ -1563,6 +1540,53 @@
       "descripcion": "El Ballet de Kiev regresa con una segunda función, tras El Cascanueces del día 10.",
       "url": "https://www.lavozdemedinadigital.com/2026/11/valladolid-presenta-su-navidad-2026-con-cabalgatas-conciertos-belenes-y-espectaculos-de-luces/",
       "anadido": "2026-11-25"
+    },
+    {
+      "id": "2027-01-23-kase-o-pisuerga",
+      "titulo": "Kase.O – gira Camisa de Fuerza",
+      "categoria": "conciertos",
+      "fecha_inicio": "2027-01-23",
+      "hora": "21:00",
+      "lugar": "Pabellón Pisuerga",
+      "descripcion": "El rapero zaragozano Kase.O presenta su gira Camisa de Fuerza en el Pabellón Pisuerga.",
+      "precio": "desde 41 €",
+      "url": "https://www.laganzua.net/conciertos/kase-o-valladolid-1017152",
+      "anadido": "2026-11-26"
+    },
+    {
+      "id": "2027-01-16-elefantes-carrion",
+      "titulo": "Elefantes – gira Para Todos",
+      "categoria": "conciertos",
+      "fecha_inicio": "2027-01-16",
+      "hora": "21:00",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Concierto de Elefantes dentro de su gira Para Todos, en el Teatro Carrión.",
+      "precio": "desde 28,10 €",
+      "url": "https://www.laganzua.net/conciertos/elefantes-valladolid-1016656",
+      "anadido": "2026-11-26"
+    },
+    {
+      "id": "2027-01-09-bella-bestia-musical-carrion",
+      "titulo": "La Bella y la Bestia, el musical",
+      "categoria": "familia",
+      "fecha_inicio": "2027-01-09",
+      "fecha_fin": "2027-01-10",
+      "lugar": "Teatro Carrión",
+      "descripcion": "Versión musical del clásico Disney en el Teatro Carrión, con funciones el 9 y el 10 de enero.",
+      "precio": "desde 27 €",
+      "url": "https://www.taquilla.com/valladolid/teatro-carrion-valladolid",
+      "anadido": "2026-11-26"
+    },
+    {
+      "id": "2026-12-18-campajuvas-cupula",
+      "titulo": "Campajuvas 2026",
+      "categoria": "fiestas",
+      "fecha_inicio": "2026-12-18",
+      "hora": "19:00",
+      "lugar": "Cúpula del Milenio",
+      "descripcion": "Fiesta juvenil inclusiva y solidaria con DJ y actuaciones, de 19:00 a 22:00.",
+      "url": "https://ociovalladolid.com/navidad-valladolid-programa/",
+      "anadido": "2026-11-26"
     }
   ]
 }
