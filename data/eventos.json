@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T07:30:00+01:00",
+  "actualizado": "2026-11-27T07:20:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -1587,6 +1587,28 @@
       "descripcion": "Fiesta juvenil inclusiva y solidaria con DJ y actuaciones, de 19:00 a 22:00.",
       "url": "https://ociovalladolid.com/navidad-valladolid-programa/",
       "anadido": "2026-11-26"
+    },
+    {
+      "id": "2026-12-02-jornadas-jovenes-poetas-circulo-recreo",
+      "titulo": "Jornadas Jóvenes y Poetas",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-12-02",
+      "fecha_fin": "2026-12-03",
+      "lugar": "Círculo de Recreo, Valladolid",
+      "descripcion": "Dos jornadas literarias con encuentros de poesía y nuevas voces; el jueves 3 a las 18:00 se presenta 'El habla de los ausentes', de Eva Tabares.",
+      "precio": "Gratis hasta completar aforo",
+      "url": "https://www.tribunavalladolid.com/noticias/468043/valladolid-reune-a-las-nuevas-voces-de-la-poesia-espanola-en-dos-jornadas-literarias-gratuitas",
+      "anadido": "2026-11-27"
+    },
+    {
+      "id": "2026-12-26-prestame-tu-navidad-arroyo",
+      "titulo": "Préstame tu Navidad (La Espiral Mágica)",
+      "categoria": "familia",
+      "fecha_inicio": "2026-12-26",
+      "lugar": "Casa de la música y el teatro, C/ Dulzaina 2, Arroyo de la Encomienda",
+      "descripcion": "Musical familiar navideño: una niña de otro planeta, fascinada por la Navidad terrestre, emprende una aventura espacial para crear la suya.",
+      "url": "https://www.turismocastillayleon.com/es/servicios/agenda-cultural/prestame-navidad-espiral-magica",
+      "anadido": "2026-11-27"
     }
   ]
 }
