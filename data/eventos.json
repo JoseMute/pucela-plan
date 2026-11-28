@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T07:20:00+01:00",
+  "actualizado": "2026-11-28T07:09:00+01:00",
   "eventos": [
     {
       "id": "2026-11-21-belen-aguilera",
@@ -184,17 +184,6 @@
       "lugar": "Teatro Calderón",
       "descripcion": "Concierto homenaje al músico y etnógrafo Joaquín Díaz.",
       "url": "https://tcalderon.com/temporada/",
-      "anadido": "2026-10-06"
-    },
-    {
-      "id": "2026-11-20-lago-carrion",
-      "titulo": "Miguel Lago",
-      "categoria": "humor",
-      "fecha_inicio": "2026-11-20",
-      "hora": "20:30",
-      "lugar": "Teatro Carrión",
-      "descripcion": "Espectáculo de humor del cómico Miguel Lago en el Teatro Carrión.",
-      "url": "https://teatrocarrion.com/",
       "anadido": "2026-10-06"
     },
     {
@@ -452,16 +441,6 @@
       "descripcion": "Adaptación musical de la novela de María Dueñas, con la autora como asesora creativa, que cierra el año en el Calderón.",
       "url": "https://tcalderon.com/",
       "anadido": "2026-10-21"
-    },
-    {
-      "id": "2026-11-20-gala-zarzuela-zorrilla",
-      "titulo": "Gala de Zarzuela 70 Aniversario: Veredicto Gaudí",
-      "categoria": "escena",
-      "fecha_inicio": "2026-11-20",
-      "lugar": "Teatro Zorrilla, Plaza Mayor 9",
-      "descripcion": "Gala lírica de zarzuela por el 70 aniversario, en el Teatro Zorrilla.",
-      "url": "https://teatrozorrilla.vivaticket.es/",
-      "anadido": "2026-10-22"
     },
     {
       "id": "2026-11-22-catherine-russell-zorrilla",
@@ -776,18 +755,6 @@
       "descripcion": "Muestra sobre Francisco y Juan Ribalta, con obras del Museo de Bellas Artes de Valencia, tras su paso por Málaga.",
       "url": "https://www.culturaydeporte.gob.es/mnescultura/",
       "anadido": "2026-11-07"
-    },
-    {
-      "id": "2026-11-20-neverland-bari-cientocero",
-      "titulo": "Neverland Bari en concierto",
-      "categoria": "conciertos",
-      "fecha_inicio": "2026-11-20",
-      "hora": "20:30",
-      "lugar": "Sala Cientocero, calle Gamazo 17",
-      "descripcion": "La banda de pop-rock indie Neverland Bari presenta su gira en la sala Cientocero de Valladolid.",
-      "precio": "desde 18 €",
-      "url": "https://www.taquilla.com/valladolid/sala-cientocero-valladolid",
-      "anadido": "2026-11-09"
     },
     {
       "id": "2026-10-30-expo-200-anos-policia-municipal",
@@ -1609,6 +1576,30 @@
       "descripcion": "Musical familiar navideño: una niña de otro planeta, fascinada por la Navidad terrestre, emprende una aventura espacial para crear la suya.",
       "url": "https://www.turismocastillayleon.com/es/servicios/agenda-cultural/prestame-navidad-espiral-magica",
       "anadido": "2026-11-27"
+    },
+    {
+      "id": "2027-01-23-afanador-ballet-nacional-calderon",
+      "titulo": "Afanador – Ballet Nacional de España",
+      "categoria": "escena",
+      "fecha_inicio": "2027-01-23",
+      "hora": "19:30",
+      "lugar": "Teatro Calderón",
+      "descripcion": "El Ballet Nacional de España, dirigido por Rubén del Olmo, trae su premiado espectáculo de flamenco y danza a Valladolid dentro de la temporada del Calderón.",
+      "precio": "70-170 €",
+      "url": "https://tcalderon.com/",
+      "anadido": "2026-11-28"
+    },
+    {
+      "id": "2026-12-17-protagonistas-controversia-palacio-real",
+      "titulo": "Conferencia: Los protagonistas de la Controversia de Valladolid",
+      "categoria": "charlas",
+      "fecha_inicio": "2026-12-17",
+      "hora": "19:30",
+      "lugar": "Palacio Real de Valladolid",
+      "descripcion": "Félix Javier Martínez cierra el ciclo 'El Palacio Real a través de sus protagonistas' con una charla sobre la Controversia de Valladolid.",
+      "precio": "Gratis",
+      "url": "https://cultura.valladolid.es/eventos/conferencia-los-protagonistas-de-la-controversia-de-valladolid",
+      "anadido": "2026-11-28"
     }
   ]
 }
